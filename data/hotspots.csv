@@ -1,0 +1,170 @@
+rank,lat,lon,awards,place_names,conflicts,first_year,last_year
+1,50.82138889,2.93166667,40,Passchendaele; Ypres; Messines; Zonnebeke,First World War 40,1914,1918
+2,50.0278,2.8099,38,Somme; Pozières; Péronne; Bapaume,First World War 38,1916,1918
+3,26.85,80.95,37,Lucknow; Chinhut,Indian Mutiny 37,1857,1858
+4,44.51118,33.59942,28,Sevastopol; Inkerman; Sebastopol; Balaklava,Crimean War 28,1854,1855
+5,28.61,77.23,24,Delhi,Indian Mutiny 24,1857,1857
+6,50.4583,2.79417,18,Lens; Festubert; Givenchy; Vimy Ridge,First World War 18,1914,1917
+7,50.17692,3.11425,17,Cambrai; Bourlon Wood; Canal du Nord; Cambrai/Marcoing,First World War 16; Second World War 1,1916,1944
+8,40.40836,26.67174,15,Gallipoli,First World War 15,1915,1915
+9,-28.356388888,30.6525,10,Rorke's Drift; Isandlwana; Isandhlwana South Africa,"Other campaigns, 1856 to 1913 10",1879,1879
+10,38.97486111,117.71216667,5,Taku Forts,"Other campaigns, 1856 to 1913 5",1860,1860
+11,50.0083,3.1293,4,St. Quentin Canal; Ronssoy; Villers Outreaux; Épehy,First World War 4,1917,1918
+12,-28.73416667,29.8225,4,Colenso,"Other campaigns, 1856 to 1913 4",1899,1899
+13,25.44862,78.56962,4,Jhansi,Indian Mutiny 4,1858,1858
+14,10.65,92.49,4,Little Andaman,"Other campaigns, 1856 to 1913 4",1867,1867
+15,49.86844,2.51688,4,Villers-Bretonneux,First World War 4,1918,1918
+16,50.292,2.78,3,Arras,First World War 3,1918,1918
+17,44.831036,33.668879,3,Alma,Crimean War 3,1854,1855
+18,49.892,2.299,3,Amiens,First World War 3,1918,1918
+19,25.55138889,84.66027778,3,Arrah,Indian Mutiny 3,1857,1857
+20,24.62972528,93.75938417,3,Bishenpur; Ningthoukhong,Second World War 3,1944,1944
+21,28.40694444,77.84972222,3,Bulandshahr,Indian Mutiny 3,1857,1857
+22,34.39861111,69.1675,3,Kabul; Charasiah,"Other campaigns, 1856 to 1913 3",1879,1879
+23,-26.09548,29.4608,3,Komati River,"Other campaigns, 1856 to 1913 3",1900,1900
+24,-37.68333333,176.16666667,3,Tauranga,"Other campaigns, 1856 to 1913 3",1864,1864
+25,-28.31666667,31.41666667,3,Ulundi,"Other campaigns, 1856 to 1913 3",1879,1879
+26,19.5,94,2,Arakan; Donbaik,Second World War 2,1943,1944
+27,51.98027778,5.90027778,2,Arnhem,Second World War 2,1944,1944
+28,26.068,83.184,2,Azumgurh,Indian Mutiny 2,1858,1858
+29,-27.698889,30.95,2,Hlobane; Inhlobana,"Other campaigns, 1856 to 1913 2",1879,1879
+30,56.7,5.9,2,Jutland,First World War 2,1916,1916
+31,25.31888889,83.01277778,2,Benares,Indian Mutiny 2,1857,1857
+32,-20.17,28.58,2,Bulawayo; Umguza,"Other campaigns, 1856 to 1913 2",1896,1896
+33,49.925,1.075,2,Dieppe,Second World War 2,1942,1942
+34,30.83007,28.95502,2,El Alamein,Second World War 2,1942,1942
+35,-26.26722222,28.12194444,2,Elandsfontein,"Other campaigns, 1856 to 1913 2",1881,1881
+36,-28.42388889,29.97805556,2,Elandslaagte,"Other campaigns, 1856 to 1913 2",1899,1899
+37,44.46666667,11.96666667,2,Fusignano; Senio River,Second World War 2,1945,1945
+38,26.2125,78.1775,2,Gwalior,Indian Mutiny 2,1858,1858
+39,-28.55972222,29.78055556,2,Ladysmith,"Other campaigns, 1856 to 1913 2",1900,1900
+40,-25.86522,25.64421,2,Mafeking,"Other campaigns, 1856 to 1913 2",1899,1899
+41,11.34638889,39.18138889,2,Magdala,"Other campaigns, 1856 to 1913 2",1868,1868
+42,20.88333333,95.88333333,2,Meiktila,Second World War 2,1945,1945
+43,-30.27861111,27.87222222,2,Morosi's Mountain,"Other campaigns, 1856 to 1913 2",1879,1879
+44,36.15,74.25,2,Nilt Fort,"Other campaigns, 1856 to 1913 2",1891,1891
+45,15.75194444,32.52,2,Omdurman,"Other campaigns, 1856 to 1913 2",1898,1898
+46,32.07611111,23.96138889,2,Tobruk,Second World War 2,1941,1941
+47,60.25,20.36666667,2,Åland,Crimean War 2,1854,1854
+48,50.1296,2.6655,1,Rossignol Wood,First World War 1,1918,1918
+49,50.6283,2.7719,1,Fauquissart,First World War 1,1915,1915
+50,27.179542,78.021101,1,Agra,Indian Mutiny 1,1857,1857
+51,51.0674,5.1907,1,Albert Canal,Second World War 1,1940,1940
+52,31.83333333,47.15,1,Amarah,Since 1945 1,2004,2004
+53,26.155,81.809,1,Amethi,Indian Mutiny 1,1858,1858
+54,52.37277778,4.89361111,1,Amsterdam,Second World War 1,1943,1943
+55,48.36888889,10.89777778,1,Augsburg,Second World War 1,1942,1942
+56,1.294138888,110.080166666,1,Bau,Since 1945 1,1965,1965
+57,25.668,94.103,1,Kohima,Second World War 1,1944,1944
+58,-51.67,-57.980833333,1,Mount Longdon,Since 1945 1,1982,1982
+59,45.95583333,12.34694444,1,Vittorio Veneto,First World War 1,1918,1918
+60,40.21944444,18.92555556,1,Strait of Otranto,First World War 1,1917,1917
+61,5.3473,115.7455,1,Beaufort,Second World War 1,1945,1945
+62,14.68861111,107.66111111,1,Ben Het,Since 1945 1,1969,1969
+63,53.07583333,8.80722222,1,Bremen,Second World War 1,1941,1941
+64,28.92638889,50.85138889,1,Bushire,"Other campaigns, 1856 to 1913 1",1856,1856
+65,26.12,79.73,1,Calpee,Indian Mutiny 1,1858,1858
+66,-37.259,174.88,1,Cameron Town,"Other campaigns, 1856 to 1913 1",1863,1863
+67,26.449923,80.331874,1,Cawnpore,Indian Mutiny 1,1857,1857
+68,22.5,93.5,1,Chin Hills,Second World War 1,1943,1943
+69,35.84611111,71.78583333,1,Chitral Fort,"Other campaigns, 1856 to 1913 1",1895,1895
+70,24.20451,84.87704,1,Chota Behar,Indian Mutiny 1,1857,1857
+71,24.72,78.13,1,Chundairee,Indian Mutiny 1,1858,1858
+72,7.31667,38.08333,1,Colito,Second World War 1,1941,1941
+73,44.7,12.18333333,1,Comacchio,Second World War 1,1945,1945
+74,35.21,24.91,1,Crete,Second World War 1,1941,1941
+75,49.6089,2.0789,1,Crèvecœur,First World War 1,1918,1918
+76,45.78333333,-72.01666667,1,Danville,"Other campaigns, 1856 to 1913 1",1866,1866
+77,33.2208,44.5064,1,Dialah River,First World War 1,1917,1917
+78,52.28194444,7.54194444,1,Dortmund-Ems Canal,Second World War 1,1945,1945
+79,51.0383,2.3775,1,Dunkirk,Second World War 1,1940,1940
+80,63.07337,40.33285,1,Emtsa,Between the wars 1,1919,1919
+81,50.2,3.73333333,1,Forêt de Mormal,First World War 1,1918,1918
+82,25.93,80.8,1,Futtehpore,Indian Mutiny 1,1857,1857
+83,41.4098,13.8627,1,Gari River,Second World War 1,1944,1944
+84,49.3572,3.8369,1,Guyencourt,First World War 1,1917,1917
+85,28.9148,89.6045,1,Gyantse Jong,"Other campaigns, 1856 to 1913 1",1904,1904
+86,16.52539,107.4755,1,Huong Tra,Since 1945 1,1967,1967
+87,24.8074,93.9384,1,Imphal,Second World War 1,1944,1944
+88,22.71861111,75.855,1,Indore,Indian Mutiny 1,1857,1857
+89,-8.986222222,147.735555555,1,Isurava,Second World War 1,1942,1942
+90,32.9425,73.72555556,1,Jhelum,Indian Mutiny 1,1857,1857
+91,1.44666667,103.75361111,1,Johore Straits,Second World War 1,1945,1945
+92,20.1,92.9025,1,Kaladan Valley,Second World War 1,1944,1944
+93,37.03777778,22.11111111,1,Kalamai,Second World War 1,1941,1941
+94,31.62,65.71583333,1,Kandahar,"Other campaigns, 1856 to 1913 1",1880,1880
+95,22,71,1,Kathiawar,Indian Mutiny 1,1859,1859
+96,23.3175,93.76166667,1,Kennedy Peak,Second World War 1,1944,1944
+97,15.77777778,38.45805556,1,Keren,Second World War 1,1941,1941
+98,27.60287,62.71023,1,Khushab,"Other campaigns, 1856 to 1913 1",1857,1857
+99,16.69166667,74.23333333,1,Kolapore,Indian Mutiny 1,1857,1857
+100,-32.57704,27.892,1,Komgha,"Other campaigns, 1856 to 1913 1",1877,1877
+101,-29.15722222,26.53555556,1,Korn Spruit,"Other campaigns, 1856 to 1913 1",1900,1900
+102,59.99083333,29.77472222,1,Kronstadt,Between the wars 1,1919,1919
+103,3.81666667,103.33333333,1,Kuantan,Second World War 1,1942,1942
+104,49.0931,-0.8569,1,La Vacquerie,First World War 1,1917,1917
+105,-27.46083333,29.86944444,1,Laing's Nek,"Other campaigns, 1856 to 1913 1",1881,1881
+106,41.1,22.55,1,Macukovo,First World War 1,1916,1916
+107,31.73333333,65.13333333,1,Maiwand,"Other campaigns, 1856 to 1913 1",1880,1880
+108,34.56561,71.93043,1,Malakand,"Other campaigns, 1856 to 1913 1",1897,1897
+109,-37.9805,175.1944,1,Mangapiko River,"Other campaigns, 1856 to 1913 1",1864,1864
+110,20.81666667,92.36666667,1,Maungdaw–Buthidaung Road,Second World War 1,1944,1944
+111,-6.02,155.1,1,Mawaraka,Second World War 1,1944,1944
+112,12.96666667,36.2,1,Metemma,Second World War 1,1941,1941
+113,-10.4,150.55,1,Milne Bay,Second World War 1,1942,1942
+114,25.30138889,96.94166667,1,Mogaung,Second World War 1,1944,1944
+115,49.29042,2.46739,1,Monchy,First World War 1,1918,1918
+116,50.4547,3.9525,1,Mons,First World War 1,1914,1914
+117,43.86666667,12.68333333,1,Monte Gidolfo,Second World War 1,1944,1944
+118,43.92047972,12.89543183,1,Monte San Bartolo,Second World War 1,1944,1944
+119,-25.68333333,30.01666667,1,Monument Hill,"Other campaigns, 1856 to 1913 1",1901,1901
+120,2.05,102.56666667,1,Muar River,Second World War 1,1942,1942
+121,21.46,95.38833333,1,Myingyan,Second World War 1,1945,1945
+122,-31.18333333,24.95,1,Naauwpoort,"Other campaigns, 1856 to 1913 1",1901,1901
+123,28.04444444,76.10555556,1,Narnaul,Indian Mutiny 1,1857,1857
+124,68.42055556,17.56,1,Narvik,Second World War 1,1940,1940
+125,24.46187389,74.87201694,1,Neemuch,Indian Mutiny 1,1857,1857
+126,49.2822,2.7792,1,Néry,First World War 1,1914,1914
+127,6.2,-1.68333333,1,Obassa,"Other campaigns, 1856 to 1913 1",1900,1900
+128,38.4466,141.44794,1,Onagawa Bay,Second World War 1,1945,1945
+129,26.55,80.49,1,Oonao,Indian Mutiny 1,1857,1857
+130,35.69694444,-0.63305556,1,Oran,Second World War 1,1942,1942
+131,51.22583333,2.91944444,1,Ostend,First World War 1,1918,1918
+132,4.6,101.06666667,1,Perak,"Other campaigns, 1856 to 1913 1",1875,1875
+133,48.895,8.705,1,Pforzheim,Second World War 1,1945,1945
+134,30.1958,67.0172,1,Quetta,"Other campaigns, 1856 to 1913 1",1877,1877
+135,-37.429,175.132,1,Rangiriri,"Other campaigns, 1856 to 1913 1",1863,1863
+136,48.166666666,7.55,1,Rhine,Second World War 1,1945,1945
+137,33.1875,35.61944444,1,River Jordan,First World War 1,1918,1918
+138,41.53333,13.65,1,River Melfa,Second World War 1,1944,1944
+139,44.31139,12.29472,1,River Savio,Second World War 1,1944,1944
+140,47.27361111,-2.21388889,1,Saint-Nazaire,Second World War 1,1942,1942
+141,-17.82916667,31.05222222,1,Salisbury,"Other campaigns, 1856 to 1913 1",1896,1896
+142,43.93333333,12.43333333,1,San Marino,Second World War 1,1944,1944
+143,27.06944444,80.51416667,1,Sandila,Indian Mutiny 1,1858,1858
+144,32.07333333,64.83388889,1,Sangin,Since 1945 1,2006,2006
+145,-6.486388888,147.766666666,1,Sattelberg,Second World War 1,1943,1943
+146,32.52154,67.41315,1,Shahjui,"Other campaigns, 1856 to 1913 1",1879,1879
+147,30.4,47.633333,1,Shaiba,First World War 1,1915,1915
+148,33.95777778,130.94138889,1,Shimonoseki,"Other campaigns, 1856 to 1913 1",1864,1864
+149,19.85,93.78333333,1,Snowdon East,Second World War 1,1945,1945
+150,51,1.5,1,Straits of Dover,Second World War 1,1942,1942
+151,-29.93333333,23.66666667,1,Strijdenburg,"Other campaigns, 1856 to 1913 1",1901,1901
+152,26.25833333,82.07222222,1,Sultanpore,Indian Mutiny 1,1858,1858
+153,3.3,117.63333333,1,Tarakan Island,Second World War 1,1945,1945
+154,24.4,94.68333333,1,Taungdaw,Second World War 1,1945,1945
+155,36.83333333,9.83333333,1,Tebourba,Second World War 1,1942,1942
+156,31.383062,34.86614,1,Tel-el-Khuweilfeh,First World War 1,1917,1917
+157,13.43333,-15.58333,1,Toniataba,"Other campaigns, 1856 to 1913 1",1892,1892
+158,50.60555556,3.38805556,1,Tournai,Second World War 1,1940,1940
+159,15.25569,108.51722,1,Tra Bong,Since 1945 1,1965,1965
+160,45.07049,7.68682,1,Turin,Second World War 1,1942,1942
+161,-25.34604,28.83431,1,Tweefontein,"Other campaigns, 1856 to 1913 1",1881,1881
+162,50.35909,3.52506,1,Valenciennes,First World War 1,1918,1918
+163,-25.58,30.19,1,Vlakfontein,"Other campaigns, 1856 to 1913 1",1901,1901
+164,-27.00805,27.3646,1,Vredefort,"Other campaigns, 1856 to 1913 1",1900,1900
+165,60.71666667,28.76666667,1,Vyborg,Crimean War 1,1855,1855
+166,32.628771094,46.186316829,1,Wadi,First World War 1,1916,1916
+167,-27.35493,30.14384,1,Wakkerstroom,"Other campaigns, 1856 to 1913 1",1900,1900
+168,49.7806,2.6878,1,Warvillers,First World War 1,1918,1918
+169,-3.55,143.63333333,1,Wewak,Second World War 1,1945,1945

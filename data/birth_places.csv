@@ -1,0 +1,967 @@
+birthplace,wikidata,lat,lon,country,gb_county,recipients
+London,Q84,51.50722,-0.1275,Great Britain,Greater London,25
+Edinburgh,Q23436,55.95333,-3.18917,Great Britain,City of Edinburgh,20
+Glasgow,Q4093,55.86111,-4.25,Great Britain,Glasgow City,17
+Dublin,Q1761,53.34972,-6.26028,Ireland,,16
+Liverpool,Q24826,53.40722,-2.99167,Great Britain,Merseyside,14
+Leeds,Q39121,53.7975,-1.54361,Great Britain,West Yorkshire,11
+Cork,Q36647,51.9,-8.47306,Ireland,,11
+Birmingham,Q2256,52.48,-1.9025,Great Britain,West Midlands,10
+Kensington,Q288781,51.5004,-0.1909,Great Britain,Greater London,8
+Kolkata,Q1348,22.5675,88.37,India,,8
+Nepal,Q837,28.0,84.0,Nepal,,7
+Manchester,Q18125,53.47944,-2.24528,Great Britain,Greater Manchester,6
+Cheltenham,Q206988,51.89652,-2.07843,Great Britain,Gloucestershire,5
+Plymouth,Q43382,50.37139,-4.14222,Great Britain,Devon,5
+Bristol,Q23154,51.45361,-2.5975,Great Britain,Bristol,5
+Westminster,Q189960,51.4995,-0.1333,Great Britain,Greater London,5
+Inverness,Q160493,57.48389,-4.22583,Great Britain,Highland,5
+Sheffield,Q42448,53.38083,-1.47028,Great Britain,South Yorkshire,4
+Kanpur,Q66568,26.4725,80.33111,India,,4
+Brighton,Q131491,50.82083,-0.1375,Great Britain,East Sussex,4
+Enniskillen,Q990109,54.34472,-7.63889,Northern Ireland,,4
+Sydney,Q3130,-33.86778,151.21,Australia,,4
+Streatham,Q146667,51.4279,-0.1235,Great Britain,Greater London,4
+Winnipeg,Q2135,49.89556,-97.13861,Canada,,4
+Blackburn,Q188313,53.7449,-2.4769,Great Britain,Lancashire,4
+Marylebone,Q123634,51.5177,-0.147,Great Britain,Greater London,4
+Paisley,Q211870,55.84556,-4.42389,Great Britain,Renfrewshire,4
+Islington,Q125163,51.544,-0.1027,Great Britain,Greater London,4
+Portsmouth,Q72259,50.80583,-1.08722,Great Britain,Hampshire,4
+Chennai,Q1352,13.0825,80.275,India,,4
+Southport,Q868647,53.64694,-3.00806,Great Britain,Merseyside,3
+presidencies and provinces in British India,Q2385925,28.6139,77.20901,India,,3
+Q22905,Q22905,53.79444,-1.75194,Great Britain,West Yorkshire,3
+Kilkenny,Q109092,52.65056,-7.25139,Ireland,,3
+Woolwich,Q1006232,51.49167,0.06667,Great Britain,Greater London,3
+Harrogate,Q215829,53.99194,-1.53778,Great Britain,North Yorkshire,3
+Mumbai,Q1156,19.07583,72.8775,India,,3
+Aberdeen,Q36405,57.15,-2.1,Great Britain,Aberdeen City,3
+Cambridge,Q350,52.20806,0.1225,Great Britain,Cambridgeshire,3
+Belfast,Q10686,54.59667,-5.93,Northern Ireland,,3
+Perth,Q203000,56.39583,-3.43333,Great Britain,Perth and Kinross,3
+Exeter,Q134672,50.72556,-3.52694,Great Britain,Devon,3
+Wimbledon,Q736742,51.4235,-0.2171,Great Britain,Greater London,3
+Chester,Q170263,53.2,-2.88333,Great Britain,Cheshire,3
+Nainital,Q773213,29.39194,79.45417,India,,3
+Blackheath,Q880861,51.47,0.009,Great Britain,Greater London,3
+Guildford,Q213465,51.2354,-0.5746,Great Britain,Surrey,3
+Norwich,Q130191,52.62861,1.29278,Great Britain,Norfolk,3
+Montreal,Q340,45.50334,-73.58684,Canada,,3
+Lambeth,Q148349,51.4903,-0.1193,Great Britain,Greater London,3
+County Galway,Q169923,53.3645,-9.45028,Ireland,,3
+Quebec City,Q2145,46.81611,-71.22417,Canada,,3
+Gillingham,Q610238,51.3792,0.5498,Great Britain,Kent,3
+Fulham,Q3367868,51.4767,-0.2138,Great Britain,Greater London,3
+Southsea,Q541348,50.785,-1.07,Great Britain,Hampshire,3
+Wellington,Q23661,-41.28889,174.77722,New Zealand,,3
+Ealing,Q83726,51.5111,-0.3058,Great Britain,Greater London,3
+Richmond,Q2500974,51.456,-0.301,Great Britain,Greater London,3
+County Roscommon,Q179437,53.75,-8.25,Ireland,,3
+Nottingham,Q41262,52.955,-1.14917,Great Britain,Nottinghamshire,3
+Kingston upon Hull,Q128147,53.74444,-0.3325,Great Britain,East Riding of Yorkshire,3
+Hampshire,Q23204,51.0575,-1.3075,Great Britain,Hampshire,3
+Derby,Q43475,52.92167,-1.47667,Great Britain,Derbyshire,3
+Newcastle upon Tyne,Q1425428,54.97778,-1.61333,Great Britain,Tyne and Wear,3
+Derry,Q163584,54.99167,-7.34167,Northern Ireland,,3
+Chelsea,Q743535,51.4875,-0.1684,Great Britain,Greater London,3
+Bournemouth,Q170478,50.72,-1.88,Great Britain,Dorset,3
+Dumfries,Q652035,55.06667,-3.61667,Great Britain,Dumfries and Galloway,3
+Mullingar,Q55308,53.5224,-7.3378,Ireland,,2
+Hampstead,Q25610,51.5541,-0.1744,Great Britain,Greater London,2
+South Shields,Q279000,54.995,-1.43,Great Britain,Tyne and Wear,2
+Leith,Q1018540,55.9801,-3.17005,Great Britain,City of Edinburgh,2
+Dumbarton,Q34779,55.94861,-4.54722,Great Britain,West Dunbartonshire,2
+Bengal,Q80338,23.9888,88.7311,Bangladesh,,2
+Highgate,Q123947,51.5716,-0.1448,Great Britain,Greater London,2
+Leamington Spa,Q546635,52.29194,-1.53583,Great Britain,Warwickshire,2
+Cardiff,Q10690,51.48167,-3.17917,Great Britain,South Glamorgan,2
+Southampton,Q79848,50.90667,-1.40444,Great Britain,Hampshire,2
+Surbiton,Q2453259,51.3923,-0.3,Great Britain,Greater London,2
+County Down,Q190684,54.36,-5.94,Northern Ireland,,2
+Essex,Q23240,51.75,0.58333,Great Britain,Essex,2
+York,Q42462,53.95,-1.08333,Great Britain,North Yorkshire,2
+Perthshire,Q1247411,56.5,-4.0,Great Britain,Perth and Kinross,2
+Toxteth,Q1757189,53.3894,-2.9713,Great Britain,Merseyside,2
+Altrincham,Q445058,53.38337,-2.35567,Great Britain,Greater Manchester,2
+Thurles,Q383188,52.67888,-7.81437,Ireland,,2
+Dunedin,Q133073,-45.87417,170.50361,New Zealand,,2
+Leicester,Q83065,52.63611,-1.13306,Great Britain,Leicestershire,2
+Eccles,Q2342197,53.4824,-2.339,Great Britain,Greater Manchester,2
+Melbourne,Q3141,-37.81417,144.96306,Australia,,2
+Stepney,Q123627,51.5152,-0.0462,Great Britain,Greater London,2
+Limerick,Q133315,52.6653,-8.6238,Ireland,,2
+Neston,Q925760,53.28972,-3.06417,Great Britain,Cheshire,2
+County Wicklow,Q182591,53.0,-6.41667,Ireland,,2
+Birr,Q865849,53.0914,-7.9133,Ireland,,2
+Shanghai,Q8686,31.2325,121.46917,People's Republic of China,,2
+Carluke,Q1011389,55.7337,-3.83427,Great Britain,South Lanarkshire,2
+Carrickfergus,Q1020354,54.71361,-5.8075,Northern Ireland,,2
+Falmouth,Q478029,50.15,-5.06667,Great Britain,Cornwall,2
+Barnes,Q668140,51.4741,-0.2352,Great Britain,Greater London,2
+Lowestoft,Q986007,52.48,1.75,Great Britain,Suffolk,2
+Hammersmith,Q277162,51.4928,-0.2229,Great Britain,Greater London,2
+Oxford,Q34217,51.75194,-1.25778,Great Britain,Oxfordshire,2
+Fort William,Q848909,56.81694,-5.10972,Great Britain,Highland,2
+Toronto,Q172,43.67028,-79.38667,Canada,,2
+County Limerick,Q178283,52.5,-8.75,Ireland,,2
+Smethwick,Q1018565,52.49306,-1.96861,Great Britain,West Midlands,2
+Burnley,Q209096,53.78889,-2.24806,Great Britain,Lancashire,2
+Chatham,Q729006,51.38194,0.52333,Great Britain,Kent,2
+Folkestone,Q375314,51.07917,1.17944,Great Britain,Kent,2
+Karachi,Q8660,24.86,67.01,Pakistan,,2
+Wallsend,Q7963243,-32.89833,151.66778,Australia,,2
+Worcester,Q1646181,52.19111,-2.22056,Great Britain,Worcestershire,2
+Whanganui,Q1015672,-39.9325,175.05194,New Zealand,,2
+Collingwood,Q1109698,-37.8019,144.988,Australia,,2
+Clifton,Q2376216,51.46,-2.62,Great Britain,Bristol,2
+Tillicoultry,Q1021170,56.1533,-3.74194,Great Britain,Clackmannanshire,2
+Paddington,Q124230,51.5172,-0.173,Great Britain,Greater London,2
+Athlone,Q369911,53.42361,-7.9425,Ireland,,2
+Dunfermline,Q211950,56.07139,-3.46167,Great Britain,Fife,2
+Meerut,Q200237,28.98,77.70639,India,,2
+County Monaghan,Q184760,54.244,-7.04,Ireland,,2
+Waterford,Q183551,52.2583,-7.119,Ireland,,2
+Sydenham,Q2104233,51.4254,-0.0544,Great Britain,Greater London,2
+Shimla,Q83786,31.10333,77.17222,India,,2
+Dover,Q179224,51.1275,1.31222,Great Britain,Kent,2
+Ireland,Q22890,53.351,-7.921,Ireland,,2
+Wandsworth,Q2166359,51.455,-0.192,Great Britain,Greater London,2
+Dawlish,Q1248368,50.581,-3.466,Great Britain,Devon,2
+Beckenham,Q123372,51.4077,-0.022,Great Britain,Greater London,2
+Ambala,Q456624,30.37861,76.7725,India,,2
+Mayfair,Q124184,51.51028,-0.14722,Great Britain,Greater London,2
+Southgate,Q2678895,51.6316,-0.1265,Great Britain,Greater London,2
+Bermondsey,Q822040,51.4986,-0.0757,Great Britain,Greater London,2
+Thatcham,Q1026304,51.405,-1.2645,Great Britain,Berkshire,2
+Aldershot,Q646980,51.24833,-0.76139,Great Britain,Hampshire,2
+Bendigo,Q497793,-36.75,144.26667,Australia,,2
+Ulverston,Q979357,54.193,-3.09,Great Britain,Cumbria,2
+Kidderminster,Q844062,52.3885,-2.249,Great Britain,Worcestershire,2
+Wexford,Q209126,52.33833,-6.46167,Ireland,,2
+Lincoln,Q180057,53.25,-0.55,Great Britain,Lincolnshire,2
+Harefield,Q2243312,51.6034,-0.478,Great Britain,Greater London,2
+Airdrie,Q408536,55.866,-3.98,Great Britain,North Lanarkshire,2
+Salford,Q47952,53.48278,-2.29306,Great Britain,Greater Manchester,2
+County Fermanagh,Q190678,54.35,-7.63,Northern Ireland,,2
+New Westminster,Q876122,49.2069,-122.911,Canada,,2
+Hobart,Q40191,-42.88333,147.31667,Australia,,2
+Lurgan,Q1702713,54.4647,-6.33222,Northern Ireland,,2
+Clapham,Q146659,51.46323,-0.13394,Great Britain,Greater London,2
+Abergavenny,Q609161,51.83306,-3.01722,Great Britain,Gwent,2
+St Kilda,Q823531,-37.864,144.982,Australia,,2
+Carlingford,Q2669915,54.04294,-6.18609,Ireland,,2
+Widnes,Q1022741,53.363,-2.728,Great Britain,Cheshire,2
+Rathdowney,Q2566185,52.85528,-7.58472,Ireland,,2
+Makhanda,Q951161,-33.3,26.53333,South Africa,,2
+Chigwell,Q944734,51.6225,0.07227,Great Britain,Essex,2
+Warrington,Q215733,53.38732,-2.60288,Great Britain,Cheshire,2
+Elphin,Q3777965,53.8523,-8.1978,Ireland,,2
+Tiverton,Q637298,50.903,-3.488,Great Britain,Devon,2
+Penarth,Q427792,51.43583,-3.175,Great Britain,South Glamorgan,2
+Reading,Q161491,51.45417,-0.97306,Great Britain,Berkshire,2
+Devon,Q23156,50.7,-3.8,Great Britain,Devon,2
+Keith,Q1235112,57.5428,-2.9555,Great Britain,Moray,2
+Greenwich,Q179385,51.48,0.0,Great Britain,Greater London,2
+Weybread,Q2464231,52.37,1.28,Great Britain,Suffolk,1
+Whitehaven,Q1012481,54.548,-3.5855,Great Britain,Cumbria,1
+Bardwell,Q3385780,52.317,0.85,Great Britain,Suffolk,1
+Cranbrook,Q2160826,51.09667,0.53556,Great Britain,Kent,1
+Salisbury,Q160642,51.074,-1.7936,Great Britain,Wiltshire,1
+Kandy,Q203197,7.29306,80.635,Sri Lanka,,1
+South Lanarkshire,Q209142,55.6,-3.78333,Great Britain,South Lanarkshire,1
+Cupar,Q1012047,56.3194,-3.01155,Great Britain,Fife,1
+Burgersdorp,Q1014910,-30.99222,26.32472,South Africa,,1
+Caledon,Q424659,43.86667,-80.0,Canada,,1
+Kohat Division,Q3307006,33.35,71.25,Pakistan,,1
+Kyloe,Q2602005,55.649,-1.93,Great Britain,Northumberland,1
+Golders Green,Q149684,51.5734,-0.1982,Great Britain,Greater London,1
+Cape Town,Q5465,-33.92528,18.42389,South Africa,,1
+Dallas,Q5211216,57.5531,-3.4646,Great Britain,Moray,1
+Ashhurst,Q725283,-40.3,175.75,New Zealand,,1
+Armadale,Q2706897,55.8978,-3.70474,Great Britain,West Lothian,1
+Haverfordwest,Q990103,51.80111,-4.96944,Great Britain,Dyfed,1
+Abbotsham,Q2428943,51.01667,-4.25,Great Britain,Devon,1
+Newmarket,Q1382713,52.2459,0.4105,Great Britain,Suffolk,1
+Corby,Q994925,52.49139,-0.69639,Great Britain,Northamptonshire,1
+Leatherhead,Q1810766,51.2951,-0.3289,Great Britain,Surrey,1
+Carrieton,Q5046383,-32.4333,138.533,Australia,,1
+Hastings,Q29245,50.855,0.58333,Great Britain,East Sussex,1
+Malvern,Q6745044,-34.9572,138.615,Australia,,1
+Gubhana,Q48727992,28.6,76.85,India,,1
+Lenton,Q6523383,52.95,-1.17542,Great Britain,Nottinghamshire,1
+Kingston Lacy,Q1232310,50.81096,-2.03184,Great Britain,Dorset,1
+Tring,Q10999,51.79397,-0.66058,Great Britain,Hertfordshire,1
+Dauphin,Q1173008,51.14944,-100.04944,Canada,,1
+Coseley,Q3695060,52.55,-2.083,Great Britain,West Midlands,1
+Banffshire,Q806432,57.5,-3.08333,Great Britain,Moray,1
+Elveden,Q3242450,52.387,0.676,Great Britain,Suffolk,1
+Burslem,Q1857589,53.04262,-2.18789,Great Britain,Staffordshire,1
+Mount Eden,Q477145,-36.88221,174.75642,New Zealand,,1
+Camberwell,Q385060,51.4736,-0.0912,Great Britain,Greater London,1
+Knightsbridge,Q26328,51.5017,-0.1621,Great Britain,Greater London,1
+Oldswinford,Q7085752,52.448,-2.142,Great Britain,West Midlands,1
+Calgary,Q36312,51.0475,-114.0625,Canada,,1
+Dundee,Q123709,56.46056,-2.97,Great Britain,Dundee City,1
+Glassonby,Q3242102,54.733,-2.65,Great Britain,Cumbria,1
+Montgomeryshire,Q38825,52.5833,-3.5,Great Britain,Powys,1
+Mossel Bay,Q995615,-34.18333,22.13333,South Africa,,1
+Midsomer Norton,Q1234789,51.2842,-2.4817,Great Britain,Somerset,1
+Church Gresley,Q5116602,52.76,-1.566,Great Britain,Derbyshire,1
+Bingham,Q783269,52.95,-0.954,Great Britain,Nottinghamshire,1
+Grenada,Q769,12.1,-61.7,Grenada,,1
+Perth,Q3183,-31.95583,115.85972,Australia,,1
+Cainscross,Q1845556,51.74,-2.24,Great Britain,Gloucestershire,1
+Halifax,Q3246744,44.65,-63.6,Canada,,1
+Stowmarket,Q2454255,52.19,1.0,Great Britain,Suffolk,1
+Mullaghbrack,Q1940498,54.32,-6.53,Northern Ireland,,1
+Kilbricken,Q4220462,52.96179,-7.4621,Ireland,,1
+Dudley,Q213832,52.51667,-2.1,Great Britain,West Midlands,1
+Bangor Castle,Q4855552,54.6563,-5.6692,Northern Ireland,,1
+Buckley,Q2019227,53.172,-3.086,Great Britain,Clwyd,1
+Tasmania,Q34366,-42.0,147.0,Australia,,1
+Owen Sound,Q1017735,44.56778,-80.94306,Canada,,1
+Woodville,Q1114613,-34.878,138.538,Australia,,1
+Neemuch,Q941901,24.47,74.87,India,,1
+Linlithgow,Q1016911,55.97528,-3.61056,Great Britain,West Lothian,1
+Kasauli,Q2287036,30.9,76.96,India,,1
+Kohat,Q1195983,33.59,71.43972,Pakistan,,1
+Shuttington,Q2408915,52.644,-1.622,Great Britain,Warwickshire,1
+Carrington,Q5046428,52.973,-1.153,Great Britain,Nottinghamshire,1
+Holloway,Q124308,51.557,-0.1173,Great Britain,Greater London,1
+Victoria,Q36687,-36.85417,144.28111,Australia,,1
+Hunton,Q947425,51.21667,0.46667,Great Britain,Kent,1
+Kilcullen,Q2669870,53.13,-6.745,Ireland,,1
+Q2223506,Q2223506,52.58567,-1.1065,Great Britain,Leicestershire,1
+Brayford,Q1845805,51.09,-3.88,Great Britain,Devon,1
+Middleton Park House,Q6842033,53.435,-7.472,Ireland,,1
+Carlisle,Q192896,54.89472,-2.93639,Great Britain,Cumbria,1
+Darlington,Q213181,54.52278,-1.55722,Great Britain,Durham,1
+Witton Park,Q8028633,54.6663,-1.7335,Great Britain,Durham,1
+Kingsland,Q6413251,51.545,-0.076,Great Britain,Greater London,1
+Kilteely-Dromkeen,Q4220572,52.55402,-8.3915,Ireland,,1
+Probus,Q7247073,50.293,-4.9511,Great Britain,Cornwall,1
+Oak River,Q3347836,50.136,-100.43,Canada,,1
+Routhierville,Q3445473,48.1833,-67.15,Canada,,1
+Versailles,Q621,48.805,2.135,France,,1
+Seaford,Q1640242,50.77,0.1,Great Britain,East Sussex,1
+Oakley,Q2741081,51.804,-1.072,Great Britain,Buckinghamshire,1
+Paulton,Q5131710,51.3069,-2.5027,Great Britain,Somerset,1
+Dagshai,Q960817,30.88,77.05,India,,1
+Bhagalpur,Q760714,25.25,87.01667,India,,1
+Gananoque,Q1208051,44.33333,-76.16667,Canada,,1
+New Norfolk,Q1982848,-42.78278,147.05944,Australia,,1
+Barrackpore,Q709298,22.76416,88.37761,India,,1
+Priest Weston,Q547050,52.5715,-3.05051,Great Britain,Shropshire,1
+Stourbridge,Q661707,52.458,-2.148,Great Britain,West Midlands,1
+Alloa,Q1009331,56.1155,-3.7912,Great Britain,Clackmannanshire,1
+Coleford,Q747798,51.791,-2.6162,Great Britain,Gloucestershire,1
+Gulargambone,Q2728668,-31.28167,148.45472,Australia,,1
+Stalybridge,Q1398653,53.4834,-2.04,Great Britain,Greater Manchester,1
+Tatham,Q7688032,-28.93167,153.16778,Australia,,1
+Crediton,Q1139440,50.7924,-3.6514,Great Britain,Devon,1
+Hertford,Q9681,51.795,-0.078,Great Britain,Hertfordshire,1
+Kyneton,Q1931613,-37.247,144.455,Australia,,1
+Melton Mowbray,Q1018423,52.7661,-0.886,Great Britain,Leicestershire,1
+Berkeley,Q584443,51.691,-2.459,Great Britain,Gloucestershire,1
+Soberton,Q2004073,50.94574,-1.1302,Great Britain,Hampshire,1
+Armley,Q2393654,53.7981,-1.5872,Great Britain,West Yorkshire,1
+Pontypridd,Q1024900,51.59672,-3.33682,Great Britain,Mid Glamorgan,1
+Castlecomer,Q1954436,52.806,-7.21,Ireland,,1
+Freshford,Q2042618,51.3418,-2.3093,Great Britain,Wiltshire,1
+Cockenzie and Port Seton,Q1013257,55.969,-2.962,Great Britain,East Lothian,1
+Ashington,Q202348,55.181,-1.568,Great Britain,Northumberland,1
+Wellington County,Q1525404,43.75,-80.4,Canada,,1
+Croydon,Q2213391,51.3727,-0.1099,Great Britain,Greater London,1
+Thurso,Q526576,58.59611,-3.52111,Great Britain,Highland,1
+Saltcoats,Q1018756,55.6352,-4.7896,Great Britain,North Ayrshire,1
+Airds Bay,Q4698643,56.5469,-5.41194,Great Britain,Argyll and Bute,1
+Walsall,Q504530,52.58,-1.98,Great Britain,West Midlands,1
+Glenmavis,Q1009809,55.8853,-3.9983,Great Britain,North Lanarkshire,1
+Brisbane,Q34932,-27.46778,153.02778,Australia,,1
+Eastbourne,Q208262,50.76639,0.28611,Great Britain,East Sussex,1
+Brussels,Q239,50.84667,4.35167,Belgium,,1
+South Kensington,Q1045096,51.4912,-0.1769,Great Britain,Greater London,1
+Drayton,Q589226,52.675,1.225,Great Britain,Norfolk,1
+Prayagraj,Q162442,25.45,81.85,India,,1
+Ramsdell,Q7290161,51.3136,-1.16204,Great Britain,Hampshire,1
+Pontlottyn,Q7228312,51.73333,-3.3,Great Britain,Gwent,1
+Rowlands Gill,Q1615748,54.9209,-1.7441,Great Britain,Tyne and Wear,1
+Saint Lucia,Q760,13.88333,-60.96667,Saint Lucia,,1
+Drysdale,Q2183429,-38.16667,144.56667,Australia,,1
+Wallsend,Q1248150,54.99128,-1.5311,Great Britain,Tyne and Wear,1
+Pennington,Q2895543,54.18333,-3.13333,Great Britain,Cumbria,1
+Edmonton,Q1997321,51.6154,-0.0708,Great Britain,Greater London,1
+Motherwell,Q737547,55.78917,-3.99556,Great Britain,North Lanarkshire,1
+St Ives,Q2569095,52.335,-0.0837,Great Britain,Cambridgeshire,1
+Winsford,Q2011679,53.194,-2.52,Great Britain,Cheshire,1
+Waterdown,Q7973947,43.3333,-79.8833,Canada,,1
+Dumfries and Galloway,Q126514,55.07,-3.60306,Great Britain,Dumfries and Galloway,1
+Middelburg,Q1002188,-31.49389,25.01722,South Africa,,1
+Irnham,Q2049937,52.829,-0.481,Great Britain,Lincolnshire,1
+Port of Spain,Q39178,10.66667,-61.51667,Trinidad and Tobago,,1
+Muswell Hill,Q1432670,51.592,-0.143,Great Britain,Greater London,1
+Drumcondra,Q1261255,53.36835,-6.25576,Ireland,,1
+St Mary in the Marsh,Q7594628,51.0142,0.9424,Great Britain,Kent,1
+Jarrow,Q782155,54.98139,-1.49,Great Britain,Tyne and Wear,1
+West Hatch,Q4993272,50.9832,-3.0177,Great Britain,Somerset,1
+Burton upon Trent,Q1000597,52.80194,-1.63667,Great Britain,Staffordshire,1
+Penge,Q124007,51.4174,-0.0648,Great Britain,Greater London,1
+Bijnor,Q796664,29.37,78.13,India,,1
+Portman Square,Q7232117,51.5157,-0.1557,Great Britain,Greater London,1
+Grosvenor Square,Q932992,51.51139,-0.15139,Great Britain,Greater London,1
+Burton,Q659927,53.26,-3.025,Great Britain,Cheshire,1
+Listowel,Q996487,52.44659,-9.48618,Ireland,,1
+Celbridge,Q629881,53.3326,-6.535,Ireland,,1
+Kaikōura,Q25834,-42.40001,173.68136,New Zealand,,1
+Tranmere,Q7833434,53.3788,-3.0205,Great Britain,Merseyside,1
+Stockton-on-Tees,Q989418,54.57,-1.32,Great Britain,Durham,1
+Kent,Q23298,51.19,0.73,Great Britain,Kent,1
+Maldon,Q1011062,51.73167,0.67583,Great Britain,Essex,1
+Leyton,Q2750829,51.56056,-0.01546,Great Britain,Greater London,1
+Latchford,Q4859952,47.32889,-79.81028,Canada,,1
+Aghada,Q4072894,51.83333,-8.21667,Ireland,,1
+Eyrecourt,Q2588715,53.1975,-8.1325,Ireland,,1
+Blandford Forum,Q644530,50.8615,-2.1627,Great Britain,Dorset,1
+Baghdad,Q1530,33.31528,44.36611,Iraq,,1
+Kings Langley,Q19807,51.71559,-0.45692,Great Britain,Hertfordshire,1
+Comrie,Q1011363,56.3749,-3.98825,Great Britain,Perth and Kinross,1
+Wells,Q212283,51.20944,-2.645,Great Britain,Somerset,1
+County Clare,Q181862,52.83333,-9.0,Ireland,,1
+Bruff,Q2567094,52.477,-8.55,Ireland,,1
+Little Bay,Q6649008,49.6,-55.95,Canada,,1
+Shipdham,Q1881466,52.628,0.894,Great Britain,Norfolk,1
+Devonport,Q1245018,50.3725,-4.17278,Great Britain,Devon,1
+Uitenhage,Q1020192,-33.75,25.4,South Africa,,1
+Lennox Gardens,Q58320598,51.49558,-0.16316,Great Britain,Greater London,1
+Maybole,Q603616,55.3545,-4.68149,Great Britain,South Ayrshire,1
+Scunthorpe,Q913386,53.5809,-0.6502,Great Britain,Lincolnshire,1
+Sutherland,Q7649948,52.1367,-106.604,Canada,,1
+Romsey,Q1234718,50.989,-1.4966,Great Britain,Hampshire,1
+St Anthony in Roseland,Q7592510,50.149,-5.0,Great Britain,Cornwall,1
+Irvinebank,Q6074417,-17.4333,145.2,Australia,,1
+Wymondham,Q1787230,52.57,1.116,Great Britain,Norfolk,1
+Normandy,Q15878,49.12234,-0.43664,France,,1
+Unley,Q4005998,-34.95,138.6,Australia,,1
+Ogmore Vale,Q7080139,51.60303,-3.5467,Great Britain,Mid Glamorgan,1
+Rock Ferry,Q9311387,53.373,-3.008,Great Britain,Merseyside,1
+Tipton,Q1684337,52.5259,-2.0751,Great Britain,West Midlands,1
+Hawick,Q407183,55.42472,-2.78444,Great Britain,Scottish Borders,1
+Comber,Q116787,54.544,-5.735,Northern Ireland,,1
+Herne Hill,Q146553,51.4544,-0.0936,Great Britain,Greater London,1
+Coole,Q2996541,53.7,-7.37,Ireland,,1
+Bray,Q652000,53.20139,-6.11083,Ireland,,1
+Medindie,Q6806947,-34.896,138.605,Australia,,1
+Portglenone,Q2150770,54.873,-6.474,Northern Ireland,,1
+Valenciennes,Q163795,50.35806,3.52333,France,,1
+Rungstedlund,Q1569018,55.8833,12.5433,Denmark,,1
+Avranches,Q204430,48.68444,-1.35694,France,,1
+Barton,Q4865567,51.9267,-1.86333,Great Britain,Gloucestershire,1
+Ovingham,Q2672173,54.966,-1.865,Great Britain,Northumberland,1
+Easington,Q2734833,54.78,-1.35,Great Britain,Durham,1
+Nenagh,Q918372,52.8632,-8.1995,Ireland,,1
+Aughrim,Q2642247,53.30417,-8.31667,Ireland,,1
+Royal Tunbridge Wells,Q665489,51.132,0.263,Great Britain,Kent,1
+Suffolk,Q23111,52.2,1.0,Great Britain,Suffolk,1
+Fishbourne,Q1420608,50.8354,-0.812,Great Britain,West Sussex,1
+Thomastown,Q1433139,52.52667,-7.13722,Ireland,,1
+New Ross,Q1016292,52.39561,-6.94508,Ireland,,1
+Barking,Q377720,51.54,0.08,Great Britain,Greater London,1
+Huby,Q1943257,54.082,-1.135,Great Britain,North Yorkshire,1
+Manor Park,Q2005010,51.55033,0.05622,Great Britain,Greater London,1
+St James's Palace,Q272162,51.50472,-0.13778,Great Britain,Greater London,1
+Gaoth Dobhair,Q693164,55.05094,-8.23563,Ireland,,1
+Douglas,Q2669536,51.8766,-8.4358,Ireland,,1
+York,Q2600811,43.65028,-79.37194,Canada,,1
+Buckhaven,Q1016877,56.1776,-3.0303,Great Britain,Fife,1
+Ballarat,Q17856,-37.56083,143.8475,Australia,,1
+Farnborough,Q123229,51.3591,0.0741,Great Britain,Greater London,1
+Cygnet,Q1147690,-43.15,147.067,Australia,,1
+County Laois,Q55299,53.0,-7.4,Ireland,,1
+Congleton,Q1125738,53.162,-2.217,Great Britain,Cheshire,1
+Wagga Wagga,Q459600,-35.11944,147.36667,Australia,,1
+Lossiemouth,Q1012013,57.7167,-3.28333,Great Britain,Moray,1
+Cóbh,Q733093,51.851,-8.2967,Ireland,,1
+Fremantle,Q606212,-32.05417,115.7475,Australia,,1
+Brill,Q2394847,51.82,-1.052,Great Britain,Buckinghamshire,1
+Hardingham,Q2577845,52.5947,1.01667,Great Britain,Norfolk,1
+Longton,Q1609815,52.9877,-2.1327,Great Britain,Staffordshire,1
+Wolverhampton,Q126269,52.58417,-2.12528,Great Britain,West Midlands,1
+Manawatū District,Q613305,-40.093,175.782,New Zealand,,1
+Lancaster Gate,Q6483175,51.5116,-0.18014,Great Britain,Greater London,1
+Livonia,Q183464,57.86223,25.96716,Estonia,,1
+Chichester,Q207639,50.8365,-0.7792,Great Britain,West Sussex,1
+Whitestaunton,Q2241813,50.8889,-3.0225,Great Britain,Somerset,1
+Collon,Q984816,53.78333,-6.48333,Ireland,,1
+Keadue,Q2926440,54.04944,-8.13444,Ireland,,1
+Thurgoland,Q2143555,53.5054,-1.5635,Great Britain,South Yorkshire,1
+County Waterford,Q184594,52.25,-7.5,Ireland,,1
+Cardiganshire,Q645155,52.25594,-4.07058,Great Britain,Dyfed,1
+Kelso,Q654945,55.5985,-2.4336,Great Britain,Scottish Borders,1
+Clerkenwell,Q124129,51.526,-0.10347,Great Britain,Greater London,1
+Cradock,Q1138465,-32.165,25.6175,South Africa,,1
+Hoshiarpur,Q928349,31.53222,75.91722,India,,1
+Portland Place,Q7231999,51.52023,-0.14499,Great Britain,Greater London,1
+Turriff,Q1016738,57.539,-2.46114,Great Britain,Aberdeenshire,1
+Balloch,Q805302,56.002,-4.58,Great Britain,West Dunbartonshire,1
+Guardbridge,Q1301785,56.36254,-2.89175,Great Britain,Fife,1
+St. Catharines,Q126805,43.18333,-79.23333,Canada,,1
+Bishopscourt Upper,Q4087669,53.26148,-6.57745,Ireland,,1
+Gujarat,Q1061,23.15644,71.838,India,,1
+Irthlingborough,Q1847208,52.324,-0.614,Great Britain,Northamptonshire,1
+Tulse Hill,Q146843,51.4452,-0.1091,Great Britain,Greater London,1
+Billingford,Q2739402,52.743,0.983,Great Britain,Norfolk,1
+Ichapore,Q3147643,22.7972,88.37711,India,,1
+Madoc,Q6728328,44.50556,-77.47222,Canada,,1
+Strathpeffer,Q1011526,57.5832,-4.5457,Great Britain,Highland,1
+Barrow-in-Furness,Q671892,54.11083,-3.22639,Great Britain,Cumbria,1
+Stert,Q5752922,51.333,-1.957,Great Britain,Wiltshire,1
+Kobe,Q48320,34.69017,135.19544,Japan,,1
+Sittingbourne,Q1626044,51.34,0.74,Great Britain,Kent,1
+Shire of Crows Nest,Q2991205,-27.2621,152.055,Australia,,1
+Slamannan,Q1016958,55.9379,-3.83333,Great Britain,Falkirk,1
+New Barnet,Q149691,51.644,-0.1708,Great Britain,Greater London,1
+Greasley,Q1992557,53.02,-1.27,Great Britain,Nottinghamshire,1
+Laugharne,Q1965490,51.76944,-4.46306,Great Britain,Dyfed,1
+Truro,Q180803,50.26,-5.051,Great Britain,Cornwall,1
+Ringarooma,Q7334832,-41.25,147.733,Australia,,1
+Barpak,Q4863075,28.2,84.75,Nepal,,1
+Sikkim,Q1505,27.55,88.5,India,,1
+Lanarkshire,Q530296,55.58333,-3.83333,Great Britain,South Lanarkshire,1
+Willesden,Q146702,51.5468,-0.2295,Great Britain,Greater London,1
+Cashel,Q1002183,52.51672,-7.88943,Ireland,,1
+Punjab,Q22424,30.76667,75.46667,India,,1
+Cirencester,Q852772,51.719,-1.968,Great Britain,Gloucestershire,1
+Morningthorpe,Q2634562,52.486,1.265,Great Britain,Norfolk,1
+"Chamba, Uttarakhand",Q3666054,30.21,78.23,India,,1
+Nagaur,Q2299130,27.2,73.73333,India,,1
+East Grinstead,Q1277887,51.12861,-0.01444,Great Britain,West Sussex,1
+Bathurst,Q810807,47.62,-65.65,Canada,,1
+Pune,Q1538,18.52111,73.85528,India,,1
+Faringdon,Q663599,51.657,-1.586,Great Britain,Oxfordshire,1
+Launceston,Q339527,-41.44444,147.13778,Australia,,1
+Rockingham,Q705385,-32.281,115.727,Australia,,1
+Bridge of Allan,Q187892,56.1549,-3.94152,Great Britain,Stirling,1
+Colony of Jamaica,Q2526023,17.98333,-76.8,Jamaica,,1
+Wanborough,Q2470395,51.544,-1.7,Great Britain,Wiltshire,1
+Chittagong,Q376749,22.335,91.8325,Bangladesh,,1
+Murree,Q1020224,33.9042,73.3903,Pakistan,,1
+The Claddagh,Q2602833,53.2674,-9.05804,Ireland,,1
+Acton,Q83609,51.51052,-0.26266,Great Britain,Greater London,1
+Aberdeenshire,Q189912,57.151,-2.123,Great Britain,Aberdeen City,1
+Roorkee,Q1020718,29.86139,77.88889,India,,1
+Hāwera,Q998452,-39.589,174.282,New Zealand,,1
+Katanning,Q984146,-33.6908,117.555,Australia,,1
+Trail,Q1808502,49.095,-117.71,Canada,,1
+Urchfont,Q2135013,51.312,-1.943,Great Britain,Wiltshire,1
+Killamarsh,Q2361686,53.3205,-1.3116,Great Britain,Derbyshire,1
+Buckden,Q1951638,52.29345,-0.25242,Great Britain,Cambridgeshire,1
+Ballinasloe,Q618056,53.3275,-8.2194,Ireland,,1
+"Victoria Barracks, Windsor Castle",Q16897594,51.4786,-0.60722,Great Britain,Berkshire,1
+Kings County,Q1670967,45.66042,-65.78983,Canada,,1
+Heanor,Q1981105,53.0148,-1.355,Great Britain,Derbyshire,1
+Surrey,Q23276,51.25,-0.45,Great Britain,Surrey,1
+Musselburgh,Q37718,55.94194,-3.05417,Great Britain,East Lothian,1
+Brighton,Q915776,-37.905,144.996,Australia,,1
+Abram,Q4669333,53.508,-2.588,Great Britain,Greater Manchester,1
+Pretoria,Q3926,-25.74639,28.18806,South Africa,,1
+St Andrews,Q207736,56.33889,-2.79889,Great Britain,Fife,1
+Highnam,Q2499899,51.874,-2.298,Great Britain,Gloucestershire,1
+Day Dawn,Q5242814,-27.4667,117.867,Australia,,1
+Bishop Auckland,Q866339,54.66,-1.68,Great Britain,Durham,1
+Riverstown,Q4394358,53.08333,-7.91667,Ireland,,1
+"Kalanaur, Gurdaspur",Q2625405,32.02,75.15,India,,1
+Nantwich,Q1077003,53.067,-2.522,Great Britain,Cheshire,1
+Granville,Q5596852,-33.83611,151.00722,Australia,,1
+Horton Bluff,Q22644458,45.10867,-64.22434,Canada,,1
+Medstead,Q2089988,51.12948,-1.06548,Great Britain,Hampshire,1
+Middleton,Q2560244,53.5552,-2.18795,Great Britain,Greater Manchester,1
+Redhill,Q1851095,51.2393,-0.1726,Great Britain,Surrey,1
+Carnforth,Q578024,54.123,-2.766,Great Britain,Lancashire,1
+Orange,Q580973,-33.28167,149.10111,Australia,,1
+Stranraer,Q1001935,54.90139,-5.035,Great Britain,Dumfries and Galloway,1
+Inistioge,Q1861954,52.48333,-7.06667,Ireland,,1
+Kilkeel,Q84109,54.059,-5.992,Northern Ireland,,1
+Durban,Q5468,-29.85833,31.025,South Africa,,1
+Northfleet,Q2087380,51.44759,0.32478,Great Britain,Kent,1
+Hinton Parva,Q2076021,50.839,-2.003,Great Britain,Dorset,1
+Hatfield,Q663350,53.58,-1.0,Great Britain,South Yorkshire,1
+Halling,Q2227727,51.35142,0.44133,Great Britain,Kent,1
+Torquay,Q209055,50.4625,-3.52806,Great Britain,Devon,1
+County Wexford,Q184599,52.5,-6.66667,Ireland,,1
+Scarriff,Q2668587,52.91,-8.53,Ireland,,1
+Ivybridge,Q1018121,50.389,-3.921,Great Britain,Devon,1
+Athboy,Q754964,53.61667,-6.91667,Ireland,,1
+Peckham,Q2690524,51.4714,-0.0625,Great Britain,Greater London,1
+Newton-le-Willows,Q750000,53.45,-2.633,Great Britain,Merseyside,1
+Basford,Q4866737,52.9778,-1.1686,Great Britain,Nottinghamshire,1
+Witham,Q1861278,51.7978,0.6373,Great Britain,Essex,1
+Maghera,Q1025604,54.84458,-6.67338,Northern Ireland,,1
+Griqualand East,Q5157575,-30.55,29.41667,South Africa,,1
+Ormskirk,Q1020958,53.5665,-2.8869,Great Britain,Lancashire,1
+Durham,Q179815,54.78333,-1.56667,Great Britain,Durham,1
+Scottish Borders,Q211113,55.36,-2.49,Great Britain,Scottish Borders,1
+Compton Bassett,Q2268825,51.44642,-1.94911,Great Britain,Wiltshire,1
+Tottenham,Q503375,51.5975,-0.06806,Great Britain,Greater London,1
+Coniston,Q338140,54.368,-3.073,Great Britain,Cumbria,1
+Copdock,Q2879731,52.0307,1.08159,Great Britain,Suffolk,1
+Northallerton,Q920381,54.3378,-1.4285,Great Britain,North Yorkshire,1
+Hulme,Q3051137,53.4636,-2.25,Great Britain,Greater Manchester,1
+Glenavy,Q1816005,54.592,-6.214,Northern Ireland,,1
+Colac Bay / Ōraka,Q5141862,-46.362,167.876,New Zealand,,1
+Tortola,Q827604,18.41667,-64.58333,British Virgin Islands,,1
+Duncan,Q1265347,48.77861,-123.70806,Canada,,1
+Royton,Q2338847,53.566,-2.121,Great Britain,Greater Manchester,1
+Ottawa,Q1930,45.42472,-75.695,Canada,,1
+Athy,Q251091,52.99,-6.99,Ireland,,1
+Chipping Sodbury,Q666295,51.538,-2.394,Great Britain,Gloucestershire,1
+Middlesbrough,Q171866,54.57389,-1.23333,Great Britain,North Yorkshire,1
+Halifax,Q826561,53.725,-1.863,Great Britain,West Yorkshire,1
+Stanway,Q7600307,51.9873,-1.91404,Great Britain,Gloucestershire,1
+Dunbar,Q1002133,55.99833,-2.52278,Great Britain,East Lothian,1
+Jabalpur,Q200878,23.16667,79.93333,India,,1
+Southgate,Q7570792,44.10639,-80.58806,Canada,,1
+Gloucestershire,Q23165,51.8,-2.2,Great Britain,Gloucestershire,1
+Windsor,Q464955,51.48333,-0.6,Great Britain,Berkshire,1
+Alton,Q443840,51.1498,-0.9769,Great Britain,Hampshire,1
+Mimico,Q6862232,43.6128,-79.4942,Canada,,1
+Colombo,Q35381,6.92667,79.86056,Sri Lanka,,1
+Deptford,Q2308650,51.478,-0.0265,Great Britain,Greater London,1
+Enfield,Q5377277,-33.89,151.09278,Australia,,1
+Stogursey,Q2081184,51.1807,-3.1413,Great Britain,Somerset,1
+Dunblane,Q614314,56.18833,-3.96417,Great Britain,Stirling,1
+Castleblayney,Q2528834,54.12,-6.73889,Ireland,,1
+Mount Carmel,Q575526,38.4187,-87.76941,United States of America,,1
+Radcliffe,Q968937,53.5615,-2.3268,Great Britain,Greater Manchester,1
+Earlsdon,Q12056834,52.4,-1.53,Great Britain,West Midlands,1
+Tetbury,Q1248924,51.636,-2.158,Great Britain,Gloucestershire,1
+Saint Saviour,Q1808243,49.19023,-2.07916,Jersey,,1
+16th arrondissement of Paris,Q194420,48.86361,2.27649,France,,1
+North Adelaide,Q7053663,-34.9061,138.594,Australia,,1
+Manorhamilton,Q1891064,54.3064,-8.1761,Ireland,,1
+Nainwa,Q2544256,25.77,75.85,India,,1
+Winchelsea,Q2508511,-38.23333,143.98333,Australia,,1
+Kirton,Q1955160,52.92782,-0.05978,Great Britain,Lincolnshire,1
+Swinton,Q1617245,53.4877,-1.3149,Great Britain,South Yorkshire,1
+Gunbar,Q2358622,-34.04833,145.38444,Australia,,1
+Ladywell,Q6470814,51.453,-0.017,Great Britain,Greater London,1
+Odiham,Q928816,51.24566,-0.94777,Great Britain,Hampshire,1
+Kennington,Q146696,51.4813,-0.1197,Great Britain,Greater London,1
+Fraserburgh,Q138873,57.693,-2.005,Great Britain,Aberdeenshire,1
+Hartshill,Q5675266,52.5398,-1.52,Great Britain,Warwickshire,1
+Ballinrobe,Q805277,53.63333,-9.2333,Ireland,,1
+Løgstør,Q3414045,56.9667,9.25,Denmark,,1
+Antigua,Q316390,17.085,-61.8,Antigua and Barbuda,,1
+Lewisham,Q6537297,51.46146,-0.00537,Great Britain,Greater London,1
+Bourton-on-the-Water,Q895264,51.886,-1.759,Great Britain,Gloucestershire,1
+Widdrington Station and Stobswood,Q952536,55.2408,-1.6138,Great Britain,Northumberland,1
+Worksop,Q2281091,53.30972,-1.12278,Great Britain,Nottinghamshire,1
+County Donegal,Q179424,54.92,-8.0,Ireland,,1
+Hanover,Q1715,52.37444,9.73861,Germany,,1
+Crumlin,Q4237564,53.324,-6.329,Ireland,,1
+Putney,Q2465220,51.4649,-0.2211,Great Britain,Greater London,1
+Petersfield,Q1247815,51.00377,-0.93453,Great Britain,Hampshire,1
+Raglan,Q744944,51.7649,-2.85,Great Britain,Gwent,1
+Runcorn,Q1009316,53.34194,-2.73361,Great Britain,Cheshire,1
+Evesham,Q585963,52.09,-1.95,Great Britain,Worcestershire,1
+Elsternwick,Q5367746,-37.887,145.006,Australia,,1
+Wharehine,Q25660272,-36.32694,174.40932,New Zealand,,1
+Saint-Moïse,Q3463019,48.55107,-67.85097,Canada,,1
+Karauli district,Q1419668,26.5,77.02,India,,1
+Kapurthala,Q781354,31.38,75.38111,India,,1
+Kingston,Q984075,50.616,-2.0601,Great Britain,Dorset,1
+County Kerry,Q184469,52.16667,-9.75,Ireland,,1
+Collyhurst,Q5147609,53.4967,-2.21785,Great Britain,Greater Manchester,1
+Hamilton,Q762430,-37.7333,142.017,Australia,,1
+Everton,Q3740854,53.4188,-2.9661,Great Britain,Merseyside,1
+Balsall Heath,Q4852528,52.45777,-1.89208,Great Britain,West Midlands,1
+London Borough of Hackney,Q205679,51.54472,-0.0575,Great Britain,Greater London,1
+Wingate,Q2332842,54.73499,-1.3801,Great Britain,Durham,1
+Paddington,Q1027823,-33.8848,151.226,Australia,,1
+Drogheda,Q207223,53.715,-6.3525,Ireland,,1
+Saintfield,Q58097,54.46,-5.83,Northern Ireland,,1
+Deseronto,Q603823,44.2,-77.05,Canada,,1
+Fox River,Q5476889,45.4,-64.51667,Canada,,1
+Melrose,Q632993,55.58333,-2.71667,Great Britain,Scottish Borders,1
+Aberdour,Q2014221,56.0528,-3.3021,Great Britain,Fife,1
+Maida Vale,Q122744,51.5274,-0.1899,Great Britain,Greater London,1
+Dab,Q5207401,33.0,72.0833,Pakistan,,1
+Winlaton,Q8025513,54.95444,-1.72389,Great Britain,Tyne and Wear,1
+Thame,Q2094727,51.75,-0.97,Great Britain,Oxfordshire,1
+Cheadle Hulme,Q2597496,53.3761,-2.1897,Great Britain,Greater Manchester,1
+Haywards Heath,Q920646,51.0048,-0.0979,Great Britain,West Sussex,1
+Yeovil,Q550110,50.9452,-2.637,Great Britain,Somerset,1
+Catford,Q305029,51.4452,-0.0207,Great Britain,Greater London,1
+Nuneaton,Q175632,52.523,-1.4683,Great Britain,Warwickshire,1
+Kutkivtsi,Q2090029,49.13139,26.37028,Ukraine,,1
+Dahakhani,Q3412228,27.77,84.55,Nepal,,1
+Swinton,Q7658777,55.7197,-2.26422,Great Britain,Scottish Borders,1
+Kangra,Q662868,32.10306,76.27333,India,,1
+Markethill,Q1501581,54.2985,-6.5214,Northern Ireland,,1
+Høvdingsgård,Q12317856,55.038,12.0838,Denmark,,1
+Gort,Q1538454,53.066,-8.8118,Ireland,,1
+Tarata,Q65432512,-39.15,174.365,New Zealand,,1
+Bewdley,Q766594,52.37524,-2.31624,Great Britain,Worcestershire,1
+Guernsey,Q25230,49.45,-2.58333,Guernsey,,1
+Saint Helier,Q147738,49.18583,-2.11,Jersey,,1
+North Shields,Q746096,55.0097,-1.4448,Great Britain,Tyne and Wear,1
+Kiganjo,Q6405922,-0.3907,37.0028,Kenya,,1
+Dalkey,Q659895,53.2651,-6.1137,Ireland,,1
+Kinross,Q781885,56.2,-3.42,Great Britain,Perth and Kinross,1
+Aberdeenshire,Q3290674,57.1667,-2.66667,Great Britain,Aberdeenshire,1
+Carrick-on-Shannon,Q589390,53.9469,-8.09,Ireland,,1
+Goodwood House,Q1537630,50.8709,-0.74141,Great Britain,West Sussex,1
+Mortlake,Q2456238,51.4655,-0.2643,Great Britain,Greater London,1
+Huyton,Q1639484,53.41,-2.843,Great Britain,Merseyside,1
+Milford Haven,Q991055,51.71418,-5.04274,Great Britain,Dyfed,1
+Whitney-on-Wye,Q3784397,52.121,-3.067,Great Britain,Herefordshire,1
+Berkeley Square,Q127212,51.50972,-0.14583,Great Britain,Greater London,1
+Newport,Q101254,51.58861,-2.99778,Great Britain,Gwent,1
+Sri Lanka,Q854,7.0,81.0,Sri Lanka,,1
+Myrtleford,Q1657718,-36.56104,146.72371,Australia,,1
+Poyntzpass,Q170529,54.2887,-6.37204,Northern Ireland,,1
+Muine Bheag,Q735855,52.6958,-6.9897,Ireland,,1
+Lockerley,Q2603371,51.0325,-1.57284,Great Britain,Hampshire,1
+Forres,Q1010531,57.60859,-3.6157,Great Britain,Moray,1
+Faizabad,Q842411,26.78333,82.13333,India,,1
+Chorlton-cum-Hardy,Q1024118,53.442,-2.277,Great Britain,Greater Manchester,1
+Forest Hill,Q1626233,51.4457,-0.053,Great Britain,Greater London,1
+Carlow,Q211703,52.8306,-6.9317,Ireland,,1
+Morden,Q3323858,51.4015,-0.1949,Great Britain,Greater London,1
+Blackrock,Q2448591,53.3015,-6.1778,Ireland,,1
+Lachute,Q142250,45.65,-74.33333,Canada,,1
+Cawdor,Q1028188,57.5135,-3.92693,Great Britain,Highland,1
+Islay,Q273,55.76667,-6.15,Great Britain,Argyll and Bute,1
+Ross-shire,Q978599,57.8,-5.0,Great Britain,Highland,1
+Caithness,Q864668,58.41667,-3.5,Great Britain,Highland,1
+New Abbey,Q3338902,54.9799,-3.61943,Great Britain,Dumfries and Galloway,1
+Contin,Q2801181,57.568,-4.57868,Great Britain,Highland,1
+Leichhardt,Q2279903,-33.88194,151.15556,Australia,,1
+Ardersier,Q1011351,57.5693,-4.03775,Great Britain,Highland,1
+Tatura,Q3516125,-36.44014,145.233,Australia,,1
+Banwell,Q2229524,51.327,-2.864,Great Britain,Somerset,1
+Broughty Ferry,Q459773,56.4672,-2.86991,Great Britain,Dundee City,1
+Bishopwearmouth,Q4918124,54.9058,-1.38879,Great Britain,Tyne and Wear,1
+Khadki,Q2234392,18.56283,73.84081,India,,1
+Beddington,Q4437783,51.371,-0.132,Great Britain,Greater London,1
+New Delhi,Q987,28.61389,77.20889,India,,1
+Chorley,Q2078535,53.653,-2.632,Great Britain,Lancashire,1
+Selsley,Q7448828,51.731,-2.247,Great Britain,Gloucestershire,1
+Newark-on-Trent,Q49940,53.0765,-0.81,Great Britain,Nottinghamshire,1
+Fuzhou,Q68481,26.07694,119.29167,People's Republic of China,,1
+Standon,Q280961,51.88266,0.02921,Great Britain,Hertfordshire,1
+Birkdale,Q764412,53.6325,-3.0192,Great Britain,Merseyside,1
+Ireland,Q27,53.0,-8.0,Ireland,,1
+Lisnadill,Q1702629,54.301,-6.64,Northern Ireland,,1
+Ilkley,Q1020951,53.925,-1.822,Great Britain,West Yorkshire,1
+Forest Lodge,Q2900723,-33.88056,151.17833,Australia,,1
+Bridgeton,Q4966763,55.85,-4.2218,Great Britain,Glasgow City,1
+Kilmore,Q2778994,-37.28333,144.95,Australia,,1
+Silecroft,Q7514340,54.2255,-3.3348,Great Britain,Cumbria,1
+Kinghorn,Q1010266,56.07,-3.17,Great Britain,Fife,1
+Kinlochbervie,Q1018558,58.46667,-5.05,Great Britain,Highland,1
+Western Australia,Q3206,-26.0,121.0,Australia,,1
+Killead,Q1650881,54.6651,-6.1805,Northern Ireland,,1
+Kirkmichael,Q3776817,55.3461,-4.61467,Great Britain,South Ayrshire,1
+Campbell Town,Q1009703,-41.93278,147.49278,Australia,,1
+Tullyhaw,Q2974550,54.15,-7.75,Ireland,,1
+Wigtown,Q1017196,54.8675,-4.44389,Great Britain,Dumfries and Galloway,1
+Killala,Q1741335,54.2125,-9.22139,Ireland,,1
+Buckie,Q999708,57.67556,-2.9825,Great Britain,Moray,1
+Kilbarchan,Q2146505,55.8362,-4.5537,Great Britain,Renfrewshire,1
+Wortley,Q2211085,53.4833,-1.5333,Great Britain,South Yorkshire,1
+Willington,Q1613441,54.71,-1.69,Great Britain,Durham,1
+Stonewall,Q393324,50.13444,-97.32611,Canada,,1
+Tynan,Q2022167,54.3301,-6.82264,Northern Ireland,,1
+Tiruchirappalli,Q207754,10.82694,78.69278,India,,1
+Murton,Q2499972,54.8126,-1.39055,Great Britain,Durham,1
+Rushworth,Q1835215,-36.58333,145.01667,Australia,,1
+Walton-le-Dale,Q1951889,53.746,-2.665,Great Britain,Lancashire,1
+Colonsay,Q511539,56.06667,-6.21667,,,1
+Bramley,Q606313,53.8124,-1.6285,Great Britain,West Yorkshire,1
+Culross,Q2424554,56.0554,-3.6293,Great Britain,Fife,1
+Donaghcloney,Q75192,54.42,-6.26032,Northern Ireland,,1
+Bangor,Q806551,54.66,-5.67,Northern Ireland,,1
+Kirkintilloch,Q2422689,55.93583,-4.15472,Great Britain,East Dunbartonshire,1
+Barnet,Q2884709,51.6444,-0.1997,Great Britain,Greater London,1
+Dr. Ambedkar Nagar,Q2283203,22.55,75.76,India,,1
+Brentwood,Q909993,51.62028,0.305,Great Britain,Essex,1
+Vancouver,Q24639,49.26083,-123.11389,Canada,,1
+Waite,Q928056,45.32556,-67.69028,United States of America,,1
+Meynell Langley,Q6826533,52.955,-1.554,Great Britain,Derbyshire,1
+Belgravia,Q123024,51.49795,-0.15453,Great Britain,Greater London,1
+Clearwell,Q5130972,51.7691,-2.6244,Great Britain,Gloucestershire,1
+Kilmarnock,Q576562,55.61167,-4.49444,Great Britain,East Ayrshire,1
+Radway,Q3656892,52.13,-1.464,Great Britain,Warwickshire,1
+Hoghton,Q2373715,53.73202,-2.58643,Great Britain,Lancashire,1
+Oldham,Q202628,53.54472,-2.11833,Great Britain,Greater Manchester,1
+Cambusnethan,Q5025693,55.7791,-3.89568,Great Britain,North Lanarkshire,1
+Chatham-Kent,Q113464,42.4,-82.18333,Canada,,1
+Aspley Guise,Q731209,52.0126,-0.6285,Great Britain,Bedfordshire,1
+County Sligo,Q179325,54.25,-8.66667,Ireland,,1
+St Helens,Q153647,53.4541,-2.7461,Great Britain,Merseyside,1
+Woodmancott,Q8033093,51.1789,-1.195,Great Britain,Hampshire,1
+Bacchus Marsh,Q2878215,-37.675,144.43889,Australia,,1
+Worthing,Q671348,50.81471,-0.37139,Great Britain,West Sussex,1
+Radcliffe-on-Trent,Q2648766,52.95,-1.04,Great Britain,Nottinghamshire,1
+Newmills,Q7018610,54.55,-6.73333,Northern Ireland,,1
+Drayton,Q2792527,51.647,-1.313,Great Britain,Oxfordshire,1
+Wakefield,Q216638,53.6825,-1.4975,Great Britain,West Yorkshire,1
+Ahilyanagar,Q223517,19.08333,74.73333,India,,1
+Portland,Q6106,45.515,-122.67917,United States of America,,1
+Nigg,Q2481662,57.719,-4.009,Great Britain,Highland,1
+Cahir,Q516951,52.375,-7.925,Ireland,,1
+Evandale,Q2123296,-41.58333,147.23333,Australia,,1
+Wanstead,Q2491351,51.57779,0.02859,Great Britain,Greater London,1
+Claremorris,Q1095348,53.7167,-9.0,Ireland,,1
+Bathinda,Q709319,30.21333,74.95194,India,,1
+Keighley,Q990168,53.86667,-1.91667,Great Britain,West Yorkshire,1
+Newcastle West,Q987754,52.45099,-9.05462,Ireland,,1
+Faversham,Q1000115,51.3177,0.8928,Great Britain,Kent,1
+Great Limber,Q2514869,53.5628,-0.28985,Great Britain,Lincolnshire,1
+Poulton,Q7235590,53.4123,-3.0475,Great Britain,Merseyside,1
+Queenstown,Q610600,-31.9,26.88333,South Africa,,1
+Nongoma,Q1996236,-27.88333,31.63333,South Africa,,1
+Seaham,Q2345990,54.84,-1.34,Great Britain,Durham,1
+Highton,Q5759711,-38.171,144.318,Australia,,1
+Whareponga,Q25660836,-37.968,178.375,New Zealand,,1
+Lincoln,Q1186226,-43.64,172.486,New Zealand,,1
+Dorchester,Q3036985,45.9016,-64.5161,Canada,,1
+Herschel,Q1614521,-30.61611,27.16194,South Africa,,1
+Schull,Q2566224,51.52667,-9.54806,Ireland,,1
+Macroom,Q1002636,51.90435,-8.95695,Ireland,,1
+Dartrey Forest,Q5225748,54.0986,-7.0716,Ireland,,1
+Lorrha,Q1870405,53.08333,-8.11667,Ireland,,1
+Bilston,Q1015967,52.56605,-2.07281,Great Britain,West Midlands,1
+Dewsbury,Q525508,53.68333,-1.63333,Great Britain,West Yorkshire,1
+Foulden,Q4931583,52.55904,0.60201,Great Britain,Norfolk,1
+Wigginton,Q2582838,51.7833,-0.6387,Great Britain,Hertfordshire,1
+County Cavan,Q187402,53.91667,-7.25,Ireland,,1
+Brereton,Q2063207,53.17444,-2.33463,Great Britain,Cheshire,1
+Faisalabad,Q173985,31.418,73.079,Pakistan,,1
+St Johns,Q7593809,51.4694,-0.0222,Great Britain,Greater London,1
+Grantham,Q846683,52.91806,-0.63806,Great Britain,Lincolnshire,1
+Wigginton,Q7999600,52.6583,-1.6917,Great Britain,Staffordshire,1
+Rishton,Q2300574,53.77011,-2.4187,Great Britain,Lancashire,1
+Grafton,Q1025587,-29.68167,152.93444,Australia,,1
+Innellan,Q1009637,55.8943,-4.9573,Great Britain,Argyll and Bute,1
+Stirling,Q182923,56.1166,-3.9369,Great Britain,Stirling,1
+Ingham,Q976153,-18.65,146.16667,Australia,,1
+Bury,Q47822,53.59315,-2.29855,Great Britain,Greater Manchester,1
+Watford,Q2598,51.65528,-0.39583,Great Britain,Hertfordshire,1
+Hopewell Hill,Q5900373,45.764,-64.6835,Canada,,1
+Castlemaine,Q260317,-37.06361,144.21722,Australia,,1
+Cobham,Q1006990,51.3289,-0.4094,Great Britain,Surrey,1
+Huntly,Q1016931,57.45,-2.78333,Great Britain,Aberdeenshire,1
+Charlottetown,Q2127,46.23528,-63.12667,Canada,,1
+Coleorton,Q3499971,52.751,-1.402,Great Britain,Leicestershire,1
+West Bromwich,Q212826,52.51667,-1.98333,Great Britain,West Midlands,1
+Emsworth,Q1219676,50.849,-0.938,Great Britain,Hampshire,1
+Northamptonshire,Q23115,52.3,-0.8,Great Britain,Northamptonshire,1
+Mullion,Q2699015,50.027,-5.241,Great Britain,Cornwall,1
+Kamptee,Q2283184,21.21902,79.19117,India,,1
+Little Malvern,Q576836,52.06178,-2.33713,Great Britain,Worcestershire,1
+Wallington,Q2509310,51.3647,-0.1403,Great Britain,Greater London,1
+Abbottabad,Q170315,34.15,73.21667,Pakistan,,1
+East Witton,Q2550242,54.26948,-1.77872,Great Britain,North Yorkshire,1
+Jammu and Kashmir,Q1180,34.0,76.5,India,,1
+Gorakhpur,Q5584396,26.76111,83.36667,India,,1
+Chirbury,Q2963905,52.5784,-3.0919,Great Britain,Shropshire,1
+Wareham,Q387419,50.69188,-2.10888,Great Britain,Dorset,1
+Bootle,Q893159,53.45,-2.99417,Great Britain,Merseyside,1
+Moneygall,Q577157,52.88063,-7.95419,Ireland,,1
+Gilfach Goch,Q3401786,51.7333,-3.48333,Great Britain,Mid Glamorgan,1
+The Hague,Q36600,52.08,4.31,Netherlands,,1
+Staffordshire,Q23105,52.80694,-2.11611,Great Britain,Staffordshire,1
+Winterborne Monkton,Q2744059,50.68333,-2.45,Great Britain,Dorset,1
+Ardihannon,Q4788057,55.2332,-6.52024,Northern Ireland,,1
+Boulogne-sur-Mer,Q81997,50.72556,1.61389,France,,1
+Morningside,Q3324268,55.9251,-3.20941,Great Britain,City of Edinburgh,1
+Chyangthapu,Q3410680,27.25,87.98,Nepal,,1
+Varanasi,Q79980,25.31889,83.01278,India,,1
+Barmedman,Q4861264,-34.14833,147.38444,Australia,,1
+Aston,Q649838,52.5,-1.88,Great Britain,West Midlands,1
+Mottistone,Q6918671,50.6518,-1.42765,Great Britain,Isle of Wight,1
+Plumtree,Q7205484,52.8917,-1.08722,Great Britain,Nottinghamshire,1
+Perth,Q2428683,44.9,-76.25,Canada,,1
+Clayton,Q5130147,53.4853,-2.17833,Great Britain,Greater Manchester,1
+Felinfoel,Q5441920,51.7007,-4.14449,Great Britain,Dyfed,1
+Caernarfon,Q428829,53.14,-4.27,Great Britain,Gwynedd,1
+Johannesburg,Q34647,-26.20436,28.04164,South Africa,,1
+Baillieston,Q4848462,55.8474,-4.11466,Great Britain,Glasgow City,1
+Elgin,Q841074,57.64639,-3.31528,Great Britain,Moray,1
+Riga,Q1773,56.9475,24.10694,Latvia,,1
+Whilton,Q743285,52.27737,-1.06791,Great Britain,Northamptonshire,1
+Dún Laoghaire,Q745989,53.3,-6.14,Ireland,,1
+Stoke-on-Trent,Q134902,53.0,-2.18333,Great Britain,Staffordshire,1
+Killeshandra,Q311566,54.01667,-7.53333,Ireland,,1
+Bellshill,Q680984,55.82056,-4.02833,Great Britain,North Lanarkshire,1
+Stoke,Q7618427,50.38,-4.16278,Great Britain,Devon,1
+Oldcastle,Q269623,53.76917,-7.1625,Ireland,,1
+Chacewater,Q2073348,50.257,-5.157,Great Britain,Cornwall,1
+Highbury,Q124394,51.552,-0.097,Great Britain,Greater London,1
+Bow,Q122607,51.5298,-0.0288,Great Britain,Greater London,1
+Chesham Bois,Q637711,51.685,-0.605,Great Britain,Buckinghamshire,1
+Penrith,Q798906,54.6648,-2.7548,Great Britain,Cumbria,1
+Pietermaritzburg,Q185591,-29.6009,30.3796,South Africa,,1
+Stellarton,Q3498168,45.55944,-62.65972,Canada,,1
+British Raj,Q129286,22.54111,88.33778,India,,1
+Echuca,Q991600,-36.13333,144.75,Australia,,1
+Wellington,Q1749236,11.37,76.8,India,,1
+Taunton,Q845619,51.01917,-3.1,Great Britain,Somerset,1
+St Neots,Q1018225,52.22778,-0.26667,Great Britain,Cambridgeshire,1
+Scotland,Q22,57.0,-5.0,Great Britain,Highland,1
+Tipperary,Q680220,52.47442,-8.16198,Ireland,,1
+Llanrug,Q3401562,53.14797,-4.193,Great Britain,Gwynedd,1
+Woburn,Q1881422,51.98826,-0.61942,Great Britain,Bedfordshire,1
+Berkshire,Q23220,51.42,-1.0,Great Britain,Berkshire,1
+Holyhead,Q257446,53.31667,-4.63333,Great Britain,Gwynedd,1
+Cramahe,Q3002087,44.08667,-77.87722,Canada,,1
+County Tipperary,Q184618,52.66667,-7.83333,Ireland,,1
+Tumut,Q1025607,-35.30389,148.22333,Australia,,1
+Camberwell,Q2934668,-37.835,145.071,Australia,,1
+Fontmell Magna,Q2558399,50.95,-2.19,Great Britain,Dorset,1
+Swarraton,Q2181242,51.1294,-1.18871,Great Britain,Hampshire,1
+Carnoustie,Q1012395,56.5005,-2.71472,Great Britain,Angus,1
+Auckland,Q37100,-36.84917,174.76528,New Zealand,,1
+Exmouth,Q1007093,50.62,-3.413,Great Britain,Devon,1
+Portugal,Q45,38.7,-9.18333,Portugal,,1
+Ipswich,Q184775,52.05944,1.15556,Great Britain,Suffolk,1
+Burgdorf,Q68311,47.05667,7.62639,Switzerland,,1
+Audenshaw,Q2575099,53.4743,-2.1122,Great Britain,Greater Manchester,1
+Haslingden,Q2361633,53.705,-2.328,Great Britain,Lancashire,1
+Whittlesey,Q2335054,52.55668,-0.13072,Great Britain,Cambridgeshire,1
+Topsham,Q2713328,43.92472,-69.96361,United States of America,,1
+Rawalpindi,Q93230,33.6007,73.0679,Pakistan,,1
+Ayr,Q654216,55.46389,-4.62778,Great Britain,South Ayrshire,1
+Pickworth,Q7190959,52.8898,-0.4544,Great Britain,Lincolnshire,1
+King's Lynn,Q157341,52.7543,0.3976,Great Britain,Norfolk,1
+Prestonpans,Q7242055,55.9597,-2.961,Great Britain,East Lothian,1
+Royston,Q1617071,53.61,-1.45,Great Britain,South Yorkshire,1
+Tanahun District,Q28446,27.91667,84.25,Nepal,,1
+Chakrala,Q5068401,32.8298,71.8751,Pakistan,,1
+Oxton,Q960283,53.055,-1.062,Great Britain,Nottinghamshire,1
+Lady Frere,Q3642180,-31.703,27.234,South Africa,,1
+Eston,Q1910635,54.56,-1.144,Great Britain,North Yorkshire,1
+Dutton/Dunwich,Q36750,42.6667,-81.5,Canada,,1
+Chippendale,Q2916395,-33.88611,151.20028,Australia,,1
+Bloomsbury,Q150120,51.52306,-0.125,Great Britain,Greater London,1
+Victoria,Q2132,48.42215,-123.3657,Canada,,1
+Cults,Q1143533,57.1187,-2.17387,Great Britain,Aberdeen City,1
+Cowes,Q587996,50.7595,-1.3002,Great Britain,Isle of Wight,1
+Maryport,Q640981,54.7128,-3.4926,Great Britain,Cumbria,1
+Thames Ditton,Q954764,51.3948,-0.34125,Great Britain,Surrey,1
+Constantinople,Q16869,41.01224,28.97602,Turkey,,1
+Maidstone,Q213180,51.27167,0.52944,Great Britain,Kent,1
+Workington,Q1538358,54.6365,-3.5549,Great Britain,Cumbria,1
+Ticknall,Q2553124,52.812,-1.481,Great Britain,Derbyshire,1
+Lahore,Q11739,31.54972,74.34361,Pakistan,,1
+Teignmouth,Q531311,50.5491,-3.4948,Great Britain,Devon,1
+Nottingham Road,Q11022849,-29.35,30.0,South Africa,,1
+Belturbet,Q252020,54.1,-7.45,Ireland,,1
+Inverkeithing,Q1010422,56.03333,-3.38333,Great Britain,Fife,1
+Halwill,Q2630020,50.76667,-4.23333,Great Britain,Devon,1
+Blyth,Q886899,55.126,-1.514,Great Britain,Northumberland,1
+Subiaco,Q3976501,-31.95,115.825,Australia,,1
+Beaconsfield,Q812900,-41.2,146.8,Australia,,1
+Springhead,Q7581115,53.53917,-2.05944,Great Britain,Greater Manchester,1
+Grandtully,Q5595545,56.657,-3.77639,Great Britain,Perth and Kinross,1
+Hutchesontown,Q15227171,55.84506,-4.24711,Great Britain,Glasgow City,1
+Ripley,Q936514,53.03333,-1.4,Great Britain,Derbyshire,1
+Napier,Q203380,-39.49028,176.91778,New Zealand,,1
+Bo'ness,Q896424,56.01681,-3.60891,Great Britain,Falkirk,1
+Newton Heath,Q176084,53.4999,-2.1833,Great Britain,Greater Manchester,1
+Odcombe,Q922566,50.936,-2.705,Great Britain,Somerset,1
+Walworth,Q1231883,51.4898,-0.0905,Great Britain,Greater London,1
+Fiji,Q712,-18.0,178.0,Fiji,,1
+Crystal Brook,Q2255269,-33.35,138.2,Australia,,1
+Bantry,Q807001,51.67979,-9.45322,Ireland,,1
+Ightham,Q2374524,51.285,0.288,Great Britain,Kent,1
+Inanda,Q12730377,-29.68333,30.93333,South Africa,,1
+Mossley,Q613847,53.5147,-2.0387,Great Britain,Greater Manchester,1
+Devizes,Q1026699,51.35278,-1.99583,Great Britain,Wiltshire,1
+South Hill,Q1900575,50.529,-4.358,Great Britain,Cornwall,1
+Monaghan,Q373901,54.24778,-6.97083,Ireland,,1
+Broxbourne,Q19791,51.7495,-0.0216,Great Britain,Hertfordshire,1
+Llanwinio,Q6661877,51.9167,-4.53333,Great Britain,Dyfed,1
+Yoxall,Q2989704,52.766,-1.793,Great Britain,Staffordshire,1
+Northam,Q478147,-31.65306,116.66611,Australia,,1
+Hurlford,Q5946704,55.5985,-4.45205,Great Britain,East Ayrshire,1
+Etobicoke,Q1020159,43.6161,-79.5125,Canada,,1
+Broughton,Q2540492,53.80944,-2.72389,Great Britain,Lancashire,1
+Blackall,Q880676,-24.41667,145.46667,Australia,,1
+Ōpōtiki,Q953871,-38.007,177.287,New Zealand,,1
+Nelson,Q206687,-41.29306,173.23806,New Zealand,,1
+Mousehole,Q1951055,50.083,-5.539,Great Britain,Cornwall,1
+Houhora,Q1631316,-34.79639,173.10667,New Zealand,,1
+Cabano,Q1022129,47.68333,-68.88333,Canada,,1
+Longwood,Q6674500,-36.8,145.417,Australia,,1
+Myagdi District,Q28624,28.3417,83.5666,Nepal,,1
+Andover,Q492805,51.2167,-1.4667,Great Britain,Hampshire,1
+Witnesham,Q2047327,52.115,1.188,Great Britain,Suffolk,1
+Munger,Q36796,25.381,86.465,India,,1
+Fawley,Q2749703,50.828,-1.352,Great Britain,Hampshire,1
+Christchurch,Q79990,-43.53111,172.63611,New Zealand,,1
+Rushden,Q1987237,52.288,-0.601,Great Britain,Northamptonshire,1
+Dartmouth,Q1007083,50.35028,-3.57861,Great Britain,Devon,1
+Wambrook,Q767517,50.8626,-3.0031,Great Britain,Somerset,1
+Lancaster,Q205905,54.04889,-2.80139,Great Britain,Lancashire,1
+Frimley,Q1424548,51.3143,-0.7387,Great Britain,Surrey,1
+Finnea,Q4484898,53.7826,-7.39545,Ireland,,1
+Thornhill,Q3778556,55.239,-3.767,Great Britain,Dumfries and Galloway,1
+West Horsley,Q4540047,51.261,-0.454,Great Britain,Surrey,1
+Batley Carr,Q4869319,53.7076,-1.64319,Great Britain,West Yorkshire,1
+Newport Pagnell,Q1020231,52.087,-0.722,Great Britain,Buckinghamshire,1
+Wrexham,Q496368,53.04667,-2.99361,Great Britain,Clwyd,1
+Redenhall with Harleston,Q129764,52.4,1.3,Great Britain,Norfolk,1
+Kinsale,Q840681,51.7075,-8.53056,Ireland,,1
+Winterborne Whitechurch,Q578322,50.8,-2.23333,Great Britain,Dorset,1
+Welshpool,Q1024911,52.65966,-3.14725,Great Britain,Powys,1
+Bathurst,Q704978,-33.42,149.57778,Australia,,1
+Darjeeling,Q169997,27.0375,88.26306,India,,1
+St Albans,Q6226,51.755,-0.336,Great Britain,Hertfordshire,1
+Nelson,Q3403439,51.6513,-3.2806,Great Britain,Gwent,1
+Velsen,Q9970,52.46667,4.61667,Netherlands,,1
+Gardenstown,Q1009777,57.6703,-2.337,Great Britain,Aberdeenshire,1
+Shotton,Q2355142,53.209,-3.042,Great Britain,Clwyd,1
+Te Kōpuru,Q7690851,-36.029,173.921,New Zealand,,1
+Stratfield Saye,Q7621909,51.34972,-1.01972,Great Britain,Hampshire,1
+Herne Bay,Q929286,51.3706,1.127,Great Britain,Kent,1
+Ruddington,Q2361806,52.8925,-1.14972,Great Britain,Nottinghamshire,1
+Surry Hills,Q2915698,-33.885,151.21,Australia,,1
+Yokohama,Q38283,35.45033,139.63422,Japan,,1
+Chakrata,Q858555,30.69,77.86,India,,1
+Boroughbridge,Q2569056,54.095,-1.398,Great Britain,North Yorkshire,1
+Bromley,Q122892,51.40644,0.01831,Great Britain,Greater London,1
+Portstewart,Q2239914,55.18,-6.711,Northern Ireland,,1
+Mitcham,Q687798,51.4009,-0.1517,Great Britain,Greater London,1
+Oswestry,Q1009221,52.8598,-3.0538,Great Britain,Shropshire,1
+Worsthorne,Q8037143,53.783,-2.183,Great Britain,Lancashire,1
+Huon Island,Q3593323,-43.29,147.145,Australia,,1
+Leigh,Q2588021,53.4975,-2.515,Great Britain,Greater Manchester,1
+Bridgnorth,Q914000,52.535,-2.4195,Great Britain,Shropshire,1
+Anglesey,Q168159,53.29389,-4.37667,Great Britain,Gwynedd,1
+Stanton Lacy,Q3877432,52.4046,-2.7375,Great Britain,Shropshire,1
+Woking,Q646225,51.31611,-0.56111,Great Britain,Surrey,1
+Chaddesden,Q5066424,52.9301,-1.43834,Great Britain,Derbyshire,1
+Swaffham,Q1527491,52.65289,0.68429,Great Britain,Norfolk,1
+Sandown,Q516605,50.6551,-1.1541,Great Britain,Isle of Wight,1
+Newton upon Derwent,Q2775828,53.93455,-0.90451,Great Britain,East Riding of Yorkshire,1
+Cressing,Q1915121,51.8587,0.60219,Great Britain,Essex,1
+Stockport,Q18655,53.40833,-2.14944,Great Britain,Greater Manchester,1
+Wigan,Q208143,53.54472,-2.63167,Great Britain,Greater Manchester,1
+Germany,Q183,51.0,10.0,Germany,,1
+Lewes,Q246884,50.87472,0.01167,Great Britain,East Sussex,1
+Two Wells,Q3427218,-34.58333,138.51667,Australia,,1
+Bethnal Green,Q124204,51.5275,-0.066,Great Britain,Greater London,1
+Ballymena,Q805451,54.862,-6.268,Northern Ireland,,1
+Mettingham,Q2293473,52.457,1.474,Great Britain,Suffolk,1
+Gibraltar,Q1410,36.14,-5.35,Spain,,1
+Madeley,Q2552430,52.6374,-2.4488,Great Britain,Shropshire,1
+Raigad district,Q2019683,18.65,72.88,India,,1
+High Wycombe,Q64116,51.62167,-0.75167,Great Britain,Buckinghamshire,1
+Thornley,Q7796462,54.75,-1.431,Great Britain,Durham,1
+Clarinbridge,Q2174714,53.2273,-8.88482,Ireland,,1
+Cherat,Q3695863,33.81667,71.88333,Pakistan,,1
+The Boldons,Q1619083,54.9426,-1.45349,Great Britain,Tyne and Wear,1
+Faribault,Q177861,44.29497,-93.26883,United States of America,,1

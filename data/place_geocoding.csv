@@ -1,0 +1,718 @@
+list,wikipedia_article,year,conflict,place_text,place_links,method,matched,precision,lat,lon,source,note
+Irish,James Adams (chaplain),1879,Second Afghan War,"Killa Kazi, Afghanistan",Killa Kazi;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Irish,Augustus Agar,1919,Baltic Campaign 1918,"Kronstadt, Russia",Kronstadt,wikipedia_link,Kronstadt,place,59.99083333,29.77472222,https://en.wikipedia.org/wiki/Kronstadt,
+Irish,John Alexander (soldier),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Charles Anderson (VC),1858,Indian Rebellion of 1857,"Sandila, India",Sandila,wikipedia_link,Sandila,place,27.06944444,80.51416667,https://en.wikipedia.org/wiki/Sandila,
+Irish,John Barry (VC recipient),1901,Second Boer War,"Monument Hill, South Africa","Monument Hill, South Africa",wikipedia_link,"Belfast, Mpumalanga",place,-25.68333333,30.01666667,https://en.wikipedia.org/wiki/Belfast%2C_Mpumalanga,
+Irish,David Bell (VC),1867,Andaman Islands Expedition,"Little Andaman, India",Little Andaman,wikipedia_link,Little Andaman,place,10.65,92.49,https://en.wikipedia.org/wiki/Little_Andaman,
+Irish,Edward William Derrington Bell,1854,Crimean War,"Alma, Crimea",Battle of Alma;Crimea,wikipedia_link,Battle of the Alma,place,44.831036,33.668879,https://en.wikipedia.org/wiki/Battle_of_the_Alma,
+Irish,Eric Norman Frankland Bell,1916,First World War,"Thiepval, France",Thiepval,wikipedia_link,Thiepval,place,50.0553,2.6897,https://en.wikipedia.org/wiki/Thiepval,
+Irish,Lord William Beresford,1879,Anglo-Zulu War,"Ulundi, South Africa",Ulundi;South Africa,wikipedia_link,Ulundi,place,-28.31666667,31.41666667,https://en.wikipedia.org/wiki/Ulundi,
+Irish,James Bergin,1868,Abyssinian Expedition,"Magdala, Abyssinia",Battle of Magdala;Ethiopia,wikipedia_link,Battle of Magdala,place,11.34638889,39.18138889,https://en.wikipedia.org/wiki/Battle_of_Magdala,
+Irish,Edward Bingham,1916,First World War,"Jutland, Denmark",Battle of Jutland,wikipedia_link,Battle of Jutland,place,56.7,5.9,https://en.wikipedia.org/wiki/Battle_of_Jutland,
+Irish,Abraham Boulger,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,George Boyd-Rochfort,1915,First World War,"Cambrin, France",Cambrin,wikipedia_link,Cambrin,place,50.5119,2.7433,https://en.wikipedia.org/wiki/Cambrin,
+Irish,"Joseph Bradshaw, VC recipient",1855,Crimean War,"Woronzoff Road, Crimea",Woronzoff Road;Crimea,wikipedia_link_coarse,Crimea,region,45.3,34.4,https://en.wikipedia.org/wiki/Crimea,no GeoNames match
+Irish,William Bradshaw (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Edward Douglas Brown,1900,Second Boer War,"Geluk, South Africa",Geluk;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Irish,Francis David Millet Brown,1857,Indian Rebellion of 1857,"Narnaul, India",Narnaul,wikipedia_link,Narnaul,place,28.04444444,76.10555556,https://en.wikipedia.org/wiki/Narnaul,
+Irish,Bryan Budd,2006,War in Afghanistan,"Sangin, Afghanistan",Sangin;Afghanistan,wikipedia_link,Sangin,place,32.07333333,64.83388889,https://en.wikipedia.org/wiki/Sangin,
+Irish,Hugh Talbot Burgoyne,1855,Crimean War,"Sea of Azov, Crimea",Sea of Azov;Crimea,wikipedia_link_coarse,Sea of Azov,region,46,37,https://en.wikipedia.org/wiki/Sea_of_Azov,no GeoNames match
+Irish,Nathaniel Burslem,1860,Second Opium War,"Taku Forts, China",Taku Forts,wikipedia_link,Taku Forts,place,38.97705556,117.70536111,https://en.wikipedia.org/wiki/Taku_Forts,
+Irish,James Byrne (VC),1858,Indian Rebellion of 1857,"Jhansi, India",Jhansi,wikipedia_link,Jhansi,place,25.44862,78.56962,https://en.wikipedia.org/wiki/Jhansi,
+Irish,John Byrne (VC),1854,Crimean War,"Inkerman, Crimea",Battle of Inkerman;Crimea,wikipedia_link,Battle of Inkerman,place,44.585,33.592,https://en.wikipedia.org/wiki/Battle_of_Inkerman,
+Irish,Thomas Byrne (VC),1898,Mahdist War,"Omdurman, Sudan",Battle of Omdurman;Sudan,wikipedia_link,Battle of Omdurman,place,15.75194444,32.52,https://en.wikipedia.org/wiki/Battle_of_Omdurman,
+Irish,John Caffrey,1915,First World War,"La Brique, France",La Brique,unmatched,,,,,,no GeoNames match
+Irish,Daniel Cambridge,1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Patrick Carlin,1858,Indian Rebellion of 1857,"Azumgurh, India",Azumgurh,wikipedia_link,Azamgarh,place,26.068,83.184,https://en.wikipedia.org/wiki/Azamgarh,
+Irish,Geoffrey Cather,1916,First World War,"Hamel, France",Beaumont-Hamel,wikipedia_link,Beaumont-Hamel,place,50.084,2.6572,https://en.wikipedia.org/wiki/Beaumont-Hamel,
+Irish,Alexander Cobbe,1902,Somaliland Campaign,"Erego, Somaliland",Erego;Somaliland,wikipedia_link_coarse,Somaliland,region,9.75,45.96666667,https://en.wikipedia.org/wiki/Somaliland,no GeoNames match
+Irish,William Coffey (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Nevill Coghill (VC),1879,Anglo-Zulu War,Isandhlwana South Africa,Battle of Isandhlwana;South Africa,wikipedia_link,Battle of Isandlwana,place,-28.35638889,30.6525,https://en.wikipedia.org/wiki/Battle_of_Isandlwana,
+Irish,Hugh Colvin,1917,First World War,"Ypres, Belgium",Ypres,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Irish,John Connors (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,John Augustus Conolly,1854,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,William Cosgrove,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Irish,Edmund William Costello,1897,Siege of Malakand,"Malakand, India",Malakand Agency,geonames,"Malakand (PK, GeoNames 1171389)",place,34.56561,71.93043,https://www.geonames.org/1171389,
+Irish,Cornelius Coughlan,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,O'Moore Creagh,1879,Second Afghan War,"Kam Dakka, Afghanistan",Kam Dakka;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Irish,Thomas Crean,1901,Second Boer War,"Tygerkloof Spruit, South Africa",Tygerkloof Spruit;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Irish,James Crichton (VC),1918,First World War,"Crèvecœur, France",Crèvecœur-le-Grand,wikipedia_link,Crèvecœur-le-Grand,place,49.6089,2.0789,https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur-le-Grand,
+Irish,John Crimmin,1889,Karenni Expedition,"Lwekaw, Burma",Lwekaw;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Irish,John Cunningham (Irish VC),1917,First World War,"Bois-en-Hache, France",Bois-en-Hache,unmatched,,,,,,no GeoNames match
+Irish,John Danaher (VC),1881,First Boer War,"Elandsfontein, South Africa","Alberton, South Africa;South Africa",wikipedia_link,"Alberton, South Africa",place,-26.26722222,28.12194444,https://en.wikipedia.org/wiki/Alberton%2C_South_Africa,
+Irish,Maurice Dease,1914,First World War,"Mons, Belgium","Mons, Belgium",wikipedia_link,"Mons, Belgium",place,50.4547,3.9525,https://en.wikipedia.org/wiki/Mons%2C_Belgium,
+Irish,Denis Dempsey,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Bernard Diamond (VC),1857,Indian Rebellion of 1857,"Bulandshahr, India",Bulandshahr,wikipedia_link,Bulandshahr,place,28.40694444,77.84972222,https://en.wikipedia.org/wiki/Bulandshahr,
+Irish,Edmund De Wind,1918,First World War,"Groagie, France",Groagie,unmatched,,,,,,no GeoNames match
+Irish,John Divane,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Patrick Donohoe,1857,Indian Rebellion of 1857,"Bulandshahr, India",Bulandshahr,wikipedia_link,Bulandshahr,place,28.40694444,77.84972222,https://en.wikipedia.org/wiki/Bulandshahr,
+Irish,John Doogan,1881,First Boer War,"Laing's Nek, South Africa",Laing's Nek;South Africa,wikipedia_link,Laing's Nek,place,-27.46083333,29.86944444,https://en.wikipedia.org/wiki/Laing%27s_Nek,
+Irish,William Dowling (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Martin Doyle (VC),1918,First World War,"Reincourt, France",Reincourt,unmatched,,,,,,no GeoNames match
+Irish,James Duffy (VC),1917,First World War,"Kereina Peak, Palestine",Kereina Peak;Palestine,wikipedia_link_coarse,Palestine,region,32,35.25,https://en.wikipedia.org/wiki/Palestine,no GeoNames match
+Irish,Thomas Duffy (fusilier),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,John Dunlay,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Denis Dynon,1857,Indian Rebellion of 1857,"Chota Behar, India",Chota Behar,unmatched,,,,,,no GeoNames match
+Irish,Frederick Jeremiah Edwards,1916,First World War,"Thiepval, France",Thiepval,wikipedia_link,Thiepval,place,50.0553,2.6897,https://en.wikipedia.org/wiki/Thiepval,
+Irish,James Samuel Emerson,1917,First World War,"La Vacquerie, France",La Vacquerie,wikipedia_link,La Vacquerie,place,49.0931,-0.8569,https://en.wikipedia.org/wiki/La_Vacquerie,
+Irish,William John English,1901,Second Boer War,"Vlakfontein, South Africa",Vlakfontein;South Africa,wikipedia_link,Vlakfontein,place,-25.58,30.19,https://en.wikipedia.org/wiki/Vlakfontein,
+Irish,Harold Marcus Ervine-Andrews,1940,Second World War,"Dunkirk, France",Dunkirk,wikipedia_link,Dunkirk,place,51.0383,2.3775,https://en.wikipedia.org/wiki/Dunkirk,
+Irish,Eugene Esmonde,1942,Second World War,Straits of Dover,Straits of Dover,wikipedia_link,Strait of Dover,place,51,1.5,https://en.wikipedia.org/wiki/Strait_of_Dover,
+Irish,Thomas Esmonde (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,John Farrell (VC),1854,Crimean War,"Balaklava, Crimea",Balaklava;Crimea,wikipedia_link,Balaklava,place,44.5,33.6,https://en.wikipedia.org/wiki/Balaklava,
+Irish,Edward Stephen Fogarty Fegen,1940,Second World War,Atlantic Ocean,,unmatched,,,,,,no country given
+Irish,Charles FitzClarence,1899,Second Boer War,"Mafeking, South Africa",Siege of Mafeking;South Africa,geonames,"Mafikeng (ZA, GeoNames 980595)",place,-25.86522,25.64421,https://www.geonames.org/980595,
+Irish,Richard Fitzgerald (VC),1857,Indian Rebellion of 1857,"Bulandshahr, India",Bulandshahr,wikipedia_link,Bulandshahr,place,28.40694444,77.84972222,https://en.wikipedia.org/wiki/Bulandshahr,
+Irish,Andrew Fitzgibbon,1860,Second Opium War,"Taku Forts, China",Taku Forts,wikipedia_link,Taku Forts,place,38.97705556,117.70536111,https://en.wikipedia.org/wiki/Taku_Forts,
+Irish,Francis Fitzpatrick (VC),1879,Basuto War,"Sekukuni's Town, South Africa",Sekukuni's Town;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Irish,Thomas Flinn,1857,Indian Rebellion of 1857,"Cawnpore, India",Cawnpore,wikipedia_link,Kanpur,place,26.449923,80.331874,https://en.wikipedia.org/wiki/Kanpur,
+Irish,George Forrest (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Edmund John Fowler,1879,Anglo-Zulu War,"Zlobane Mountain, South Africa",Zlobane Mountain;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Irish,George Gardiner (soldier),1855,Crimean War,"Sebastopol, Crimea",Sevastopol;Crimea,wikipedia_link,Sevastopol,place,44.605,33.5225,https://en.wikipedia.org/wiki/Sevastopol,
+Irish,Donald Edward Garland,1940,Second World War,"Albert Canal, Belgium",Albert Canal,wikipedia_link,Albert Canal,place,51.0674,5.1907,https://en.wikipedia.org/wiki/Albert_Canal,
+Irish,Stephen Garvin,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Peter Gill (VC),1857,Indian Rebellion of 1857,"Benares, India",Benares,wikipedia_link,Varanasi,place,25.31888889,83.01277778,https://en.wikipedia.org/wiki/Varanasi,
+Irish,Henry George Gore-Browne,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Charles John Stanley Gough,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Hugh Henry Gough,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,John Gough (British Army officer),1903,Somaliland Campaign,"Daratoleh, Somaliland",Daratoleh;Somaliland,wikipedia_link_coarse,Somaliland,region,9.75,45.96666667,https://en.wikipedia.org/wiki/Somaliland,no GeoNames match
+Irish,Thomas Grady (VC),1854,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Patrick Graham (soldier),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Peter Grant (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Patrick Green (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,William Griffiths (VC),1867,Andaman Islands Expedition,"Little Andaman, India",Little Andaman,wikipedia_link,Little Andaman,place,10.65,92.49,https://en.wikipedia.org/wiki/Little_Andaman,
+Irish,Thomas Bernard Hackett,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Frederick William Hall,1915,First World War,"Ypres, Belgium",Ypres,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Irish,Walter Richard Pollock Hamilton,1879,Second Afghan War,"Futtehabad, Afghanistan",Futtehabad;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Irish,Robert Hill Hanna,1917,First World War,"Lens, France","Lens, Pas-de-Calais",wikipedia_link,"Lens, Pas-de-Calais",place,50.4322,2.8333,https://en.wikipedia.org/wiki/Lens%2C_Pas-de-Calais,
+Irish,John Harrison (VC 1857),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Reginald Clare Hart,1879,Second Afghan War,"Bazar Valley, Afghanistan",Bazar Valley;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Irish,Henry Hartigan,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Frederick Maurice Watson Harvey,1917,First World War,"Guyencourt, France",Guyencourt,wikipedia_link,Guyencourt,place,49.3572,3.8369,https://en.wikipedia.org/wiki/Guyencourt,
+Irish,Robert Hawthorne,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Samuel Hill (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,John Vincent Holland,1916,First World War,"Guillemont, France",Guillemont,wikipedia_link,Guillemont,place,50.0144,2.8258,https://en.wikipedia.org/wiki/Guillemont,
+Irish,Thomas Hughes (VC),1916,First World War,"Guillemont, France",Guillemont,wikipedia_link,Guillemont,place,50.0144,2.8258,https://en.wikipedia.org/wiki/Guillemont,
+Irish,Charles Irwin (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,James Jackman,1941,Second World War,"Tobruk, Libya",Tobruk;Libya,wikipedia_link,Tobruk,place,32.07611111,23.96138889,https://en.wikipedia.org/wiki/Tobruk,
+Irish,Edward Jennings (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Robert Johnston (VC recipient),1899,Second Boer War,"Elandslaagte, South Africa",Battle of Elandslaagte;South Africa,wikipedia_link,Battle of Elandslaagte,place,-28.42388889,29.97805556,https://en.wikipedia.org/wiki/Battle_of_Elandslaagte,
+Irish,Henry Mitchell Jones,1855,Crimean War,"Sebastopol, Crimea",Sevastopol;Crimea,wikipedia_link,Sevastopol,place,44.605,33.5225,https://en.wikipedia.org/wiki/Sevastopol,
+Irish,Thomas Henry Kavanagh,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Richard Harte Keatinge,1858,Indian Rebellion of 1857,"Chundairee, India",Chundairee,wikipedia_link,Chanderi,place,24.72,78.13,https://en.wikipedia.org/wiki/Chanderi,
+Irish,Richard Kelliher,1943,Second World War,"New Guinea, Pacific",New Guinea,wikipedia_link_coarse,New Guinea,region,-6,142,https://en.wikipedia.org/wiki/New_Guinea,country not recognised for GeoNames fallback
+Irish,Henry Kelly (VC),1916,First World War,"Le Sars, France",Le Sars,wikipedia_link,Le Sars,place,50.0717,2.7814,https://en.wikipedia.org/wiki/Le_Sars,
+Irish,William Kenealy,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Irish,James Kenny (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,William Kenny (VC),1914,First World War,"Ypres, Belgium",Ypres,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Irish,William David Kenny,1920,Waziristan Campaign,"Kot Kai, India",Kot Kai,unmatched,,,,,,no GeoNames match
+Irish,George Lambert (VC),1857,Indian Rebellion of 1857,"Oonao, India",Oonao,wikipedia_link,Unnao,place,26.55,80.49,https://en.wikipedia.org/wiki/Unnao,
+Irish,Thomas Lane (VC),1860,Second Opium War,"Taku Forts, China",Taku Forts,wikipedia_link,Taku Forts,place,38.97705556,117.70536111,https://en.wikipedia.org/wiki/Taku_Forts,
+Irish,Thomas Laughnan,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Samuel Hill Lawrence,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Edward Pemberton Leach,1879,Second Afghan War,"Maidanah, Afghanistan",Maidanah;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Irish,William Knox Leet,1879,Anglo-Zulu War,"Inhlobana, South Africa",Inhlobana;South Africa,wikipedia_link,Battle of Hlobane,place,-27.69888889,30.95,https://en.wikipedia.org/wiki/Battle_of_Hlobane,
+Irish,William James Lendrim,1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Owen Edward Pennefather Lloyd,1893,Kachin Expedition,"Fort Sima, Burma",Fort Sima;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Irish,David Lord (officer),1944,Second World War,"Battle of Arnhem, Netherlands",Battle of Arnhem,wikipedia_link,Battle of Arnhem,place,51.98027778,5.90027778,https://en.wikipedia.org/wiki/Battle_of_Arnhem,
+Irish,Charles Davis Lucas,1854,Crimean War,"Åland, Finland",Åland,wikipedia_link,Åland,place,60.25,20.36666667,https://en.wikipedia.org/wiki/%C3%85land,
+Irish,John Lucas (VC),1861,First Taranaki War,New Zealand,,unmatched,,,,,,no country given
+Irish,John Lyons (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Harry Hammon Lyster,1858,Indian Rebellion of 1857,"Calpee, India",Calpee,wikipedia_link,Kalpi,place,26.12,79.73,https://en.wikipedia.org/wiki/Kalpi,
+Irish,Ambrose Madden,1854,Crimean War,"Little Inkerman, Crimea",Little Inkerman;Crimea,wikipedia_link_coarse,Crimea,region,45.3,34.4,https://en.wikipedia.org/wiki/Crimea,no GeoNames match
+Irish,James Joseph Magennis,1945,Second World War,"Johore Straits, Singapore",Johore Straits;Singapore,wikipedia_link,Straits of Johor,place,1.44666667,103.75361111,https://en.wikipedia.org/wiki/Straits_of_Johor,
+Irish,Michael Magner,1868,Abyssinian Expedition,"Magdala, Abyssinia",Battle of Magdala;Ethiopia,wikipedia_link,Battle of Magdala,place,11.34638889,39.18138889,https://en.wikipedia.org/wiki/Battle_of_Magdala,
+Irish,Patrick Mahoney,1857,Indian Rebellion of 1857,"Mungulwar, India",Mungulwar,unmatched,,,,,,no GeoNames match
+Irish,William George Nicholas Manley,1864,New Zealand Wars,"Tauranga, New Zealand",Tauranga,wikipedia_link,Tauranga,place,-37.68333333,176.16666667,https://en.wikipedia.org/wiki/Tauranga,
+Irish,Edward Mannock,1918,First World War,Western Front,Western Front (World War I),unmatched,,,,,,no country given
+Irish,James Edward Ignatius Masterson,1900,Second Boer War,"Ladysmith, South Africa","Ladysmith, South Africa",wikipedia_link,"Ladysmith, KwaZulu-Natal",place,-28.55972222,29.78055556,https://en.wikipedia.org/wiki/Ladysmith%2C_KwaZulu-Natal,
+Irish,Frederick Francis Maude,1855,Crimean War,"|Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Charles McCorrie,1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,William Frederick McFadzean,1916,First World War,"Thiepval Wood, France",Thiepval Wood,unmatched,,,,,,no GeoNames match
+Irish,John McGovern (soldier),1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,James McGuire (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Patrick McHale,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Peter McManus,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Bernard McQuirt,1858,Indian Rebellion of 1857,"Rowa, India",Rowa,wikipedia_link_coarse,Rowa,region,29.5,82.25,https://en.wikipedia.org/wiki/Rowa,no GeoNames match
+Irish,William McWheeney,1854,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Martin Moffat,1918,First World War,"Ledeghem, Belgium",Ledeghem,wikipedia_link,Ledegem,place,50.85,3.11666667,https://en.wikipedia.org/wiki/Ledegem,
+Irish,Arthur Thomas Moore,1857,Anglo-Persian War,"Khushab, Persia",Battle of Khushab;Persia,geonames,"Jālq (IR, GeoNames 1160907)",place,27.60287,62.71023,https://www.geonames.org/1160907,
+Irish,Hans Garrett Moore,1877,Cape Frontier Wars,"Komgha, South Africa",Komgha;South Africa,geonames,"Komga (ZA, GeoNames 988265)",place,-32.57704,27.892,https://www.geonames.org/988265,
+Irish,Robert Morrow (VC),1915,First World War,"Messines, Belgium",Mesen,wikipedia_link,Mesen,place,50.76666667,2.9,https://en.wikipedia.org/wiki/Mesen,
+Irish,John Moyney,1917,First World War,"Broembeek, Belgium",Broembeek,unmatched,,,,,,no GeoNames match
+Irish,Andrew Moynihan,1855,Crimean War,"Redan, Crimea",Redan;Crimea,wikipedia_link_coarse,Crimea,region,45.3,34.4,https://en.wikipedia.org/wiki/Crimea,no GeoNames match
+Irish,Patrick Mullane,1880,Second Afghan War,"Maiwand, Afghanistan",Maiwand;Afghanistan,wikipedia_link,Maiwand,place,31.73333333,65.13333333,https://en.wikipedia.org/wiki/Maiwand,
+Irish,Michael Murphy (VC),1858,Indian Rebellion of 1857,"Azumgurh, India",Azumgurh,wikipedia_link,Azamgarh,place,26.068,83.184,https://en.wikipedia.org/wiki/Azamgarh,
+Irish,Thomas Murphy (VC),1867,Andaman Islands Expedition,"Little Andaman, India",Little Andaman,wikipedia_link,Little Andaman,place,10.65,92.49,https://en.wikipedia.org/wiki/Little_Andaman,
+Irish,James Murray (VC),1881,First Boer War,"Elandsfontein, South Africa","Alberton, South Africa;South Africa",wikipedia_link,"Alberton, South Africa",place,-26.26722222,28.12194444,https://en.wikipedia.org/wiki/Alberton%2C_South_Africa,
+Irish,John Murray (VC),1864,New Zealand Wars,"Tauranga, New Zealand",Tauranga,wikipedia_link,Tauranga,place,-37.68333333,176.16666667,https://en.wikipedia.org/wiki/Tauranga,
+Irish,Patrick Mylott,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Michael John O'Leary,1917,First World War,"Cuinchy, France",Cuinchy,wikipedia_link,Cuinchy,place,50.52,2.7494,https://en.wikipedia.org/wiki/Cuinchy,
+Irish,William Nash (VC),1858,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,David Nelson (British Army officer),1914,First World War,"Néry, France",Néry,wikipedia_link,Néry,place,49.2822,2.7792,https://en.wikipedia.org/wiki/N%C3%A9ry,
+Irish,Claude Joseph Patrick Nunney,1918,First World War,"Drocourt-Quéant Line, France",Drocourt-Quéant Line,wikidata_battle,Battle of Drocourt-Quéant Line (Q5308173),place,50.18,2.984166666,https://www.wikidata.org/wiki/Q5308173,
+Irish,George Nurse (VC recipient),1899,Second Boer War,"Colenso, South Africa",Battle of Colenso;South Africa,wikipedia_link,Second Battle of Colenso,place,-28.73416667,29.8225,https://en.wikipedia.org/wiki/Second_Battle_of_Colenso,
+Irish,Luke O'Connor,1854,Crimean War,"Alma, Crimea",Battle of the Alma;Crimea,wikipedia_link,Battle of the Alma,place,44.831036,33.668879,https://en.wikipedia.org/wiki/Battle_of_the_Alma,
+Irish,Timothy O'Hea,1866,Fenian raids on Canada,"Danville, Quebec, Canada","Danville, Quebec",wikipedia_link,"Danville, Quebec",place,45.78333333,-72.01666667,https://en.wikipedia.org/wiki/Danville%2C_Quebec,
+Irish,O'Leary,1915,First World War,"Cuinchy, France",Cuinchy,wikipedia_link,Cuinchy,place,50.52,2.7494,https://en.wikipedia.org/wiki/Cuinchy,
+Irish,William Olpherts,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Martin O'Meara,1916,First World War,"Pozières, France",Pozières,wikipedia_link,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Irish,Michael James O'Rourke,1917,First World War,"Hill 70, France",Hill 70,wikidata_battle,Battle of Hill 70 (Q2337604),place,50.45555556,2.81902778,https://www.wikidata.org/wiki/Q2337604,
+Irish,Gerald Robert O'Sullivan,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Irish,Edmund O'Toole,1879,Anglo-Zulu War,"Ulundi, South Africa",Ulundi;South Africa,wikipedia_link,Ulundi,place,-28.31666667,31.41666667,https://en.wikipedia.org/wiki/Ulundi,
+Irish,James Owens (VC),1854,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,John Park (VC),1854,Crimean War,"Alma, Crimea",Battle of the Alma;Crimea,wikipedia_link,Battle of the Alma,place,44.831036,33.668879,https://en.wikipedia.org/wiki/Battle_of_the_Alma,
+Irish,James Pearson (soldier),1858,Indian Rebellion of 1857,"Jhansi, India",Jhansi,wikipedia_link,Jhansi,place,25.44862,78.56962,https://en.wikipedia.org/wiki/Jhansi,
+Irish,Dighton Probyn,1857,Indian Rebellion of 1857,"Agra, India",Battle of Agra,wikipedia_link,Battle of Agra,place,27.179542,78.021101,https://en.wikipedia.org/wiki/Battle_of_Agra,
+Irish,Joseph Prosser,1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,John Purcell (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Robert Quigg,1916,First World War,"Hamel, France","Hamel, Nord",wikipedia_link,"Hamel, Nord",place,50.2808,3.0747,https://en.wikipedia.org/wiki/Hamel%2C_Nord,
+Irish,Hamilton Lyster Reed,1899,Second Boer War,"Colenso, South Africa",Battle of Colenso;South Africa,wikipedia_link,Second Battle of Colenso,place,-28.73416667,29.8225,https://en.wikipedia.org/wiki/Second_Battle_of_Colenso,
+Irish,James Henry Reynolds,1879,Anglo-Zulu War,"Rorke's Drift, Natal, South Africa",Rorke's Drift;Colony of Natal;South Africa,wikipedia_link,Battle of Rorke's Drift,place,-28.35805556,30.53666667,https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift,
+Irish,George Richardson (VC),1859,Indian Rebellion of 1857,"Kewane Trans-Gogra, India",Kewane Trans-Gogra,unmatched,,,,,,no GeoNames match
+Irish,Richard Kirby Ridgeway,1879,Naga Hills Expedition,"Konoma, India",Konoma,unmatched,,,,,,no GeoNames match
+Irish,"Frederick Roberts (British Army officer, born 1872)",1899,Second Boer War,"Colenso, South Africa",Battle of Colenso;South Africa,wikipedia_link,Second Battle of Colenso,place,-28.73416667,29.8225,https://en.wikipedia.org/wiki/Second_Battle_of_Colenso,
+Irish,Clement Robertson,1917,First World War,"Zonnebeke, Belgium",Zonnebeke,wikipedia_link,Zonnebeke,place,50.86666667,2.98333333,https://en.wikipedia.org/wiki/Zonnebeke,
+Irish,Patrick Roddy,1858,Indian Rebellion of 1857,"Kuthirga, India",Kuthirga,unmatched,,,,,,no GeoNames match
+Irish,Robert Montresor Rogers,1860,Second Opium War,"Taku Forts, China",Taku Forts,wikipedia_link,Taku Forts,place,38.97705556,117.70536111,https://en.wikipedia.org/wiki/Taku_Forts,
+Irish,George Rowland Patrick Roupell,1915,First World War,"Hill 60, Belgium",Battle of Hill 60 (Western Front),wikipedia_link,Capture of Hill 60 (Western Front),place,50.82138889,2.93166667,https://en.wikipedia.org/wiki/Capture_of_Hill_60_%28Western_Front%29,
+Irish,John Ryan (VC 1857),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,John Ryan (VC 1863),1863,New Zealand Wars,"Cameron Town, New Zealand",Cameron Town,wikipedia_link,Camerontown,place,-37.259,174.88,https://en.wikipedia.org/wiki/Camerontown,
+Irish,Miles Ryan,1857,Indian Rebellion of 1857,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Irish,Robert Scott (VC recipient),1900,Second Boer War,"Natal, South Africa",Colony of Natal;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Irish,John Sinnott (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Irish,Michael Sleavon,1858,Indian Rebellion of 1857,"Jhansi, India",Jhansi,wikipedia_link,Jhansi,place,25.44862,78.56962,https://en.wikipedia.org/wiki/Jhansi,
+Irish,Frederick Augustus Smith,1864,New Zealand Wars,"Tauranga, New Zealand",Tauranga,wikipedia_link,Tauranga,place,-37.68333333,176.16666667,https://en.wikipedia.org/wiki/Tauranga,
+Irish,Philip Smith (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,James Somers,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Irish,Dudley Stagpoole,1863,New Zealand Wars,"Poutoko, New Zealand",Poutoko,unmatched,,,,,,no GeoNames match
+Irish,John Sullivan (VC),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,William Temple (VC),1863,New Zealand Wars,"Rangiriri, New Zealand",Rangiriri,wikipedia_link,Rangiriri,place,-37.429,175.132,https://en.wikipedia.org/wiki/Rangiriri,
+Irish,James Travers,1857,Indian Rebellion of 1857,"Indore, India",Indore,wikipedia_link,Indore,place,22.71861111,75.855,https://en.wikipedia.org/wiki/Indore,
+Irish,Mark Walker (VC),1854,Crimean War,"Inkerman, Crimea",Battle of Inkerman;Crimea,wikipedia_link,Battle of Inkerman,place,44.585,33.592,https://en.wikipedia.org/wiki/Battle_of_Inkerman,
+Irish,Joseph Ward (VC),1858,Indian Rebellion of 1857,"Gwalior, India",Gwalior,wikipedia_link,Gwalior,place,26.2125,78.1775,https://en.wikipedia.org/wiki/Gwalior,
+Irish,George White (British Army officer),1879,Second Afghan War,"Charasiah, Afghanistan",Charasiah;Afghanistan,wikipedia_link,Char Asiab,place,34.39861111,69.1675,https://en.wikipedia.org/wiki/Char_Asiab,
+Irish,Alexander Wright (soldier),1855,Crimean War,"Sevastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+Irish,Alexander Young (VC recipient),1901,Second Boer War,"Ruiterskraal, South Africa",Ruiterskraal;South Africa,wikipedia_link_coarse,South Africa,region,-30,25,https://en.wikipedia.org/wiki/South_Africa,no GeoNames match
+Indian Army,James Adams (chaplain),1879,Second Anglo-Afghan War,"Killa Kazi, Afghanistan",Killa Kazi;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Indian Army,Robert Bellew Adams,1897,Tirah Campaign,"Nawa Kili, India",Swat (Pakistan);India,wikipedia_link_coarse,Swat Valley,region,35.2,72.48333333,https://en.wikipedia.org/wiki/Swat_Valley,no GeoNames match
+Indian Army,Frederick Robertson Aikman,1858,Indian Rebellion of 1857,"Amethi, India",Amethi;India,wikipedia_link,Amethi,place,26.155,81.809,https://en.wikipedia.org/wiki/Amethi,
+Indian Army,Robert Hope Moncrieff Aitken,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow;India,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Indian Army,Michael Allmand,1944,Second World War,"Pin Hmi Road Bridge, Burma",Pin Hmi Road Bridge;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,Henry John Andrews,1919,Waziristan campaign (1919–1920),"Waziristan, India",Waziristan;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Charles George Baker,1858,Indian Rebellion of 1857,"Suhejnee, Bengal",Suhejnee;Bengal,unmatched,,,,,,no GeoNames match
+Indian Army,Premindra Singh Bhagat,1941,Second World War,"Metemma, Abyssinia",Metemma;Ethiopia,wikipedia_link,Metemma,place,12.96666667,36.2,https://en.wikipedia.org/wiki/Metemma,
+Indian Army,James Blair (VC),1857,Indian Rebellion of 1857,"Neemuch, India",Neemuch;India,wikipedia_link,Neemuch,place,24.46187389,74.87201694,https://en.wikipedia.org/wiki/Neemuch,
+Indian Army,Guy Hudleston Boisragon,1891,Hunza-Naga Campaign,"Nilt Fort, India",Nilt Fort;India,wikipedia_link,Nilt,place,36.15,74.25,https://en.wikipedia.org/wiki/Nilt,
+Indian Army,Francis David Millet Brown,1857,Indian Rebellion of 1857,"Narnoul, India",Narnoul;India,wikipedia_link,Narnaul,place,28.04444444,76.10555556,https://en.wikipedia.org/wiki/Narnaul,
+Indian Army,Sam Browne,1858,Indian Rebellion of 1857,"Seerporah, India",Seerporah;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,William Arthur McCrae Bruce,1914,First World War,"Givenchy, France",Givenchy;France,geonames,"Givenchy-en-Gohelle (FR, GeoNames 3015911)",place,50.3908,2.7732,https://www.geonames.org/3015911,
+Indian Army,John Buckley (soldier),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Thomas Adair Butler,1857,Indian Rebellion of 1857,"Lucknow, India",Lucknow;India,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Indian Army,Thomas Cadell (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,William Martin Cafe,1858,Indian Rebellion of 1857,"Fort Ruhya, India",Fort Ruhya;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Herbert Augustine Carter,1903,Fourth Somaliland Expedition,"Jidballi, Somaliland",Sanaag;Somaliland,wikipedia_link_coarse,Sanaag,region,10.77916667,48.18583333,https://en.wikipedia.org/wiki/Sanaag,no GeoNames match
+Indian Army,George Nicolas Channer,1875,Perak War,"Perak, Malaya",Perak;British Malaya,wikipedia_link,Perak,place,4.6,101.06666667,https://en.wikipedia.org/wiki/Perak,
+Indian Army,William St. Lucien Chase,1880,Second Anglo-Afghan War,"Kandahar, Afghanistan",Kandahar;Afghanistan,wikipedia_link,Kandahar,place,31.62,65.71583333,https://en.wikipedia.org/wiki/Kandahar,
+Indian Army,George Bell Chicken,1858,Indian Rebellion of 1857,"Peroo, Bengal",Peroo;Bengal,unmatched,,,,,,no GeoNames match
+Indian Army,Herbert Mackworth Clogstoun,1859,Indian Rebellion of 1857,"Chichumbah, India",Chichumbah;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Alexander Cobbe,1902,Third Somaliland Expedition,"Erigo, Somaliland",Erigo;Somaliland,wikipedia_link_coarse,Somaliland,region,9.75,45.96666667,https://en.wikipedia.org/wiki/Somaliland,no GeoNames match
+Indian Army,William Connolly (VC),1857,Indian Rebellion of 1857,"Jhelum, India",Jhelum (city);India,wikipedia_link,Jhelum,place,32.9425,73.72555556,https://en.wikipedia.org/wiki/Jhelum,
+Indian Army,John Cook (VC),1878,Second Anglo-Afghan War,"Peiwar Kotal, Afghanistan",Peiwar Kotal;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Indian Army,Edmond William Costello,1897,Tirah Campaign,"Malakand, India",Siege of Malakand;India,wikipedia_link,Siege of Malakand,place,34.59638889,71.93111111,https://en.wikipedia.org/wiki/Siege_of_Malakand,
+Indian Army,O'Moore Creagh,1879,Second Anglo-Afghan War,"Kam Dakka, Afghanistan",Kam Dakka;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Indian Army,John Crimmin,1889,Third Burmese War,"Lwekaw, Burma",Lwekaw;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,William George Cubitt,1857,Indian Rebellion of 1857,"Chinhut, India",Lucknow;India,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Indian Army,Arthur Edward Cumming,1942,Second World War,"Kuantan, Malaya",Kuantan;British Malaya,wikipedia_link,Kuantan,place,3.81666667,103.33333333,https://en.wikipedia.org/wiki/Kuantan,
+Indian Army,Mir Dast,1915,First World War,"Wieltje, Belgium",Ypres;Belgium,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Indian Army,John Charles Campbell Daunt,1857,Indian Rebellion of 1857,"Chota Behar, India","Chatra, Jharkhand;India",wikipedia_link,"Chatra, Jharkhand",place,24.20451,84.87704,https://en.wikipedia.org/wiki/Chatra%2C_Jharkhand,
+Indian Army,Frank Alexander de Pass,1914,First World War,"Festubert, France",Festubert;France,wikipedia_link,Festubert,place,50.5442,2.7375,https://en.wikipedia.org/wiki/Festubert,
+Indian Army,Bernard Diamond (VC),1857,Indian Rebellion of 1857,"Bolandshahr, India",Bolandshahr;India,wikipedia_link,Bulandshahr,place,28.40694444,77.84972222,https://en.wikipedia.org/wiki/Bulandshahr,
+Indian Army,Fazal Din,1945,Second World War,"Meiktila, Burma",Meiktila;Burma,wikipedia_link,Meiktila,place,20.88333333,95.88333333,https://en.wikipedia.org/wiki/Meiktila,
+Indian Army,Thomas Duffy (fusilier),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,James Dundas (VC),1865,Bhutan War,"Dewan-Giri, India",Bhutan;India,wikipedia_link_coarse,Bhutan,region,27.417,90.435,https://en.wikipedia.org/wiki/Bhutan,no GeoNames match
+Indian Army,Richard Fitzgerald (VC),1857,Indian Rebellion of 1857,"Bolandshahr, India",Bolandshahr;India,wikipedia_link,Bulandshahr,place,28.40694444,77.84972222,https://en.wikipedia.org/wiki/Bulandshahr,
+Indian Army,Andrew Fitzgibbon,1860,Third China War,"Taku Forts, China",Taku Forts;China,wikipedia_link,Taku Forts,place,38.97705556,117.70536111,https://en.wikipedia.org/wiki/Taku_Forts,
+Indian Army,George Forrest (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,George Fosbery,1863,Waziristan campaign (1919–1920),"North-West Frontier, India",North-West Frontier (military history);India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Yeshwant Ghadge,1944,Second World War,"Upper Tiber Valley, Italy",Tiber Valley;Italy,wikipedia_link_coarse,Italy,region,43,12,https://en.wikipedia.org/wiki/Italy,no GeoNames match
+Indian Army,Gaje Ghale,1943,Second World War,"Chin Hills, Burma",Chin Hills;Burma,wikipedia_link,Chin Hills,place,22.5,93.5,https://en.wikipedia.org/wiki/Chin_Hills,
+Indian Army,Peter Gill (VC),1857,Indian Rebellion of 1857,"Benares, India",Benares;India,wikipedia_link,Varanasi,place,25.31888889,83.01277778,https://en.wikipedia.org/wiki/Varanasi,
+Indian Army,Charles Augustus Goodfellow,1859,Indian Rebellion of 1857,"Kathiawar, India",Kathiawar;India,wikipedia_link,Kathiawar,place,22,71,https://en.wikipedia.org/wiki/Kathiawar,
+Indian Army,Hugh Henry Gough,1857,Indian Rebellion of 1857,"Alumbagh, India",Alumbagh;India,wikipedia_link,Alambagh,place,26.808,80.898,https://en.wikipedia.org/wiki/Alambagh,
+Indian Army,Charles John Stanley Gough,1857,Indian Rebellion of 1857,"Khurkowdah, India",Khurkowdah;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Charles James William Grant,1891,Manipur Expedition,"Thobal, Burma",Thobal;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,John Duncan Grant,1904,British expedition to Tibet,"Gyantse Jong, Tibet",Gyantse;Tibet,wikipedia_link,Gyantse,place,28.9148,89.6045,https://en.wikipedia.org/wiki/Gyantse,
+Indian Army,Bhanbhagta Gurung,1945,Second World War,"Snowdon East, Tamandu, Burma",Snowdon East;Tamandu;Burma,wikipedia_link,Tamandu,place,19.85,93.78333333,https://en.wikipedia.org/wiki/Tamandu,
+Indian Army,Lachhiman Gurung,1945,Second World War,"Taungdaw, Burma",Taungdaw;Burma,wikipedia_link,Taungdaw,place,24.4,94.68333333,https://en.wikipedia.org/wiki/Taungdaw,
+Indian Army,Thaman Gurung,1944,Second World War,"Monte San Bartolo, Italy",Monte San Bartolo;Italy,wikipedia_link,Monte San Bartolo,place,43.92047972,12.89543183,https://en.wikipedia.org/wiki/Monte_San_Bartolo,
+Indian Army,Ali Haidar (military),1945,Second World War,"Fusignano, Italy",Fusignano;Italy,wikipedia_link,Fusignano,place,44.46666667,11.96666667,https://en.wikipedia.org/wiki/Fusignano,
+Indian Army,Abdul Hafiz (VC),1944,Second World War,"Imphal, India",Imphal;India,wikipedia_link,Imphal,place,24.8074,93.9384,https://en.wikipedia.org/wiki/Imphal,
+Indian Army,Walter Richard Pollock Hamilton,1879,Second Anglo-Afghan War,"Futtehabad, Afghanistan",Futtehabad;Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+Indian Army,Arthur George Hammond,1879,Second Anglo-Afghan War,"Kabul, Afghanistan",Kabul;Afghanistan,wikipedia_link,Kabul,place,34.52527778,69.17833333,https://en.wikipedia.org/wiki/Kabul,
+Indian Army,Hastings Edward Harington,1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,James Hills,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Duncan Charles Home,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Eustace Jotham,1915,First World War,"Tochi Valley, India",Tochi Valley;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,James John McLeod Innes,1858,Indian Rebellion of 1857,"Sultanpore, India","Sultanpur, Uttar Pradesh;India",wikipedia_link,"Sultanpur, Uttar Pradesh",place,26.25833333,82.07222222,https://en.wikipedia.org/wiki/Sultanpur%2C_Uttar_Pradesh,
+Indian Army,Namdeo Jadhav,1945,Second World War,"Senio River, Italy",Senio River;Italy,wikipedia_link,Senio,place,44.5475,12.0954,https://en.wikipedia.org/wiki/Senio,
+Indian Army,Hanson Chambers Taylor Jarrett,1858,Indian Rebellion of 1857,"Baroun, India",Baroun;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Edward Jennings (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Karamjeet Singh Judge,1945,Second World War,"Meiktila, Burma",Meiktila;Burma,wikipedia_link,Meiktila,place,20.88333333,95.88333333,https://en.wikipedia.org/wiki/Meiktila,
+Indian Army,Thomas Henry Kavanagh,1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Richard Harte Keatinge,1858,Indian Rebellion of 1857,"Chundairee, India",Chundairee;India,wikipedia_link,Chanderi,place,24.72,78.13,https://en.wikipedia.org/wiki/Chanderi,
+Indian Army,William David Kenny,1920,Waziristan campaign (1919–1920),"Kot Kai, India",Kot Kai;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,William Alexander Kerr,1857,Indian Rebellion of 1857,"Kolapore, India",Kolapore;India,wikipedia_link,Kolhapur,place,16.69166667,74.23333333,https://en.wikipedia.org/wiki/Kolhapur,
+Indian Army,Khudadad Khan,1914,First World War,"Hollebeke, France",Hollebeke;France,wikipedia_link,Hollebeke,place,50.80527778,2.93805556,https://en.wikipedia.org/wiki/Hollebeke,
+Indian Army,Shahamad Khan,1916,First World War,"Beit Ayeesa, Mesopotamia",Beit Ayeesa;Mesopotamia,unmatched,,,,,,no GeoNames match
+Indian Army,Lala (VC),1916,First World War,"El Orah, Mesopotamia",El Orah;Mesopotamia,unmatched,,,,,,no GeoNames match
+Indian Army,Ganju Lama,1944,Second World War,"Ningthoukhong, Burma",Ningthoukhong;Burma,wikipedia_link,Ningthoukhong,place,24.563,93.72866,https://en.wikipedia.org/wiki/Ningthoukhong,
+Indian Army,Thomas Laughnan,1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Harry Hammon Lyster,1858,Indian Rebellion of 1857,"Calpee, India",Calpee;India,wikipedia_link,Kalpi,place,26.12,79.73,https://en.wikipedia.org/wiki/Kalpi,
+Indian Army,Donald Macintyre (VC),1872,Looshai Expedition,"Lalgnoora, India",Lalgnoora;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Hector Lachlan Stewart MacLean,1897,Tirah Campaign,"Nawa Kili, India",Swat (Pakistan);India,wikipedia_link_coarse,Swat Valley,region,35.2,72.48333333,https://en.wikipedia.org/wiki/Swat_Valley,no GeoNames match
+Indian Army,Patrick Mahoney,1857,Indian Rebellion of 1857,"Mungulwar, India",Mungulwar;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,John Grant Malcolmson,1857,Anglo-Persian War,"Khoosh-ab, Persia",Khushab District;Persia,wikipedia_link_coarse,Iran,region,32,53,https://en.wikipedia.org/wiki/Iran,no GeoNames match
+Indian Army,Ross Lowis Mangles,1857,Indian Rebellion of 1857,"Arrah, India",Arrah;India,wikipedia_link,Arrah,place,25.55138889,84.66027778,https://en.wikipedia.org/wiki/Arrah,
+Indian Army,Arthur Mayo (naval officer),1857,Indian Rebellion of 1857,"Arrah, India",Arrah;India,wikipedia_link,Arrah,place,25.55138889,84.66027778,https://en.wikipedia.org/wiki/Arrah,
+Indian Army,Francis Aylmer Maxwell,1900,Second Boer War,"Korn Spruit, South Africa",Korn Spruit;South Africa,wikipedia_link,Sanna's Post,place,-29.15722222,26.53555556,https://en.wikipedia.org/wiki/Sanna%27s_Post,
+Indian Army,William Fraser McDonell,1857,Indian Rebellion of 1857,"Arrah, India",Arrah;India,wikipedia_link,Arrah,place,25.55138889,84.66027778,https://en.wikipedia.org/wiki/Arrah,
+Indian Army,Hugh McInnes,1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,John McGovern (soldier),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,James McGuire (VC),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Charles John Melliss,1900,Third Ashanti Expedition,"Obassa, Ashanti",Obuasi;Ashanti Empire,wikipedia_link,Obuasi,place,6.2,-1.68333333,https://en.wikipedia.org/wiki/Obuasi,
+Indian Army,Godfrey Meynell,1935,Second Mohmand Campaign,"Mohmand, India",Mohmand;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,James Miller (VC 1857),1857,Indian Rebellion of 1857,"Futtehpore, India","Fatehpur, Uttar Pradesh;India",wikipedia_link,"Fatehpur, Uttar Pradesh",place,25.93,80.8,https://en.wikipedia.org/wiki/Fatehpur%2C_Uttar_Pradesh,
+Indian Army,Arthur Thomas Moore,1857,Anglo-Persian War,"Khoosh-ab, Persia",Khushab District;Persia,wikipedia_link_coarse,Iran,region,32,53,https://en.wikipedia.org/wiki/Iran,no GeoNames match
+Indian Army,Darwan Singh Negi,1914,First World War,"Festubert, France",Festubert;France,wikipedia_link,Festubert,place,50.5442,2.7375,https://en.wikipedia.org/wiki/Festubert,
+Indian Army,Gabbar Singh Negi,1915,First World War,"Neuve Chapelle, France",Neuve Chapelle;France,wikipedia_link,Neuve-Chapelle,place,50.5844,2.7811,https://en.wikipedia.org/wiki/Neuve-Chapelle,
+Indian Army,William Olpherts,1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,James Park (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Everard Aloysius Lisle Phillipps,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Henry William Pitcher,1863,Waziristan campaign (1919–1920),"North-West Frontier, India",North-West Frontier (military history);India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Harry Prendergast,1857,Indian Rebellion of 1857,"Mundisore, India",Mundisore;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Dighton MacNaghton Probyn,1857,Indian Rebellion of 1857,India,India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no country given
+Indian Army,Tulbahadur Pun,1944,Second World War,"Mogaung, Burma",Mogaung;Burma,wikipedia_link,Mogaung,place,25.30138889,96.94166667,https://en.wikipedia.org/wiki/Mogaung,
+Indian Army,Agansing Rai,1944,Second World War,"Bishenpur, Burma",Bishenpur (city);Burma,wikipedia_link,"Bishnupur, Manipur",place,24.62972528,93.75938417,https://en.wikipedia.org/wiki/Bishnupur%2C_Manipur,
+Indian Army,Bhandari Ram,1944,Second World War,"Arakan, Burma",Rakhine State;Burma,wikipedia_link,Rakhine State,place,19.5,94,https://en.wikipedia.org/wiki/Rakhine_State,
+Indian Army,Chhelu Ram,1943,Second World War,"Djebel Garci, Tunisia",Enfidha;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+Indian Army,Kamal Ram,1944,Second World War,"Gari River, Italy",Gari River;Italy,wikipedia_link,Gari (river),place,41.4098,13.8627,https://en.wikipedia.org/wiki/Gari_%28river%29,
+Indian Army,Richhpal Ram,1941,Second World War,"Keren, Eritrea","Keren, Eritrea;Eritrea",wikipedia_link,"Keren, Eritrea",place,15.77777778,38.45805556,https://en.wikipedia.org/wiki/Keren%2C_Eritrea,
+Indian Army,Karanbahadur Rana,1918,First World War,"El Kefr, Egypt",El Kefr;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+Indian Army,William Raynor,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,George Alexander Renny,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Richard Kirby Ridgeway,1879,Basuto War,"Konoma, India",Konoma;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,"Frederick Roberts, 1st Earl Roberts",1858,Indian Rebellion of 1857,"Khodagunge, India",Khodagunge;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Patrick Roddy,1858,Indian Rebellion of 1857,"Kuthirga, India",Kuthirga;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,George Murray Rolland,1903,Third Somaliland Expedition,"Daratoleh, Somaliland",Sanaag;Somaliland,wikipedia_link_coarse,Sanaag,region,10.77916667,48.18583333,https://en.wikipedia.org/wiki/Sanaag,no GeoNames match
+Indian Army,Matthew Rosamund,1857,Indian Rebellion of 1857,"Benares, India",Benares;India,wikipedia_link,Varanasi,place,25.31888889,83.01277778,https://en.wikipedia.org/wiki/Varanasi,
+Indian Army,John Ryan (VC 1857),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Miles Ryan,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Philip Salkeld,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Reginald William Sartorius,1874,First Ashanti Expedition,"Abogu, Ashanti",Abogu;Ashanti Empire,wikipedia_link_coarse,Asante Empire,region,5.45,-0.96666667,https://en.wikipedia.org/wiki/Asante_Empire,no GeoNames match
+Indian Army,Andrew Scott (VC),1877,Balochistan Campaign,"Quetta, India",Quetta;India,wikipedia_link,Quetta,place,30.1958,67.0172,https://en.wikipedia.org/wiki/Quetta,
+Indian Army,Sher Shah (VC),1945,Second World War,"Kyeyebyin, Burma",Kyeyebyin;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,Badlu Singh,1918,First World War,"River Jordan, Palestine",River Jordan;Palestine (region),wikipedia_link,Jordan River,place,33.1875,35.61944444,https://en.wikipedia.org/wiki/Jordan_River,
+Indian Army,Chatta Singh,1916,First World War,"Wadi, Mesopotamia",Wadi;Mesopotamia,wikidata_battle,Battle of Wadi (Q1430929),place,32.628771094,46.186316829,https://www.wikidata.org/wiki/Q1430929,
+Indian Army,Gian Singh (soldier),1945,Second World War,"Kamye, Burma",Kamye;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,Gobind Singh (VC),1917,First World War,"Épehy, France",Épehy;France,wikipedia_link,Épehy,place,50.0083,3.1293,https://en.wikipedia.org/wiki/%C3%89pehy,
+Indian Army,Ishar Singh,1921,Waziristan campaign (1919–1920),"Haidari Kach, India",Waziristan;India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,Nand Singh,1944,Second World War,"Maungdaw-Buthidaung Road, Burma",Maungdaw-Buthidaung Road;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,Parkash Singh,1943,Second World War,"Donbaik, Burma",Rakhine State;Burma,wikipedia_link,Rakhine State,place,19.5,94,https://en.wikipedia.org/wiki/Rakhine_State,
+Indian Army,Prakash Singh Chib,1945,Second World War,"Kanlan Ywathit, Burma",Kanlan Ywathit;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+Indian Army,Ram Sarup Singh,1944,Second World War,"Kennedy Peak, Burma",Kennedy Peak (Burma);Burma,wikipedia_link,Kennedy Peak (Myanmar),place,23.3175,93.76166667,https://en.wikipedia.org/wiki/Kennedy_Peak_%28Myanmar%29,
+Indian Army,Umrao Singh,1944,Second World War,"Kaladan Valley, Burma",Kaladan River;Burma,wikipedia_link,Kaladan River,place,20.1,92.9025,https://en.wikipedia.org/wiki/Kaladan_River,
+Indian Army,John Alexander Sinton,1916,First World War,"Orah Ruins, Mesopotamia",Orah Ruins;Mesopotamia,unmatched,,,,,,no GeoNames match
+Indian Army,Robert Haydon Shebbeare,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,John Smith (sergeant),1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,John Smith (private),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,John Manners Smith,1891,Hunza-Naga Campaign,"Nilt Fort, India",Nilt Fort;India,wikipedia_link,Nilt,place,36.15,74.25,https://en.wikipedia.org/wiki/Nilt,
+Indian Army,"Sir John Smyth, 1st Baronet",1915,First World War,"Richebourg L'Aouve, France",Richebourg-l'Avoué;France,wikipedia_link_coarse,France,region,47,2,https://en.wikipedia.org/wiki/France,no GeoNames match
+Indian Army,Edward Talbot Thackeray,1857,Indian Rebellion of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,Kulbir Thapa,1915,First World War,"Fauquissart, France",Fauquissart;France,wikipedia_link,Laventie,place,50.6283,2.7719,https://en.wikipedia.org/wiki/Laventie,
+Indian Army,Lalbahadur Thapa,1943,Second World War,"Rass-es-Zouai, Tunisia",Rass-es-Zouai;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+Indian Army,Netrabahadur Thapa,1944,Second World War,"Bishenpur, Burma",Bishenpur (city);Burma,wikipedia_link,"Bishnupur, Manipur",place,24.62972528,93.75938417,https://en.wikipedia.org/wiki/Bishnupur%2C_Manipur,
+Indian Army,Sher Bahadur Thapa,1944,Second World War,"San Marino, Italy",San Marino;Italy,wikipedia_link,San Marino,place,43.93333333,12.43333333,https://en.wikipedia.org/wiki/San_Marino,
+Indian Army,Jacob Thomas (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,Henry Tombs,1857,Indian of 1857,"Delhi, India",Delhi;India,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Indian Army,James Travers,1857,Indian Rebellion of 1857,"Indore, India",Indore;India,wikipedia_link,Indore,place,22.71861111,75.855,https://en.wikipedia.org/wiki/Indore,
+Indian Army,William Spottiswoode Trevor,1865,Bhutan War,"Dewan-Giri, India",Bhutan;India,wikipedia_link_coarse,Bhutan,region,27.417,90.435,https://en.wikipedia.org/wiki/Bhutan,no GeoNames match
+Indian Army,John Adam Tytler,1858,Indian Rebellion of 1857,"Choorpoorah, India",Jammu and Kashmir (princely state);India,wikipedia_link_coarse,India,region,21,78,https://en.wikipedia.org/wiki/India,no GeoNames match
+Indian Army,William John Vousden,1879,Second Anglo-Afghan War,"Kabul, Afghanistan",Kabul;Afghanistan,wikipedia_link,Kabul,place,34.52527778,69.17833333,https://en.wikipedia.org/wiki/Kabul,
+Indian Army,William George Walker,1903,Third Somaliland Expedition,"Daratoleh, Somaliland",Sanaag;Somaliland,wikipedia_link_coarse,Sanaag,region,10.77916667,48.18583333,https://en.wikipedia.org/wiki/Sanaag,no GeoNames match
+Indian Army,William Francis Frederick Waller,1858,Indian Rebellion of 1857,"Gwalior, India",Gwalior;India,wikipedia_link,Gwalior,place,26.2125,78.1775,https://en.wikipedia.org/wiki/Gwalior,
+Indian Army,John Watson (VC),1857,Indian Rebellion of 1857,"Lucknow, India",Siege of Lucknow;India,wikipedia_link,Siege of Lucknow,place,26.8606,80.9158,https://en.wikipedia.org/wiki/Siege_of_Lucknow,
+Indian Army,George Campbell Wheeler,1917,First World War,"Shumran, Mesopotamia",Shumran;Mesopotamia,unmatched,,,,,,no GeoNames match
+Indian Army,George Godfrey Massy Wheeler,1915,First World War,"Shaiba, Mesopotamia",Shaiba;Mesopotamia,wikipedia_link,Battle of Shaiba,place,30.4,47.633333,https://en.wikipedia.org/wiki/Battle_of_Shaiba,
+Indian Army,Frederick Whirlpool,1857,Indian Rebellion of 1857,"Jhansi, India",Jhansi;India,wikipedia_link,Jhansi,place,25.44862,78.56962,https://en.wikipedia.org/wiki/Jhansi,
+Indian Army,Harry Frederick Whitchurch,1895,Chitral Expedition,"Chitral Fort, India",Chitral;India,wikipedia_link,Chitral,place,35.84611111,71.78583333,https://en.wikipedia.org/wiki/Chitral,
+Indian Army,John Augustus Wood,1856,Anglo-Persian War,"Bushire, Persia",Bushire;Persia,wikipedia_link,Bushehr,place,28.92638889,50.85138889,https://en.wikipedia.org/wiki/Bushehr,
+Australian,Charles Groves Wright Anderson,1942,Second World War,"Muar River, Malaya",,wikipedia_title,Muar River,place,2.05,102.56666667,https://en.wikipedia.org/wiki/Muar_River,
+Australian,Thomas Axford,1918,First World War,"Hamel Wood, France",,unmatched,,,,,,no GeoNames match
+Australian,Peter Badcoe,1967,Vietnam War,"Huong Tra, Vietnam",,geonames,"Hương Trà (VN, GeoNames 1580092)",place,16.52539,107.4755,https://www.geonames.org/1580092,
+Australian,Robert Beatham,1918,First World War,"Rosieres, France",,unmatched,,,,,,ambiguous: 5 GeoNames places called Rosieres
+Australian,Frederick Bell,1901,Second Boer War,"Transvaal, South Africa",,unmatched,,,,,,no GeoNames match
+Australian,Frederick Birks,1917,First World War,"Ypres, Belgium",,wikipedia_title,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Australian,John Bisdee,1900,Second Boer War,"Warm Bad, South Africa",,unmatched,,,,,,no GeoNames match
+Australian,Arthur Blackburn,1916,First World War,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Australian,Albert Borella,1918,First World War,"Villers-Bretonneux, France",,geonames,"Villers-Bretonneux (FR, GeoNames 2968415)",place,49.86844,2.51688,https://www.geonames.org/2968415,
+Australian,Walter Brown (soldier),1918,First World War,"Villers-Bretonneux, France",,geonames,"Villers-Bretonneux (FR, GeoNames 2968415)",place,49.86844,2.51688,https://www.geonames.org/2968415,
+Australian,Alexander Buckley,1918,First World War,"Péronne, France",,geonames,"Péronne (FR, GeoNames 2987928)",place,49.93218,2.9363,https://www.geonames.org/2987928,
+Australian,Maurice Buckley,1918,First World War,"Le Verguier, France",,unmatched,,,,,,no GeoNames match
+Australian,Patrick Bugden,1917,First World War,"Zonnebeke, Belgium",,wikipedia_title,Zonnebeke,place,50.86666667,2.98333333,https://en.wikipedia.org/wiki/Zonnebeke,
+Australian,Alexander Burton,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,John Carroll (soldier),1917,First World War,"St. Yves, Belgium",,unmatched,,,,,,no GeoNames match
+Australian,George Cartwright (soldier),1918,First World War,"Bouchavesnes, France",,unmatched,,,,,,no GeoNames match
+Australian,Claud Castleton,1916,First World War,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Australian,Percy Cherry,1917,First World War,"Lagnicourt, France",,unmatched,,,,,,no GeoNames match
+Australian,Albert Chowne,1945,Second World War,"Dagua, New Guinea",,unmatched,,,,,,no GeoNames match
+Australian,"Thomas Cooke (soldier, born 1881)",1916,First World War,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Australian,William Currey,1918,First World War,"Péronne, France",,geonames,"Péronne (FR, GeoNames 2987928)",place,49.93218,2.9363,https://www.geonames.org/2987928,
+Australian,Arthur Roden Cutler,1941,Second World War,"Merdjayoun-Damour, Lebanon",,unmatched,,,,,,no GeoNames match
+Australian,Henry Dalziel,1918,First World War,"Hamel Wood, France",,unmatched,,,,,,no GeoNames match
+Australian,Wilbur Dartnell,1915,First World War,"Maktau, Kenya",,unmatched,,,,,,no GeoNames match
+Australian,Phillip Davey,1918,First World War,"Merris, France",,unmatched,,,,,,no GeoNames match
+Australian,Tom Derrick,1943,Second World War,"Sattelberg, New Guinea",,wikidata_battle,Battle of Sattelberg (Q4872324),place,-6.486388888,147.766666666,https://www.wikidata.org/wiki/Q4872324,
+Australian,William Dunstan,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,John Dwyer (soldier),1917,First World War,"Zonnebeke, Belgium",,wikipedia_title,Zonnebeke,place,50.86666667,2.98333333,https://en.wikipedia.org/wiki/Zonnebeke,
+Australian,John Edmondson (soldier),1941,Second World War,"Tobruk, Libya",,wikipedia_title,Tobruk,place,32.07611111,23.96138889,https://en.wikipedia.org/wiki/Tobruk,
+Australian,Hughie Edwards,1941,Second World War,"Bremen, Germany",,wikipedia_title,Bremen,place,53.07583333,8.80722222,https://en.wikipedia.org/wiki/Bremen,
+Australian,Jack French,1942,Second World War,"Milne Bay, Papua",,wikipedia_title,Milne Bay,place,-10.4,150.55,https://en.wikipedia.org/wiki/Milne_Bay,
+Australian,Alfred Gaby,1918,First World War,"Villers-Bretonneux, France",,geonames,"Villers-Bretonneux (FR, GeoNames 2968415)",place,49.86844,2.51688,https://www.geonames.org/2968415,
+Australian,Bernard Gordon (soldier),1918,First World War,"Bray, France",,unmatched,,,,,,ambiguous: 4 GeoNames places called Bray
+Australian,Jim Gordon (Australian soldier),1941,Second World War,"Djezzine, Syria",,unmatched,,,,,,no GeoNames match
+Australian,Percy Gratwick,1942,Second World War,"El Alamein, Egypt",,geonames,"Al ‘Alamayn (EG, GeoNames 361612)",place,30.83007,28.95502,https://www.geonames.org/361612,
+Australian,Robert Grieve (VC),1917,First World War,"Messines, Belgium",,unmatched,,,,,,no GeoNames match
+Australian,Stan Gurney,1942,Second World War,"Tel-el-Eisa, Egypt",,unmatched,,,,,,no GeoNames match
+Australian,Arthur Hall (soldier),1918,First World War,"Péronne, France",,geonames,"Péronne (FR, GeoNames 2987928)",place,49.93218,2.9363,https://www.geonames.org/2987928,
+Australian,John Patrick Hamilton,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,George Howell (soldier),1917,First World War,"Bullecourt, France",,unmatched,,,,,,no GeoNames match
+Australian,Neville Howse,1900,Second Boer War,"Vredefort, South Africa",,geonames,"Vredefort (ZA, GeoNames 942683)",place,-27.00805,27.3646,https://www.geonames.org/942683,
+Australian,George Ingram,1918,First World War,"Montbrehain, France",,unmatched,,,,,,no GeoNames match
+Australian,Roy Inwood,1917,First World War,"Polygon Wood, Belgium",,wikipedia_title,"Polygon Wood, Zonnebeke",place,50.85166667,2.98638889,https://en.wikipedia.org/wiki/Polygon_Wood%2C_Zonnebeke,
+Australian,Albert Jacka,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,William Jackson (Australian soldier),1916,First World War,"Armentieres, France",,unmatched,,,,,,ambiguous: 2 GeoNames places called Armentieres
+Australian,Clarence Jeffries,1917,First World War,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Australian,Jørgen Jensen (soldier),1917,First World War,"Noreuil, France",,unmatched,,,,,,no GeoNames match
+Australian,William Joynt,1918,First World War,"Herleville Wood, France",,unmatched,,,,,,no GeoNames match
+Australian,Richard Kelliher,1943,Second World War,"Nadzab, New Guinea",,unmatched,,,,,,no GeoNames match
+Australian,Edward Kenna,1945,Second World War,"Wewak, New Guinea",,wikipedia_title,Wewak,place,-3.55,143.63333333,https://en.wikipedia.org/wiki/Wewak,
+Australian,Bede Kenny,1917,First World War,"Hermies, France",,geonames,"Hermies (FR, GeoNames 3013416)",place,50.11126,3.04202,https://www.geonames.org/3013416,
+Australian,Leonard Keysor,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,Bill Kibby,1942,Second World War,"El Alamein, Egypt",,geonames,"Al ‘Alamayn (EG, GeoNames 361612)",place,30.83007,28.95502,https://www.geonames.org/361612,
+Australian,Bruce Kingsbury,1942,Second World War,"Isurava, Papua",,wikidata_battle,Battle of Isurava (Q27548777),place,-8.986222222,147.735555555,https://www.wikidata.org/wiki/Q27548777,
+Australian,John Leak,1916,First World War,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Australian,Alby Lowerson,1918,First World War,"Mont St. Quentin, France",,unmatched,,,,,,no GeoNames match
+Australian,Jack Mackey,1945,Second World War,"Tarakan Island, Borneo",,wikipedia_title,Tarakan,place,3.3,117.63333333,https://en.wikipedia.org/wiki/Tarakan,
+Australian,Robert MacTier,1918,First World War,"Mont St. Quentin, France",,unmatched,,,,,,no GeoNames match
+Australian,Joseph Maxwell,1918,First World War,"Estrees, France",,geonames,"Estrées (FR, GeoNames 3019505)",place,50.30079,3.0698,https://www.geonames.org/3019505,
+Australian,Leslie Maygar,1901,Second Boer War,"Geelhoutboom, South Africa",,unmatched,,,,,,no GeoNames match
+Australian,Dominic McCarthy,1918,First World War,"Madam Wood, France",,unmatched,,,,,,no GeoNames match
+Australian,Stanley McDougall,1918,First World War,"Dernancourt, France",,unmatched,,,,,,no GeoNames match
+Australian,Lewis McGee (soldier),1917,First World War,"Ypres, Belgium",,wikipedia_title,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Australian,Frank McNamara (RAAF officer),1917,First World War,"Tel el Hesi, Palestine",,unmatched,,,,,,no GeoNames match
+Australian,Ron Middleton (VC),1942,Second World War,"Turin, Italy",,geonames,"Turin (IT, GeoNames 3165524)",place,45.07049,7.68682,https://www.geonames.org/3165524,
+Australian,Mick Moon,1917,First World War,"Bullecourt, France",,unmatched,,,,,,no GeoNames match
+Australian,Harry Murray,1917,First World War,"Gueudecourt, France",,unmatched,,,,,,no GeoNames match
+Australian,James Newland,1917,First World War,"Bapaume, France",,wikipedia_title,Bapaume,place,50.1044,2.8519,https://en.wikipedia.org/wiki/Bapaume,
+Australian,Bill Newton,1943,Second World War,New Guinea,,unmatched,,,,,,no country given
+Australian,Martin O'Meara,1916,First World War,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Australian,Frank Partridge (soldier),1945,Second World War,"Bougainville, New Guinea",,unmatched,,,,,,no GeoNames match
+Australian,Keith Payne,1969,Vietnam War,"Ben Het, Vietnam",Ben Het Camp,wikipedia_link,Ben Het Camp,place,14.68861111,107.66111111,https://en.wikipedia.org/wiki/Ben_Het_Camp,
+Australian,Samuel Pearse,1919,North Russia Relief Force,"Emtsa, Russia",,geonames,"Yemtsa (RU, GeoNames 467527)",place,63.07337,40.33285,https://www.geonames.org/467527,
+Australian,Walter Peeler,1917,First World War,"Ypres, Belgium",,wikipedia_title,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Australian,Charles Pope,1917,First World War,"Louveral, France",,unmatched,,,,,,no GeoNames match
+Australian,Reg Rattey,1945,Second World War,"Bougainville, New Guinea",,unmatched,,,,,,no GeoNames match
+Australian,James Rogers (Australian soldier),1901,Second Boer War,"Thaba 'Nchu, South Africa",,unmatched,,,,,,no GeoNames match
+Australian,William Ruthven (Australian soldier),1918,First World War,"Ville-sur-Ancre, France",,unmatched,,,,,,no GeoNames match
+Australian,John Ryan (Australian soldier),1918,First World War,"Hindenburg Defences, France",,unmatched,,,,,,no GeoNames match
+Australian,Clifford Sadlier,1918,First World War,"Villers-Bretonneux, France",,geonames,"Villers-Bretonneux (FR, GeoNames 2968415)",place,49.86844,2.51688,https://www.geonames.org/2968415,
+Australian,Alfred Shout,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,Ray Simpson (soldier),1969,Vietnam War,"Kontum Province, Vietnam",,unmatched,,,,,,no GeoNames match
+Australian,Leslie Starcevich,1945,Second World War,"Beaufort, British North Borneo",,geonames,"Beaufort (MY, GeoNames 1733874)",place,5.3473,115.7455,https://www.geonames.org/1733874,
+Australian,Percy Statton,1918,First World War,"Proyart, France",,unmatched,,,,,,no GeoNames match
+Australian,Percy Storkey,1918,First World War,"Hangard Wood, France",,unmatched,,,,,,no GeoNames match
+Australian,Arthur Sullivan (Australian soldier),1919,North Russia Relief Force,"Sheika River, Russia",,unmatched,,,,,,no GeoNames match
+Australian,William Symons,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,Hugo Throssell,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,Edgar Towner,1918,First World War,"Mont St. Quentin, France",,unmatched,,,,,,no GeoNames match
+Australian,Frederick Tubb,1915,First World War,"Gallipoli, Turkey",,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+Australian,Blair Wark,1918,First World War,"Bellicourt, France",,unmatched,,,,,,no GeoNames match
+Australian,Lawrence Weathers,1918,First World War,"Peronne, France",,geonames,"Péronne (FR, GeoNames 2987928)",place,49.93218,2.9363,https://www.geonames.org/2987928,
+Australian,Kevin Wheatley,1965,Vietnam War,"Tra Bong, Vietnam",,geonames,"Trà Bồng (VN, GeoNames 1564257)",place,15.25569,108.51722,https://www.geonames.org/1564257,
+Australian,John Whittle,1917,First World War,"Boursies, France",,unmatched,,,,,,no GeoNames match
+Australian,James Park Woods,1918,First World War,"Le Verguier, France",,unmatched,,,,,,no GeoNames match
+Australian,Guy Wylly,1900,Second Boer War,"Warm Bad, South Africa",,unmatched,,,,,,no GeoNames match
+Australian,Cameron Baird,2013,War in Afghanistan,"Khod Valley, Afghanistan",,unmatched,,,,,,no GeoNames match
+Australian,Mark Donaldson,2008,War in Afghanistan,"Urozgan Province, Afghanistan",Urozgan Province;Afghanistan,wikipedia_link,Uruzgan Province,place,32.8,66,https://en.wikipedia.org/wiki/Uruzgan_Province,
+Australian,Daniel Keighran,2010,War in Afghanistan,"Urozgan Province, Afghanistan",,wikipedia_title,Uruzgan Province,place,32.8,66,https://en.wikipedia.org/wiki/Uruzgan_Province,
+Australian,Ben Roberts-Smith,2010,War in Afghanistan,"Kandahar Province, Afghanistan",Kandahar Province,wikipedia_link,Kandahar Province,place,31,65.5,https://en.wikipedia.org/wiki/Kandahar_Province,
+Australian,Teddy Sheean,1942,Second World War,"Arafura Sea, East Timor",,unmatched,,,,,,no GeoNames match
+Australian,Richard Norden (soldier),1968,Vietnam War,"Bình Dương province, South Vietnam",Bình Dương province;South Vietnam,wikipedia_link,Bình Dương province,place,11.16666667,106.66666667,https://en.wikipedia.org/wiki/B%C3%ACnh_D%C6%B0%C6%A1ng_province,
+Canadian,Wallace Lloyd Algie,1918,World War I Canada's Hundred Days,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,William George Barker,1918,World War I Aerial combat,"Forêt de Mormal, France",Forêt de Mormal,wikipedia_link,Forêt de Mormal,place,50.2,3.73333333,https://en.wikipedia.org/wiki/For%C3%AAt_de_Mormal,
+Canadian,Colin Fraser Barron,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Ian Willoughby Bazalgette,1944,World War II Aerial heroics during bombing raid on V-1 flying bomb site,"Trossy St. Maximin, France",,unmatched,,,,,,no GeoNames match
+Canadian,Edward Donald Bellew,1915,World War I Second Battle of Ypres,"Kerselaere, Belgium",,unmatched,,,,,,no GeoNames match
+Canadian,Philip Eric Bent,1917,World War I Battle of Polygon Wood,"Polygon Wood, Belgium",,wikipedia_title,"Polygon Wood, Zonnebeke",place,50.85166667,2.98638889,https://en.wikipedia.org/wiki/Polygon_Wood%2C_Zonnebeke,
+Canadian,William Avery Bishop,1917,World War I Aerial combat,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,Rowland Bourke,1918,World War I First Ostend Raid,"Ostend, Belgium",,wikipedia_title,Ostend,place,51.22583333,2.91944444,https://en.wikipedia.org/wiki/Ostend,
+Canadian,Alexander Picton Brereton,1918,World War I Canada's Hundred Days (Battle of Amiens)),"Amiens, France",,wikipedia_title,Amiens,place,49.892,2.299,https://en.wikipedia.org/wiki/Amiens,
+Canadian,Jean Brillant,1918,World War I Canada's Hundred Days (Battle of Amiens),"Meharicourt, France",,unmatched,,,,,,no GeoNames match
+Canadian,Harry Brown (VC),1917,World War I Battle of Hill 70,"Lens, France",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,Hugh Cairns (VC),1918,World War I Canada's Hundred Days,"Valenciennes, France",,geonames,"Valenciennes (FR, GeoNames 2971041)",place,50.35909,3.52506,https://www.geonames.org/2971041,
+Canadian,Frederick William Campbell,1915,World War I Trench warfare,"Givenchy, France",,geonames,"Givenchy-en-Gohelle (FR, GeoNames 3015911)",place,50.3908,2.7732,https://www.geonames.org/3015911,
+Canadian,William Hew Clark-Kennedy,1918,World War I Canada's Hundred Days,"Fresnes, France",,unmatched,,,,,,ambiguous: 2 GeoNames places called Fresnes
+Canadian,Leo Clarke (VC),1916,World War I Battle of Flers-Courcelette,"Pozières, France",,wikipedia_title,Pozières,place,50.04,2.725,https://en.wikipedia.org/wiki/Pozi%C3%A8res,
+Canadian,Hampden Cockburn,1900,Second Boer War Battle of Leliefontein,"Komati River, South Africa",,geonames,"Komati (ZA, GeoNames 988295)",place,-26.09548,29.4608,https://www.geonames.org/988295,
+Canadian,Robert Grierson Combe,1917,World War I Battle of Arras,"Acheville, France",,unmatched,,,,,,no GeoNames match
+Canadian,Frederick George Coppins,1918,World War I Canada's Hundred Days (Battle of Amiens),"Hackett Woods, France",,unmatched,,,,,,no GeoNames match
+Canadian,Aubrey Cosens,1945 (25–26 February),World War II Incursion into Germany,"Mooshof, Germany",,unmatched,,,,,,no GeoNames match
+Canadian,John Croak,1918,World War I Canada's Hundred Days (Battle of Amiens),"Amiens, France",,wikipedia_title,Amiens,place,49.892,2.299,https://en.wikipedia.org/wiki/Amiens,
+Canadian,Robert Edward Cruickshank,1918,World War I Palestine campaign,"Jordan, Palestine",,unmatched,,,,,,no GeoNames match
+Canadian,David Vivian Currie,1944,World War II Falais pocket,"Battle of Falaise, France",,unmatched,,,,,,no GeoNames match
+Canadian,Raymond de Montmorency,1898,"Battle of Omdurman, Anglo-Egyptian conquest of Sudan","Omdurman, Sudan",,geonames,"Omdurman (SD, GeoNames 365137)",place,15.64453,32.47773,https://www.geonames.org/365137,
+Canadian,Edmund De Wind,1918,World War I defence against German spring offensive,"Groagie, France",,unmatched,,,,,,no GeoNames match
+Canadian,Thomas Dinesen,1918,World War I Canada's Hundred Days,"Parvillers, France",,unmatched,,,,,,no GeoNames match
+Canadian,Campbell Mellis Douglas,1867,Andaman Islands Expedition (Bravery at Sea),"Little Andaman, India",,wikipedia_title,Little Andaman,place,10.65,92.49,https://en.wikipedia.org/wiki/Little_Andaman,
+Canadian,Alexander Roberts Dunn,1854,"Battle of Balaclava, Crimean War","Balaclava, Crimea",,geonames,"Balaklava (UA, GeoNames 712930)",place,44.51118,33.59942,https://www.geonames.org/712930,
+Canadian,Frederick Fisher (VC),1915,World War I Second Battle of Ypres,"St. Julien, Belgium",,unmatched,,,,,,no GeoNames match
+Canadian,Gordon Muriel Flowerdew,1918,World War I defence against German spring offensive Battle of Moreuil Wood,"Bois de Moreuil, France",,unmatched,,,,,,no GeoNames match
+Canadian,John Weir Foote,1942,World War II Dieppe raid,"Dieppe, France",,wikipedia_title,Dieppe,place,49.925,1.075,https://en.wikipedia.org/wiki/Dieppe,
+Canadian,Benjamin Geary,1915,World War I Capture of Hill 60,"Ypres, Belgium",Ypres,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Canadian,Herman James Good,1918,World War I Canada's Hundred Days (Battle of Amiens),"Hangard Wood, France",,unmatched,,,,,,no GeoNames match
+Canadian,Robert Hampton Gray,1945 (Aug. 9),World War II Pacific War aerial attack on Japanese navy in home waters,"Onagawa Bay, Japan",,geonames,"Onagawa Chō (JP, GeoNames 2111401)",place,38.4466,141.44794,https://www.geonames.org/2111401,
+Canadian,Milton Fowler Gregg,1918,World War I Canada's Hundred Days,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,Frederick William Hall,1915,World War I Second Battle of Ypres,"Ypres, Belgium",,wikipedia_title,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+Canadian,William Hall (VC),1857,Indian rebellion of 1857,"Lucknow, India",,wikipedia_title,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+Canadian,Robert Hill Hanna,1917,World War I Battle of Hill 70,"Lens, France",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,Frederick Maurice Watson Harvey,1917,World War I Trench warfare,"Guyencourt, France",,wikipedia_title,Guyencourt,place,49.3572,3.8369,https://en.wikipedia.org/wiki/Guyencourt,
+Canadian,Frederick Hobson,1917,World War I Battle of Hill 70,"Lens, France",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,Charles Ferguson Hoey,1944,"World War II Burma campaign, Battle of the Admin Box","Ngakyedauk Pass, Burma (now Myanmar)",,unmatched,,,,,,no GeoNames match
+Canadian,Edward Holland (Canadian Army officer),1900,Second Boer War Battle of Leliefontein,"Komati River, South Africa",,geonames,"Komati (ZA, GeoNames 988295)",place,-26.09548,29.4608,https://www.geonames.org/988295,
+Canadian,Thomas William Holmes,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Samuel Lewis Honey,1918,World War I Canada's Hundred Days,"Bourlon Wood, France",,geonames,"Bourlon (FR, GeoNames 3030919)",place,50.17692,3.11425,https://www.geonames.org/3030919,
+Canadian,David Ernest Hornell,1944,World War II Battle of Atlantic,"Faroes, Atlantic",,unmatched,,,,,,country not recognised for GeoNames fallback
+Canadian,Bellenden Hutcheson,1918,World War I Canada's Hundred Days,"Arras, France",,wikipedia_title,Arras,place,50.292,2.78,https://en.wikipedia.org/wiki/Arras,
+Canadian,Joseph Kaeble,1918,World War I Trench warfare,"Neuville-Vitasse, France",,unmatched,,,,,,no GeoNames match
+Canadian,George Fraser Kerr,1918,World War I Canada's Hundred Days,"Bourlon Wood, France",,geonames,"Bourlon (FR, GeoNames 3030919)",place,50.17692,3.11425,https://www.geonames.org/3030919,
+Canadian,John Chipman Kerr,1916,World War I Battle of Flers–Courcelette,"Courcelette, France",,unmatched,,,,,,no GeoNames match
+Canadian,Cecil John Kinross,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Arthur George Knight,1918,World War I Canada's Hundred Days,"Villers-les-Cagnicourt, France (near Arras)",,unmatched,,,,,,no GeoNames match
+Canadian,Filip Konowal,1917,World War I Battle of Hill 70,"Lens, France",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,Okill Massey Learmonth,1917,World War I [https://www.biographi.ca/en/bio/learmonth_okill_massey_14E.html Battle of Hill 70],"Lens, France",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,Graham Thomson Lyall,1918,World War I Canada's Hundred Days,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,Thain Wendell MacDowell,1917,World War I Vimy Ridge,"Vimy Ridge, France",,geonames,"Vimy (FR, GeoNames 2968070)",place,50.37243,2.81034,https://www.geonames.org/2968070,
+Canadian,John MacGregor (VC),1918,World War I Canada's Hundred Days,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,John Keefer Mahony,1944,World War II Italian campaign,"River Melfa, Italy",,geonames,"Roccasecca Stazione (IT, GeoNames 3173617)",place,41.53333,13.65,https://www.geonames.org/3173617,
+Canadian,George Burdon McKean,1918,World War I Trench warfare,"Gavrelle Sector, France",,unmatched,,,,,,no GeoNames match
+Canadian,Hugh McKenzie (VC),1917,World War I Second Battle of Passchendaele,"Meetscheele Spur, Belgium",,unmatched,,,,,,no GeoNames match
+Canadian,William Merrifield,1918,World War I Canada's Hundred Days,"Abancourt, France",,unmatched,,,,,,no GeoNames match
+Canadian,Charles Cecil Ingersoll Merritt,1942,World War II Dieppe Raid,"Dieppe, France",,wikipedia_title,Dieppe,place,49.925,1.075,https://en.wikipedia.org/wiki/Dieppe,
+Canadian,William Henry Metcalf (VC),1918,World War I Canada's Hundred Days,"Arras, France",,wikipedia_title,Arras,place,50.292,2.78,https://en.wikipedia.org/wiki/Arras,
+Canadian,William Johnstone Milne,1917,World War I Vimy Ridge,"Thelus, France",,geonames,"Thélus (FR, GeoNames 2972969)",place,50.35441,2.80146,https://www.geonames.org/2972969,
+Canadian,Harry Garnet Bedford Miner,1918,World War I Canada's Hundred Days (Battle of Amiens),"Demuin, France",,unmatched,,,,,,no GeoNames match
+Canadian,Coulson Norman Mitchell,1918,World War I Canada's Hundred Days,"Canal de L'Escaut, France",,unmatched,,,,,,no GeoNames match
+Canadian,George Mullin (VC),1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Andrew Charles Mynarski,1944,World War II Bomber campaign,"Cambrai, France",,geonames,"Cambrai (FR, GeoNames 3029030)",place,50.17596,3.23472,https://www.geonames.org/3029030,
+Canadian,William Nickerson (British Army officer),1900,Second Boer War (Siege of Wepener),"Wakkerstroom, South Africa",,geonames,"Wakkerstroom (ZA, GeoNames 942136)",place,-27.35493,30.14384,https://www.geonames.org/942136,
+Canadian,Claude Joseph Patrick Nunney,1918,World War I Canada's Hundred Days,"Drocourt-Queant Line, France (near Arras)",,unmatched,,,,,,no GeoNames match
+Canadian,Christopher O'Kelly,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Michael O'Leary (VC),1915,World War I Canadian counterattack after German advance,"Cuinchy, France",,wikipedia_title,Cuinchy,place,50.52,2.7494,https://en.wikipedia.org/wiki/Cuinchy,
+Canadian,Michael James O'Rourke,1917,World War I Battle of Hill 70,"Lens, France (Hill 70)",,geonames,"Lens (FR, GeoNames 3003093)",place,50.43302,2.82791,https://www.geonames.org/3003093,
+Canadian,John Robert Osborn,1941,World War II Battle of Hong Kong,"Mount Butler, Hong Kong",,unmatched,,,,,,no GeoNames match
+Canadian,John George Pattison,1917,World War I Vimy Ridge,"Vimy Ridge, France",,geonames,"Vimy (FR, GeoNames 2968070)",place,50.37243,2.81034,https://www.geonames.org/2968070,
+Canadian,George Randolph Pearkes,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Cyrus Wesley Peck,1918,World War I Canada's Hundred Days,"Cagnicourt, France (near Arras)",,unmatched,,,,,,no GeoNames match
+Canadian,Frederick Thornton Peters,1942,World War II Operation Torch,"Oran, Algeria",,wikipedia_title,Oran,place,35.69694444,-0.63305556,https://en.wikipedia.org/wiki/Oran,
+Canadian,Walter Leigh Rayfield,1918,World War I Canada's Hundred Days,"Arras, France",,wikipedia_title,Arras,place,50.292,2.78,https://en.wikipedia.org/wiki/Arras,
+Canadian,Herbert Taylor Reade,1857,Indian rebellion of 1857,"Delhi, India",,wikipedia_title,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+Canadian,Arthur Herbert Lindsay Richardson,1900,Second Boer War Small-unit firefight,"Wolwespruit, South Africa (near the Vaal River)",,unmatched,,,,,,no GeoNames match
+Canadian,James Cleland Richardson,1916,World War I Battle of the Somme,"Somme, France",,wikidata_battle,Battle of the Somme (Q132568),place,50.015555555,2.6975,https://www.wikidata.org/wiki/Q132568,
+Canadian,Thomas Ricketts (VC),1918,World War I Hundred Days Offensive,"Ledeghem, Belgium",Ledegem,wikipedia_link,Ledegem,place,50.85,3.11666667,https://en.wikipedia.org/wiki/Ledegem,
+Canadian,James Peter Robertson,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Charles Smith Rutherford,1918,World War I Canada's Hundred Days,"Monchy, France",,geonames,"Monchy-Saint-Éloi (FR, GeoNames 2993390)",place,49.29042,2.46739,https://www.geonames.org/2993390,
+Canadian,Francis Alexander Caron Scrimger,1915,World War I Second Battle of Ypres,"St. Julien, Belgium",,unmatched,,,,,,no GeoNames match
+Canadian,Robert Shankland,1917,World War I Second Battle of Passchendaele,"Passchendaele, Belgium",,geonames,"Passendale (BE, GeoNames 2789270)",place,50.89979,3.02133,https://www.geonames.org/2789270,
+Canadian,Ellis Welwood Sifton,1917,World War I Vimy Ridge,"Neuville-St.-Vaast, France",,unmatched,,,,,,no GeoNames match
+Canadian,John Alexander Sinton,1916,World War I Mesopotamian campaign,"Orah Ruins, Mesopotamia",,unmatched,,,,,,no GeoNames match
+Canadian,Ernest Smith,1944,World War II Italian campaign,"River Savio, Italy",,geonames,"Savio (IT, GeoNames 3167027)",place,44.31139,12.29472,https://www.geonames.org/3167027,
+Canadian,Robert Spall,1918,World War I Canada's Hundred Days,"Parvillers, France",,unmatched,,,,,,no GeoNames match
+Canadian,Harcus Strachan,1917,World War I Battle of Cambrai,"Masnières, France",,geonames,"Masnières (FR, GeoNames 2995270)",place,50.11489,3.20889,https://www.geonames.org/2995270,
+Canadian,James Edward Tait,1918,World War I Canada's Hundred Days (Battle of Amiens),"Amiens, France",,wikipedia_title,Amiens,place,49.892,2.299,https://en.wikipedia.org/wiki/Amiens,
+Canadian,Frederick Albert Tilston,1945,World War II Battle of the Rhineland,"Hochwald Forest, Germany",,unmatched,,,,,,no GeoNames match
+Canadian,Frederick George Topham,1945,World War II Operation Varsity (March 1945),"Rhine, Germany",,wikidata_battle,Battle of the Rhine (Q113688110),place,48.166666666,7.55,https://www.wikidata.org/wiki/Q113688110,
+Canadian,Paul Triquet,1943,World War II Italian campaign,"Casa Berardi, Italy",,unmatched,,,,,,no GeoNames match
+Canadian,Richard Turner (Canadian Army officer),1900,Second Boer War Battle of Leliefontein,"Komati River, South Africa",,geonames,"Komati (ZA, GeoNames 988295)",place,-26.09548,29.4608,https://www.geonames.org/988295,
+Canadian,Thomas Orde Lawder Wilkinson,1916,World War I Battle of the Somme,"La Boiselle, France",,wikipedia_title,Ovillers-la-Boisselle,place,50.0322,2.6986,https://en.wikipedia.org/wiki/Ovillers-la-Boisselle,
+Canadian,John Francis Young,1918,World War I Canada's Hundred Days,"Dury-Arras Sector, France",,unmatched,,,,,,no GeoNames match
+Canadian,Raphael Zengel,1918,World War I Canada's Hundred Days (Battle of Amiens),"Warvillers, France",,wikipedia_title,Warvillers,place,49.7806,2.6878,https://en.wikipedia.org/wiki/Warvillers,
+New Zealand,Leslie Wilton Andrew,1917,First World War,"La Basse Ville, Belgium",La Basse Ville,unmatched,,,,,,no GeoNames match
+New Zealand,Cyril Royston Guyton Bassett,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+New Zealand,Donald Forrester Brown,1916,First World War,"High Wood, France",High Wood,wikipedia_link,Attacks on High Wood,place,50.04025,2.78460556,https://en.wikipedia.org/wiki/Attacks_on_High_Wood,
+New Zealand,James Crichton (VC),1918,First World War,"Crèvecœur, France",Crèvecœur-sur-l'Escaut,wikipedia_link,Crèvecœur-sur-l'Escaut,place,50.1064,3.2517,https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur-sur-l%27Escaut,
+New Zealand,Keith Elliott,1942,Second World War,"Ruweisat, Egypt",Ruweisat Ridge;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+New Zealand,Samuel Forsyth,1918,First World War,"Grévillers, France",Grévillers,wikipedia_link,Grévillers,place,50.1064,2.8119,https://en.wikipedia.org/wiki/Gr%C3%A9villers,
+New Zealand,Samuel Frickleton,1917,First World War,"Messines, Belgium",Mesen,wikipedia_link,Mesen,place,50.76666667,2.9,https://en.wikipedia.org/wiki/Mesen,
+New Zealand,John Gildroy Grant,1918,First World War,"Bancourt, France",Bancourt,wikipedia_link,Bancourt,place,50.1014,2.8889,https://en.wikipedia.org/wiki/Bancourt,
+New Zealand,William James Hardham,1901,Second Boer War,"Naauwpoort, South Africa",Naauwpoort;South Africa,wikipedia_link,Noupoort,place,-31.18333333,24.95,https://en.wikipedia.org/wiki/Noupoort,
+New Zealand,Charles Heaphy,1864,New Zealand Wars,"Mangapiko River, New Zealand",Mangapiko Stream,wikipedia_link,Mangapiko Stream,place,-37.9805,175.1944,https://en.wikipedia.org/wiki/Mangapiko_Stream,
+New Zealand,John Daniel Hinton,1941,Second World War,"Kalamai, Greece",Kalamata,wikipedia_link,Kalamata,place,37.03777778,22.11111111,https://en.wikipedia.org/wiki/Kalamata,
+New Zealand,Alfred Clive Hulme,1941,Second World War,"Crete, Greece",Crete,wikipedia_link,Crete,place,35.21,24.91,https://en.wikipedia.org/wiki/Crete,
+New Zealand,Reginald Stanley Judson,1918,First World War,"Bapaume, France",Bapaume,wikipedia_link,Bapaume,place,50.1044,2.8519,https://en.wikipedia.org/wiki/Bapaume,
+New Zealand,Harry John Laurent,1918,First World War,"Gouzeaucourt Wood, France",Gouzeaucourt,wikipedia_link,Gouzeaucourt,place,50.0564,3.125,https://en.wikipedia.org/wiki/Gouzeaucourt,
+New Zealand,Moana-Nui-a-Kiwa Ngarimu,1943,Second World War,"Tebaga Gap, Tunisia",Tebaga Gap;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+New Zealand,Henry James Nicholas,1917,First World War,"Polderhoek, Belgium",Polderhoek,unmatched,,,,,,no GeoNames match
+New Zealand,Richard Travis,1918,First World War,"Rossignol Wood, France",Rossignol Wood,wikipedia_link,Rossignol Wood Cemetery,place,50.1296,2.6655,https://en.wikipedia.org/wiki/Rossignol_Wood_Cemetery,
+New Zealand,Leonard Henry Trent,1943,Second World War,"Amsterdam, Netherlands",Amsterdam,wikipedia_link,Amsterdam,place,52.37277778,4.89361111,https://en.wikipedia.org/wiki/Amsterdam,
+New Zealand,Lloyd Allan Trigg,1943,Second World War,Atlantic,,unmatched,,,,,,no country given
+New Zealand,Charles Hazlitt Upham,1941 1942,Second World War,"Crete, Greece (1941) Ruweisat Ridge, Egypt (1942)",Crete;Ruweisat Ridge;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+New Zealand,James Allen Ward,1941,Second World War,"Munster, Germany",Munster,unmatched,,,,,,ambiguous: 4 GeoNames places called Munster
+By nationality,Bellenden Seymour Hutcheson,1918,First World War,"Drocourt-Quéant Support Line, France",Drocourt-Quéant,unmatched,,,,,,no GeoNames match
+By nationality,William Henry Metcalf (VC),1918,First World War,"Arras, France",Arras,wikipedia_link,Arras,place,50.292,2.78,https://en.wikipedia.org/wiki/Arras,
+By nationality,George Mullin (VC),1917,First World War,"Passchendaele, Belgium",Passendale,wikipedia_link,Passendale,place,50.9003,3.0206,https://en.wikipedia.org/wiki/Passendale,
+By nationality,William Henry Harrison Seeley,1864,Bombardment of Shimonoseki,"Shimonoseki, Japan",Shimonoseki,wikipedia_link,Shimonoseki,place,33.95777778,130.94138889,https://en.wikipedia.org/wiki/Shimonoseki,
+By nationality,Raphael Louis Zengel,1918,First World War,"Warvillers, France",Warvillers,wikipedia_link,Warvillers,place,49.7806,2.6878,https://en.wikipedia.org/wiki/Warvillers,
+By nationality,Adrian Carton de Wiart,1916,First World War,"La Boiselle, France",La Boiselle,wikipedia_link,Ovillers-la-Boisselle,place,50.0322,2.6986,https://en.wikipedia.org/wiki/Ovillers-la-Boisselle,
+By nationality,Samuel Hodge,1866,Gambia Campaign,"Tubabecelong, Gambia",Tubabecelong;Gambia,wikipedia_link_coarse,The Gambia,region,13.45,-16.575,https://en.wikipedia.org/wiki/The_Gambia,no GeoNames match
+By nationality,Duncan Charles Home,1857,Indian Mutiny,"Delhi, India",Delhi,wikipedia_link,Delhi,place,28.61,77.23,https://en.wikipedia.org/wiki/Delhi,
+By nationality,George Ingouville,1855,Crimean War,"Vyborg, Russia",Vyborg,wikipedia_link,Vyborg,place,60.71666667,28.76666667,https://en.wikipedia.org/wiki/Vyborg,
+By nationality,Herbert Wallace Le Patourel,1942,Second World War,"Tebourba, Tunisia",Tebourba;Tunisia,wikipedia_link,Tebourba,place,36.83333333,9.83333333,https://en.wikipedia.org/wiki/Tebourba,
+By nationality,Ferdinand Le Quesne,1889,British rule in Burma,"Voklaak, Burma",Voklaak;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+By nationality,John Frederick McCrea,1881,Basuto Gun War,"Tweefontein, South Africa",Tweefontein;South Africa,geonames,"Somaroboro (ZA, GeoNames 1105728)",place,-25.34604,28.83431,https://www.geonames.org/1105728,
+By nationality,George Nurse (VC recipient),1899,Second Boer War,"Colenso, South Africa",Battle of Colenso;South Africa,wikipedia_link,Second Battle of Colenso,place,-28.73416667,29.8225,https://en.wikipedia.org/wiki/Second_Battle_of_Colenso,
+By nationality,Euston Henry Sartorius,1859,Second Anglo-Afghan War,"Shahjui, Afghanistan",Shahjui;Afghanistan,geonames,"‘Alāqahdārī Shāh Jōy (AF, GeoNames 1125962)",place,32.52154,67.41315,https://www.geonames.org/1125962,
+By nationality,Reginald William Sartorius,1874,First Ashanti Expedition,"Obugu, Ashanti",Obugu;Ashanti Empire,wikipedia_link_coarse,Asante Empire,region,5.45,-0.96666667,https://en.wikipedia.org/wiki/Asante_Empire,no GeoNames match
+By nationality,Thomas Dinesen,1918,First World War,"Parvillers, France",Parvillers,unmatched,,,,,,no GeoNames match
+By nationality,Percy Hansen,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+By nationality,Anders Lassen,1945,Second World War,"Comacchio, Italy",Comacchio,wikipedia_link,Comacchio,place,44.7,12.18333333,https://en.wikipedia.org/wiki/Comacchio,
+By nationality,Sefanaia Sukanaivalu,1944,Second World War,"Mawaraka, Bougainville Island",Bougainville campaign (1943–45);Bougainville Island,wikipedia_link,Bougainville campaign,place,-6.02,155.1,https://en.wikipedia.org/wiki/Bougainville_campaign,
+By nationality,Charles Wooden,1854,Crimean War,"Balaklava, Crimea",Balaklava;Crimea,wikipedia_link,Balaklava,place,44.5,33.6,https://en.wikipedia.org/wiki/Balaklava,
+By nationality,Johnson Beharry,2004,Iraq War,"Amarah, Iraq",Amarah;Iraq,wikipedia_link,Amarah,place,31.83333333,47.15,https://en.wikipedia.org/wiki/Amarah,
+By nationality,William Johnstone (VC),1854,Crimean War,"Åland, Finland",Åland,wikipedia_link,Åland,place,60.25,20.36666667,https://en.wikipedia.org/wiki/%C3%85land,
+By nationality,Premindra Singh Bhagat,1941,Second World War,"Gallabat, Abyssinia",Gallabat;Ethiopia,wikipedia_link,Gallabat,place,12.96666667,36.15,https://en.wikipedia.org/wiki/Gallabat,
+By nationality,Yeshwant Ghadge,1944,Second World War,"Upper Tiber Valley, Italy",Tiber Valley,unmatched,,,,,,no GeoNames match
+By nationality,"Abdul Hafiz, VC",1944,Second World War,"Imphal, India",Imphal,wikipedia_link,Imphal,place,24.8074,93.9384,https://en.wikipedia.org/wiki/Imphal,
+By nationality,Namdeo Jadav,1945,Second World War,"Senio River, Italy",Senio River,wikipedia_link,Senio,place,44.5475,12.0954,https://en.wikipedia.org/wiki/Senio,
+By nationality,Karamjeet Singh Judge,1945,Second World War,"Meiktila, Burma",Meiktila;Burma,wikipedia_link,Meiktila,place,20.88333333,95.88333333,https://en.wikipedia.org/wiki/Meiktila,
+By nationality,Lala (VC),1916,First World War,"El Orah, Mesopotamia",El Orah;Mesopotamia,unmatched,,,,,,no GeoNames match
+By nationality,Darwan Singh Negi,1914,First World War,"Festubert, France",Festubert,wikipedia_link,Festubert,place,50.5442,2.7375,https://en.wikipedia.org/wiki/Festubert,
+By nationality,Gabar Singh Negi,1915,First World War,"Neuve Chapelle, France",Neuve Chapelle,wikipedia_link,Neuve-Chapelle,place,50.5844,2.7811,https://en.wikipedia.org/wiki/Neuve-Chapelle,
+By nationality,Bhandari Ram,1944,Second World War,"Arakan State, Burma",Arakan State;Burma,wikipedia_link,Rakhine State,place,19.5,94,https://en.wikipedia.org/wiki/Rakhine_State,
+By nationality,Chhelu Ram,1943,Second World War,"Djebel Garci, Tunisia",Djebel Garci;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+By nationality,Kamal Ram,1944,Second World War,"River Gari, Italy",River Gari,unmatched,,,,,,no GeoNames match
+By nationality,Richhpal Ram,1941,Second World War,"Keren, Eritrea","Keren, Eritrea",wikipedia_link,"Keren, Eritrea",place,15.77777778,38.45805556,https://en.wikipedia.org/wiki/Keren%2C_Eritrea,
+By nationality,Badlu Singh,1918,First World War,"River Jordan, Palestine",River Jordan;Palestine (region),wikipedia_link,Jordan River,place,33.1875,35.61944444,https://en.wikipedia.org/wiki/Jordan_River,
+By nationality,Chatta Singh,1916,First World War,"Battle of the Wadi, Mesopotamia",Battle of the Wadi;Mesopotamia,unmatched,,,,,,no GeoNames match
+By nationality,Gian Singh (soldier),1945,Second World War,"Myingyan, Burma",Myingyan;Burma,wikipedia_link,Myingyan,place,21.46,95.38833333,https://en.wikipedia.org/wiki/Myingyan,
+By nationality,Gobind Singh (VC),1917,First World War,"Pezières, France","Pezières, Épehy",wikipedia_link,Épehy,place,50.0083,3.1293,https://en.wikipedia.org/wiki/%C3%89pehy,
+By nationality,Ishar Singh,1921,Waziristan Campaign,"Haidari Kach, India",Haidari Kach,unmatched,,,,,,no GeoNames match
+By nationality,Nand Singh,1944,Second World War,"Maungdaw–Buthidaung Road, Burma",Maungdaw;Buthidaung;Burma,wikipedia_link,Maungdaw,place,20.81666667,92.36666667,https://en.wikipedia.org/wiki/Maungdaw,
+By nationality,Parkash Singh,1943,Second World War,"Donbaik, Burma",Donbaik;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+By nationality,Prakash Singh Chib,1945,Second World War,"Kanlan Ywathit, Burma",Kanlan Ywathit;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+By nationality,Ram Sarup Singh,1944,Second World War,"Kennedy Peak, Burma",Kennedy Peak (Burma);Burma,wikipedia_link,Kennedy Peak (Myanmar),place,23.3175,93.76166667,https://en.wikipedia.org/wiki/Kennedy_Peak_%28Myanmar%29,
+By nationality,Mir Dast,1915,First World War,"Wieltje, Belgium",Wieltje,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+By nationality,Fazal Din,1945,Second World War,"Meiktila, Burma",Meiktila;Burma,wikipedia_link,Meiktila,place,20.88333333,95.88333333,https://en.wikipedia.org/wiki/Meiktila,
+By nationality,Ganju Lama,1944,Second World War,"Ningthoukhong, Burma",Ningthoukhong;Burma,wikipedia_link,Ningthoukhong,place,24.563,93.72866,https://en.wikipedia.org/wiki/Ningthoukhong,
+By nationality,Ali Haidar (military),1945,Second World War,"Fusignano, Italy",Fusignano,wikipedia_link,Fusignano,place,44.46666667,11.96666667,https://en.wikipedia.org/wiki/Fusignano,
+By nationality,Khudadad Khan,1914,First World War,"Hollebeke, Belgium",Hollebeke,wikipedia_link,Hollebeke,place,50.80527778,2.93805556,https://en.wikipedia.org/wiki/Hollebeke,
+By nationality,Shahamad Khan,1916,First World War,"Beit Ayeesa, Mesopotamia",Beit Ayeesa;Mesopotamia,unmatched,,,,,,no GeoNames match
+By nationality,Sher Shah (VC),1945,Second World War,"Kyeyebyin, Burma",Kyeyebyin;Burma,wikipedia_link_coarse,Myanmar,region,22,96,https://en.wikipedia.org/wiki/Myanmar,no GeoNames match
+By nationality,Umrao Singh,1944,Second World War,"Kaladan Valley, Burma",Kaladan Valley;Burma,wikipedia_link,Kaladan River,place,20.1,92.9025,https://en.wikipedia.org/wiki/Kaladan_River,
+By nationality,William James Gordon,1892,Second Gambian Campaign,"Toniataba, Gambia",Toniataba;Gambia,geonames,"Toniataba (GM, GeoNames 2411765)",place,13.43333,-15.58333,https://www.geonames.org/2411765,
+By nationality,Nigel Gray Leakey,1941,Second World War,"Colito, Abyssinia",Colito;Ethiopia,geonames,"K’olīto (ET, GeoNames 332880)",place,7.31667,38.08333,https://www.geonames.org/332880,
+By nationality,Robert Henry Cain,1944,Second World War,"Arnhem, Netherlands",Battle of Arnhem,wikipedia_link,Battle of Arnhem,place,51.98027778,5.90027778,https://en.wikipedia.org/wiki/Battle_of_Arnhem,
+By nationality,Gaje Ghale,1943,Second World War,"Chin Hills, Burma",Chin Hills;Burma,wikipedia_link,Chin Hills,place,22.5,93.5,https://en.wikipedia.org/wiki/Chin_Hills,
+By nationality,Bhanbhagta Gurung,1945,Second World War,"Tamandu, Burma",Tamandu;Burma,wikipedia_link,Tamandu,place,19.85,93.78333333,https://en.wikipedia.org/wiki/Tamandu,
+By nationality,Lachhiman Gurung,1945,Second World War,"Taungdaw, Burma",Taungdaw;Burma,wikipedia_link,Taungdaw,place,24.4,94.68333333,https://en.wikipedia.org/wiki/Taungdaw,
+By nationality,Thaman Gurung,1944,Second World War,"Monte San Bartolo, Italy",Monte San Bartolo,wikipedia_link,Monte San Bartolo,place,43.92047972,12.89543183,https://en.wikipedia.org/wiki/Monte_San_Bartolo,
+By nationality,Rambahadur Limbu,1965,Indonesia–Malaysia confrontation,"Sarawak, Borneo",Sarawak;Borneo,wikipedia_link_coarse,Borneo,region,0,114,https://en.wikipedia.org/wiki/Borneo,no GeoNames match
+By nationality,Tulbahadur Pun,1944,Second World War,"Mogaung, Burma",Mogaung;Burma,wikipedia_link,Mogaung,place,25.30138889,96.94166667,https://en.wikipedia.org/wiki/Mogaung,
+By nationality,Agansing Rai,1944,Second World War,"Bishenpur, India","Bishenpur, Manipur",wikipedia_link,"Bishnupur, Manipur",place,24.62972528,93.75938417,https://en.wikipedia.org/wiki/Bishnupur%2C_Manipur,
+By nationality,Karanbahadur Rana,1918,First World War,"El Kefr, Egypt",El Kefr;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+By nationality,Kulbir Thapa,1915,First World War,"Fauquissart, France",Fauquissart,wikipedia_link,Laventie,place,50.6283,2.7719,https://en.wikipedia.org/wiki/Laventie,
+By nationality,Lalbahadur Thapa,1943,Second World War,"Rass-es-Zouai, Tunisia",Rass-es-Zouai;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+By nationality,Netrabahadur Thapa,1944,Second World War,"Bishenpur, India","Bishenpur, Manipur",wikipedia_link,"Bishnupur, Manipur",place,24.62972528,93.75938417,https://en.wikipedia.org/wiki/Bishnupur%2C_Manipur,
+By nationality,Sher Bahadur Thapa,1944,Second World War,"San Marino, Italy",San Marino,wikipedia_link,San Marino,place,43.93333333,12.43333333,https://en.wikipedia.org/wiki/San_Marino,
+By nationality,Leslie Wilton Andrew,1917,First World War,"La Basse Ville, Belgium",La Basse Ville,unmatched,,,,,,no GeoNames match
+By nationality,Cyril Royston Guyton Bassett,1915,First World War,"Gallipoli, Turkey",Gallipoli,geonames,"Gelibolu (TR, GeoNames 746983)",place,40.40836,26.67174,https://www.geonames.org/746983,
+By nationality,Donald Forrester Brown,1916,First World War,"High Wood, France",High Wood,wikipedia_link,Attacks on High Wood,place,50.04025,2.78460556,https://en.wikipedia.org/wiki/Attacks_on_High_Wood,
+By nationality,James Crichton (VC),1918,First World War,"Crèvecœur, France",Crèvecœur-le-Grand,wikipedia_link,Crèvecœur-le-Grand,place,49.6089,2.0789,https://en.wikipedia.org/wiki/Cr%C3%A8vec%C5%93ur-le-Grand,
+By nationality,Henry Cecil Dudgeon D'Arcy,1879,Anglo-Zulu War,"Ulundi, South Africa",Ulundi;South Africa,wikipedia_link,Ulundi,place,-28.31666667,31.41666667,https://en.wikipedia.org/wiki/Ulundi,
+By nationality,Keith Elliott,1942,Second World War,"Ruweisat, Egypt",Ruweisat;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+By nationality,Samuel Forsyth,1918,First World War,"Grévillers, France",Grévillers,wikipedia_link,Grévillers,place,50.1064,2.8119,https://en.wikipedia.org/wiki/Gr%C3%A9villers,
+By nationality,Bernard Cyril Freyberg,1916,First World War,"Beaucourt sur Ancre, France",Beaucourt sur Ancre,wikipedia_link,Beaucourt-sur-l'Ancre,place,50.0806,2.6867,https://en.wikipedia.org/wiki/Beaucourt-sur-l%27Ancre,
+By nationality,Samuel Frickleton,1917,First World War,"Messines, Belgium",Battle of Messines (1917),wikipedia_link,Battle of Messines (1917),place,50.7625,2.89527778,https://en.wikipedia.org/wiki/Battle_of_Messines_%281917%29,
+By nationality,John Gildroy Grant,1918,First World War,"Bancourt, France",Bancourt,wikipedia_link,Bancourt,place,50.1014,2.8889,https://en.wikipedia.org/wiki/Bancourt,
+By nationality,William James Hardham,1901,Second Boer War,"Naauwpoort, South Africa",Naauwpoort;South Africa,wikipedia_link,Noupoort,place,-31.18333333,24.95,https://en.wikipedia.org/wiki/Noupoort,
+By nationality,Charles Heaphy,1864,New Zealand Wars,"Mangapiko River, New Zealand",Mangapiko River,unmatched,,,,,,no GeoNames match
+By nationality,John Daniel Hinton,1941,Second World War,"Kalamai, Greece",Kalamata,wikipedia_link,Kalamata,place,37.03777778,22.11111111,https://en.wikipedia.org/wiki/Kalamata,
+By nationality,Clive Hulme,1941,Second World War,"Crete, Greece",Crete,wikipedia_link,Crete,place,35.21,24.91,https://en.wikipedia.org/wiki/Crete,
+By nationality,Reginald Stanley Judson,1918,First World War,"Bapaume, France",Bapaume,wikipedia_link,Bapaume,place,50.1044,2.8519,https://en.wikipedia.org/wiki/Bapaume,
+By nationality,Harry John Laurent,1918,First World War,"Gouzeaucourt Wood, France",Gouzeaucourt,wikipedia_link,Gouzeaucourt,place,50.0564,3.125,https://en.wikipedia.org/wiki/Gouzeaucourt,
+By nationality,Moana-Nui-a-Kiwa Ngarimu,1943,Second World War,"Tebaga Gap, Tunisia",Tebaga Gap;Tunisia,wikipedia_link_coarse,Tunisia,region,34,9,https://en.wikipedia.org/wiki/Tunisia,no GeoNames match
+By nationality,Henry James Nicholas,1917,First World War,"Polderhoek, Belgium",Action on the Polderhoek Spur,wikipedia_link,Action on the Polderhoek Spur,place,50.83333333,2.98333333,https://en.wikipedia.org/wiki/Action_on_the_Polderhoek_Spur,
+By nationality,William Edward Sanders,1917,First World War,Atlantic,,unmatched,,,,,,no country given
+By nationality,Alfred Shout,1915,First World War,Gallipoli,Gallipoli,wikipedia_link_coarse,Gallipoli,region,40.35,26.45,https://en.wikipedia.org/wiki/Gallipoli,no country given
+By nationality,Richard Travis,1918,First World War,"Rossignol Wood, France",Rossignol Wood,wikipedia_link,Rossignol Wood Cemetery,place,50.1296,2.6655,https://en.wikipedia.org/wiki/Rossignol_Wood_Cemetery,
+By nationality,Leonard Henry Trent,1943,Second World War,"Amsterdam, Netherlands",Amsterdam,wikipedia_link,Amsterdam,place,52.37277778,4.89361111,https://en.wikipedia.org/wiki/Amsterdam,
+By nationality,Willie Apiata,2004,Afghanistan War,"Afghanistan, Afghanistan",Afghanistan,wikipedia_link_coarse,Afghanistan,region,34.51666667,69.18333333,https://en.wikipedia.org/wiki/Afghanistan,no GeoNames match
+By nationality,Lloyd Allan Trigg,1943,Second World War,Atlantic,,unmatched,,,,,,no country given
+By nationality,Charles Hazlitt Upham,1941 1942,Second World War,"Crete, Greece, (1941), Ruweisat Ridge, Egypt (1942)",Crete;Ruweisat Ridge;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+By nationality,James Allen Ward,1941,Second World War,"Munster, Germany",Munster,unmatched,,,,,,ambiguous: 4 GeoNames places called Munster
+By nationality,John Bernard Croak,1918,First World War,"Amiens, France",Amiens,wikipedia_link,Amiens,place,49.892,2.299,https://en.wikipedia.org/wiki/Amiens,
+By nationality,Thomas Ricketts (VC),1918,First World War,"Ledeghem, Belgium",Ledeghem,wikipedia_link,Ledegem,place,50.85,3.11666667,https://en.wikipedia.org/wiki/Ledegem,
+By nationality,Frank William Baxter,1896,Matabeleland Rebellion,"Umguza, Rhodesia",Umguza;Rhodesia,wikipedia_link,Umguza District,place,-20.06666667,28.58333333,https://en.wikipedia.org/wiki/Umguza_District,
+By nationality,Frederick Charles Booth,1917,First World War,"Johannesburg, German East Africa",Johannesburg;German East Africa,wikipedia_link_coarse,German East Africa,region,-2.41305556,30.54361111,https://en.wikipedia.org/wiki/German_East_Africa,no GeoNames match
+By nationality,Herbert Stephen Henderson,1897,Matabeleland Rebellion,"Bulawayo, Rhodesia",Bulawayo;Rhodesia,wikipedia_link,Bulawayo,place,-20.17,28.58,https://en.wikipedia.org/wiki/Bulawayo,
+By nationality,Herman Albrecht,1900,Second Boer War,"Ladysmith, South Africa","Ladysmith, South Africa",wikipedia_link,"Ladysmith, KwaZulu-Natal",place,-28.55972222,29.78055556,https://en.wikipedia.org/wiki/Ladysmith%2C_KwaZulu-Natal,
+By nationality,Andrew Beauchamp-Proctor,1918,First World War,"Western Front, France",Western Front (World War I),unmatched,,,,,,no GeoNames match
+By nationality,John James Clements,1901,Second Boer War,"Strijdenburg, South Africa",Strijdenburg;South Africa,wikipedia_link,Strydenburg,place,-29.93333333,23.66666667,https://en.wikipedia.org/wiki/Strydenburg,
+By nationality,Joseph Petrus Hendrik Crowe,1857,Indian Mutiny,"Boursekee Chowkee, India",Boursekee Chowkee,unmatched,,,,,,no GeoNames match
+By nationality,Henry Cecil Dudgeon D'Arcy,1879,Zulu War,"Ulundi, South Africa",Ulundi;South Africa,wikipedia_link,Ulundi,place,-28.31666667,31.41666667,https://en.wikipedia.org/wiki/Ulundi,
+By nationality,William Frederick Faulds,1916,First World War,"Delville Wood, France",Delville Wood,wikipedia_link,Battle of Delville Wood,place,50.0278,2.8099,https://en.wikipedia.org/wiki/Battle_of_Delville_Wood,
+By nationality,George Gristock,1940,Second World War,"Tournai, Belgium",Tournai,wikipedia_link,Tournai,place,50.60555556,3.38805556,https://en.wikipedia.org/wiki/Tournai,
+By nationality,Edmund Barron Hartley,1879,Zulu War,"Morosi's Mountain, South Africa",Morosi's Mountain;South Africa,wikipedia_link,Mount Moorosi,place,-30.27861111,27.87222222,https://en.wikipedia.org/wiki/Mount_Moorosi,
+By nationality,Reginald Frederick Johnson Hayward,1918,First World War,"Fremicourt, France",Fremicourt,wikipedia_link,Frémicourt,place,50.1117,2.9031,https://en.wikipedia.org/wiki/Fr%C3%A9micourt,
+By nationality,William Henry Hewitt,1917,First World War,"Ypres, Belgium",Ypres,wikipedia_link,Ypres,place,50.85083333,2.885,https://en.wikipedia.org/wiki/Ypres,
+By nationality,Horace Robert Martineau,1899,Second Boer War,"Mafeking, South Africa",Siege of Mafeking;South Africa,geonames,"Mafikeng (ZA, GeoNames 980595)",place,-25.86522,25.64421,https://www.geonames.org/980595,
+By nationality,John Frederick McCrea,1881,First Boer War,"Tweefontein, South Africa",Tweefontein;South Africa,geonames,"Somaroboro (ZA, GeoNames 1105728)",place,-25.34604,28.83431,https://www.geonames.org/1105728,
+By nationality,Charles Mullins (VC recipient),1899,Second Boer War,"Elandslaagte, South Africa",Battle of Elandslaagte;South Africa,wikipedia_link,Battle of Elandslaagte,place,-28.42388889,29.97805556,https://en.wikipedia.org/wiki/Battle_of_Elandslaagte,
+By nationality,Randolph Cosby Nesbitt,1896,Mashona Rebellion,"Salisbury, Rhodesia",Harare;Rhodesia,wikipedia_link,Harare,place,-17.82916667,31.05222222,https://en.wikipedia.org/wiki/Harare,
+By nationality,John Dering Nettleton,1942,Second World War,"Augsburg, Germany",Augsburg,wikipedia_link,Augsburg,place,48.36888889,10.89777778,https://en.wikipedia.org/wiki/Augsburg,
+By nationality,Gerard Ross Norton,1944,Second World War,"Monte Gidolfo, Italy",Monte Gidolfo,wikipedia_link,Montegridolfo,place,43.86666667,12.68333333,https://en.wikipedia.org/wiki/Montegridolfo,
+By nationality,Oswald Austin Reid,1917,First World War,"Dialah River, Mesopotamia",Dialah River;Mesopotamia,wikipedia_link,Diyala River,place,33.2208,44.5064,https://en.wikipedia.org/wiki/Diyala_River,
+By nationality,Clement Robertson,1917,First World War,"Zonnebeke, Belgium",Zonnebeke,wikipedia_link,Zonnebeke,place,50.86666667,2.98333333,https://en.wikipedia.org/wiki/Zonnebeke,
+By nationality,John Sherwood-Kelly,1917,First World War,"Marcoing, France",Marcoing,wikipedia_link,Marcoing,place,50.1206,3.1728,https://en.wikipedia.org/wiki/Marcoing,
+By nationality,Quentin George Murray Smythe,1942,Second World War,"Alem Hamza, Egypt",Alem Hamza;Egypt,wikipedia_link_coarse,Egypt,region,26,30,https://en.wikipedia.org/wiki/Egypt,no GeoNames match
+By nationality,Edwin Swales,1945,Second World War,"Pforzheim, Germany",Pforzheim,wikipedia_link,Pforzheim,place,48.895,8.705,https://en.wikipedia.org/wiki/Pforzheim,
+By nationality,Basil Arthur Horsfall,1918,First World War,"Ablainzevelle, France",Ablainzevelle,wikipedia_link,Ablainzevelle,place,50.1528,2.7322,https://en.wikipedia.org/wiki/Ablainzevelle,
+By nationality,Peter Brown (VC),1879,Basuto Gun War,"Morosi's Mountain, South Africa",Morosi's Mountain;South Africa,wikipedia_link,Mount Moorosi,place,-30.27861111,27.87222222,https://en.wikipedia.org/wiki/Mount_Moorosi,
+By nationality,Christian Ferdinand Schiess,1879,Anglo-Zulu War,"Rorke's Drift, South Africa",Rorke's Drift;South Africa,wikipedia_link,Battle of Rorke's Drift,place,-28.35805556,30.53666667,https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift,
+By nationality,Filip Konowal,1917,First World War,"Lens, France","Lens, Pas-de-Calais",wikipedia_link,"Lens, Pas-de-Calais",place,50.4322,2.8333,https://en.wikipedia.org/wiki/Lens%2C_Pas-de-Calais,
+By nationality,Frederick Barter,1915,First World War,"Festubert, France",Festubert,wikipedia_link,Festubert,place,50.5442,2.7375,https://en.wikipedia.org/wiki/Festubert,
+By nationality,Stephen Beattie,1942,Second World War,"Saint-Nazaire, France",Saint-Nazaire,wikipedia_link,Saint-Nazaire,place,47.27361111,-2.21388889,https://en.wikipedia.org/wiki/Saint-Nazaire,
+By nationality,Robert James Bye,1917,First World War,"Yser Canal, Belgium",Yser Canal,wikipedia_link,Ieperlee,place,50.858,2.885,https://en.wikipedia.org/wiki/Ieperlee,
+By nationality,Edward Thomas Chapman,1945,Second World War,"Dortmund-Ems Canal, Germany",Dortmund-Ems Canal,wikipedia_link,Dortmund–Ems Canal,place,52.28194444,7.54194444,https://en.wikipedia.org/wiki/Dortmund%E2%80%93Ems_Canal,
+By nationality,James Llewellyn Davies,1917,First World War,"Polygon Wood, Belgium",Polygon Wood,wikipedia_link,"Polygon Wood, Zonnebeke",place,50.85166667,2.98638889,https://en.wikipedia.org/wiki/Polygon_Wood%2C_Zonnebeke,
+By nationality,Lewis Pugh Evans,1917,First World War,"Zonnebeke, Belgium",Zonnebeke,wikipedia_link,Zonnebeke,place,50.86666667,2.98333333,https://en.wikipedia.org/wiki/Zonnebeke,
+By nationality,John Fox-Russell,1917,First World War,"Tel-el-Khuweilfeh, Palestine",Tel-el-Khuweilfeh;Palestine (region),wikipedia_link,Tel Halif,place,31.383062,34.86614,https://en.wikipedia.org/wiki/Tel_Halif,
+By nationality,William Charles Fuller,1914,First World War,"Chivy-sur-Aisne, France",Chivy-sur-Aisne,unmatched,,,,,,no GeoNames match
+By nationality,Robert Jones (VC),1879,Zulu War,"Rorke's Drift, South Africa",Rorke's Drift;South Africa,wikipedia_link,Battle of Rorke's Drift,place,-28.35805556,30.53666667,https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift,
+By nationality,Hubert William Lewis,1916,First World War,"Macukovo, Greece",Macukovo,wikipedia_link,Evzonoi,place,41.1,22.55,https://en.wikipedia.org/wiki/Evzonoi,
+By nationality,John Wallace Linton,1943,Second World War,At sea,,unmatched,,,,,,no country given
+By nationality,Thomas Monaghan (VC),1858,Indian Mutiny,"Jamo, India",,unmatched,,,,,,no GeoNames match
+By nationality,Ivor Rees,1917,First World War,"Pilkem, Belgium",Pilkem,wikipedia_link,Boezinge,place,50.895887,2.855759,https://en.wikipedia.org/wiki/Boezinge,
+By nationality,Lionel Wilmot Brabazon Rees,1916,First World War,"Double Crassieurs, France",Double Crassieurs,unmatched,,,,,,no GeoNames match
+By nationality,Hugh Rowlands,1854,Crimean War,"Battle of Inkerman, Crimea",Battle of Inkerman;Crimea,wikipedia_link,Battle of Inkerman,place,44.585,33.592,https://en.wikipedia.org/wiki/Battle_of_Inkerman,
+By nationality,Robert Shields (VC),1855,Crimean War,"Sebastopol, Crimea",Siege of Sevastopol (1854–1855);Crimea,wikipedia_link,Siege of Sevastopol (1854–1855),place,44.617,33.517,https://en.wikipedia.org/wiki/Siege_of_Sevastopol_%281854%E2%80%931855%29,
+By nationality,Jacob Thomas (VC),1857,Indian Mutiny,"Lucknow, India",Lucknow,wikipedia_link,Lucknow,place,26.85,80.95,https://en.wikipedia.org/wiki/Lucknow,
+By nationality,Richard William Leslie Wain,1917,First World War,"Cambrai/Marcoing, France",Battle of Cambrai (1917);Marcoing,wikipedia_link,Battle of Cambrai (1917),place,50.125,3.125,https://en.wikipedia.org/wiki/Battle_of_Cambrai_%281917%29,
+By nationality,Bernard Warburton-Lee,1940,Second World War,"Narvik, Norway",Narvik,wikipedia_link,Narvik Municipality,place,68.42055556,17.56,https://en.wikipedia.org/wiki/Narvik_Municipality,
+By nationality,William Herbert Waring,1918,First World War,"Ronssoy, France",Ronssoy,wikipedia_link,Ronssoy,place,49.9828,3.1606,https://en.wikipedia.org/wiki/Ronssoy,
+By nationality,Tasker Watkins,1944,Second World War,"Barfour, France",Barfour,unmatched,,,,,,no GeoNames match
+By nationality,Henry Weale,1918,First World War,"Bazentin-le-Grand, France",Bazentin-le-Grand,wikipedia_link,Bazentin,place,50.031,2.7639,https://en.wikipedia.org/wiki/Bazentin,
+By nationality,Jack Williams (VC),1918,First World War,"Villers Outreaux, France",Villers Outreaux,wikipedia_link,Villers-Outréaux,place,50.0342,3.3011,https://en.wikipedia.org/wiki/Villers-Outr%C3%A9aux,
+By nationality,John Williams (VC),1879,Zulu War,"Rorke's Drift, South Africa",Rorke's Drift;South Africa,wikipedia_link,Battle of Rorke's Drift,place,-28.35805556,30.53666667,https://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift,
+By nationality,William Williams (VC),1917,First World War,"Atlantic, near France",,unmatched,,,,,,no GeoNames match

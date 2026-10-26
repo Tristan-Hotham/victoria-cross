@@ -1,0 +1,2621 @@
+{
+ "counts": {
+  "recipients": 1354,
+  "awards": 1357,
+  "bars": 3,
+  "posthumous": 256,
+  "wikidata_matched": 1353,
+  "birth_coords": 1338,
+  "birth_precise": 1323,
+  "birth_country_only": 15,
+  "wikidata_rows": null,
+  "multi_birthplace": 5,
+  "place_any": 616,
+  "place_precise": 448,
+  "place_region_only": 66,
+  "place_from_lists": 414,
+  "place_from_wikidata": 34,
+  "distance_n": 428,
+  "region_known": 792,
+  "first_year": 1854,
+  "last_year": 2013,
+  "share_place_precise": 0.3301400147383935,
+  "share_distance": 0.3154016212232867,
+  "share_birth": 0.9881831610044313,
+  "share_region": 0.5836403831982314
+ },
+ "fixes": [
+  "James Ashworth: hidden sort date 2013-03-16 but the visible date reads '13 June 2012'; I use the visible year 2012.",
+  "James Carne: hidden sort date 1950-04-22 but the visible date reads '22 to 23 April 1951'; I use the visible year 1951.",
+  "Philip Curtis: hidden sort date 1950-04-22 but the visible date reads '22 to 23 April 1951'; I use the visible year 1951.",
+  "William Knox Leet: the list's campaign column says Indian Mutiny, but his date of action (28 March 1879), the Irish list's place (Inhlobana) and Wikidata all point to the Anglo-Zulu War; I use Anglo-Zulu War.",
+  "Arthur Moore: hidden sort date 1858-02-07 but the visible date reads '8 February 1857'; I use the visible year 1857."
+ ],
+ "unjoined_national_rows": [
+  "O'Leary",
+  "Cameron Baird",
+  "Mark Donaldson",
+  "Daniel Keighran",
+  "Ben Roberts-Smith",
+  "Teddy Sheean",
+  "Richard Norden (soldier)",
+  "Willie Apiata"
+ ],
+ "geocoding": {
+  "rows": 717,
+  "by_method": {
+   "wikipedia_link_coarse": 89,
+   "wikipedia_link": 367,
+   "unmatched": 131,
+   "geonames": 84,
+   "wikidata_battle": 7,
+   "wikipedia_title": 39
+  },
+  "precise": 497,
+  "region": 89,
+  "unmatched": 131,
+  "by_list": {
+   "Australian": {
+    "rows": 102,
+    "precise": 53
+   },
+   "By nationality": {
+    "rows": 147,
+    "precise": 109
+   },
+   "Canadian": {
+    "rows": 98,
+    "precise": 63
+   },
+   "Indian Army": {
+    "rows": 153,
+    "precise": 100
+   },
+   "Irish": {
+    "rows": 196,
+    "precise": 158
+   },
+   "New Zealand": {
+    "rows": 21,
+    "precise": 14
+   }
+  },
+  "share_unmatched": 0.18270571827057183,
+  "share_precise": 0.6931659693165969
+ },
+ "groups": [
+  {
+   "key": "crimea",
+   "label": "Crimean War",
+   "awards": 111,
+   "place_precise": 34,
+   "distance_n": 34,
+   "posthumous": 0,
+   "share_place": 0.3063063063063063,
+   "median_km": 3031.0
+  },
+  {
+   "key": "mutiny",
+   "label": "Indian Mutiny",
+   "awards": 182,
+   "place_precise": 93,
+   "distance_n": 92,
+   "posthumous": 1,
+   "share_place": 0.510989010989011,
+   "median_km": 7335.0
+  },
+  {
+   "key": "victorian",
+   "label": "Other campaigns, 1856 to 1913",
+   "awards": 229,
+   "place_precise": 83,
+   "distance_n": 78,
+   "posthumous": 4,
+   "share_place": 0.3624454148471616,
+   "median_km": 9390.5
+  },
+  {
+   "key": "ww1",
+   "label": "First World War",
+   "awards": 628,
+   "place_precise": 163,
+   "distance_n": 157,
+   "posthumous": 157,
+   "share_place": 0.25955414012738853,
+   "median_km": 2886
+  },
+  {
+   "key": "interwar",
+   "label": "Between the wars",
+   "awards": 10,
+   "place_precise": 2,
+   "distance_n": 2,
+   "posthumous": 5,
+   "share_place": 0.2,
+   "median_km": 5035.5
+  },
+  {
+   "key": "ww2",
+   "label": "Second World War",
+   "awards": 182,
+   "place_precise": 66,
+   "distance_n": 58,
+   "posthumous": 81,
+   "share_place": 0.3626373626373626,
+   "median_km": 4340.0
+  },
+  {
+   "key": "post",
+   "label": "Since 1945",
+   "awards": 15,
+   "place_precise": 7,
+   "distance_n": 7,
+   "posthumous": 8,
+   "share_place": 0.4666666666666667,
+   "median_km": 6601
+  }
+ ],
+ "campaigns": [
+  {
+   "campaign": "First World War",
+   "awards": 628
+  },
+  {
+   "campaign": "Second World War",
+   "awards": 182
+  },
+  {
+   "campaign": "Indian Mutiny",
+   "awards": 182
+  },
+  {
+   "campaign": "Crimean War",
+   "awards": 111
+  },
+  {
+   "campaign": "Second Boer War",
+   "awards": 78
+  },
+  {
+   "campaign": "Anglo-Zulu War",
+   "awards": 23
+  },
+  {
+   "campaign": "Second Afghan War",
+   "awards": 16
+  },
+  {
+   "campaign": "New Zealand Wars",
+   "awards": 15
+  },
+  {
+   "campaign": "Sudan Campaign",
+   "awards": 10
+  },
+  {
+   "campaign": "Tirah Campaign",
+   "awards": 7
+  },
+  {
+   "campaign": "Third China War",
+   "awards": 7
+  },
+  {
+   "campaign": "Basuto War",
+   "awards": 6
+  },
+  {
+   "campaign": "First Boer War",
+   "awards": 6
+  },
+  {
+   "campaign": "North Russia Relief Force",
+   "awards": 5
+  },
+  {
+   "campaign": "Andaman Islands Expedition",
+   "awards": 5
+  },
+  {
+   "campaign": "Vietnam War",
+   "awards": 4
+  },
+  {
+   "campaign": "First Ashanti Expedition",
+   "awards": 4
+  },
+  {
+   "campaign": "Korean War",
+   "awards": 4
+  },
+  {
+   "campaign": "Waziristan Campaign",
+   "awards": 3
+  },
+  {
+   "campaign": "Hunza-Naga Campaign",
+   "awards": 3
+  },
+  {
+   "campaign": "Bombardment of Shimonoseki",
+   "awards": 3
+  },
+  {
+   "campaign": "Mohmand Campaign",
+   "awards": 3
+  },
+  {
+   "campaign": "Occupation of Egypt",
+   "awards": 3
+  },
+  {
+   "campaign": "Third Somaliland Expedition",
+   "awards": 3
+  },
+  {
+   "campaign": "Anglo-Persian War",
+   "awards": 3
+  },
+  {
+   "campaign": "Matabeleland Rebellion",
+   "awards": 2
+  },
+  {
+   "campaign": "Abyssinian War",
+   "awards": 2
+  },
+  {
+   "campaign": "Fourth Somaliland Expedition",
+   "awards": 2
+  },
+  {
+   "campaign": "British rule in Burma",
+   "awards": 2
+  },
+  {
+   "campaign": "Bhutan War",
+   "awards": 2
+  },
+  {
+   "campaign": "Umbeyla Campaign",
+   "awards": 2
+  },
+  {
+   "campaign": "The Gambia",
+   "awards": 2
+  },
+  {
+   "campaign": "Boxer Rising",
+   "awards": 2
+  },
+  {
+   "campaign": "Falklands War",
+   "awards": 2
+  },
+  {
+   "campaign": "Third Ashanti Expedition",
+   "awards": 2
+  },
+  {
+   "campaign": "Helmand",
+   "awards": 1
+  },
+  {
+   "campaign": "Operation Telic",
+   "awards": 1
+  },
+  {
+   "campaign": "War in Afghanistan",
+   "awards": 1
+  },
+  {
+   "campaign": "Perak War",
+   "awards": 1
+  },
+  {
+   "campaign": "Second Somaliland Expedition",
+   "awards": 1
+  },
+  {
+   "campaign": "Siege of Malakand",
+   "awards": 1
+  },
+  {
+   "campaign": "Anglo-Manipur War",
+   "awards": 1
+  },
+  {
+   "campaign": "Armed Mission to Tibet",
+   "awards": 1
+  },
+  {
+   "campaign": "Arab Revolt",
+   "awards": 1
+  },
+  {
+   "campaign": "Taiping Rebellion",
+   "awards": 1
+  },
+  {
+   "campaign": "Operation Herrick",
+   "awards": 1
+  },
+  {
+   "campaign": "Kachin Hills Expedition",
+   "awards": 1
+  },
+  {
+   "campaign": "Lushai Expedition",
+   "awards": 1
+  },
+  {
+   "campaign": "Occupation of Crete",
+   "awards": 1
+  },
+  {
+   "campaign": "Second Mohmand Campaign",
+   "awards": 1
+  },
+  {
+   "campaign": "9th Cape Frontier War",
+   "awards": 1
+  },
+  {
+   "campaign": "Mashona Rebellion",
+   "awards": 1
+  },
+  {
+   "campaign": "Not at war (Canada, 1866)",
+   "awards": 1
+  },
+  {
+   "campaign": "Malaysia-Indonesia Confrontation",
+   "awards": 1
+  },
+  {
+   "campaign": "Second Naga Hills Expedition",
+   "awards": 1
+  },
+  {
+   "campaign": "Baluchistan",
+   "awards": 1
+  },
+  {
+   "campaign": "Chitral Expedition",
+   "awards": 1
+  },
+  {
+   "campaign": "Kano-Sokoto Expedition",
+   "awards": 1
+  }
+ ],
+ "southern_africa": {
+  "awards": 117,
+  "boer2": 78,
+  "zulu": 23,
+  "boer1": 6
+ },
+ "years": {
+  "1854": 50,
+  "1855": 61,
+  "1856": 1,
+  "1857": 122,
+  "1858": 56,
+  "1859": 6,
+  "1860": 8,
+  "1861": 1,
+  "1862": 1,
+  "1863": 8,
+  "1864": 9,
+  "1865": 3,
+  "1866": 2,
+  "1867": 5,
+  "1868": 2,
+  "1872": 1,
+  "1873": 1,
+  "1874": 3,
+  "1875": 1,
+  "1877": 2,
+  "1878": 1,
+  "1879": 40,
+  "1880": 4,
+  "1881": 7,
+  "1882": 3,
+  "1884": 4,
+  "1885": 1,
+  "1889": 2,
+  "1891": 4,
+  "1892": 1,
+  "1893": 1,
+  "1895": 1,
+  "1896": 3,
+  "1897": 11,
+  "1898": 6,
+  "1899": 18,
+  "1900": 46,
+  "1901": 17,
+  "1902": 2,
+  "1903": 5,
+  "1904": 2,
+  "1914": 46,
+  "1915": 117,
+  "1916": 84,
+  "1917": 175,
+  "1918": 206,
+  "1919": 6,
+  "1920": 2,
+  "1921": 1,
+  "1935": 1,
+  "1939": 1,
+  "1940": 17,
+  "1941": 22,
+  "1942": 33,
+  "1943": 24,
+  "1944": 51,
+  "1945": 34,
+  "1950": 1,
+  "1951": 3,
+  "1965": 2,
+  "1967": 1,
+  "1969": 2,
+  "1982": 2,
+  "2004": 1,
+  "2006": 1,
+  "2012": 1,
+  "2013": 1
+ },
+ "peak_year": {
+  "year": 1918,
+  "awards": 206
+ },
+ "ww1_share": 0.4627855563743552,
+ "pre1914": 522,
+ "since1946": 15,
+ "first_action": {
+  "name": "Charles Lucas",
+  "date": "21 June 1854",
+  "place": "Åland, Finland",
+  "birthplace": "Poyntzpass"
+ },
+ "last_action": {
+  "name": "Joshua Leakey",
+  "date": "22 August 2013",
+  "year": 2013,
+  "campaign": "Operation Herrick"
+ },
+ "birth_groups": {
+  "England": 660,
+  "Ireland": 173,
+  "South Asia": 101,
+  "Scotland": 154,
+  "Southern Africa": 19,
+  "Canada": 55,
+  "New Zealand": 24,
+  "Wales": 28,
+  "Australia": 80,
+  "Elsewhere": 44,
+  "Not known": 16
+ },
+ "birth_countries": [
+  {
+   "country": "Great Britain",
+   "n": 842
+  },
+  {
+   "country": "Ireland",
+   "n": 136
+  },
+  {
+   "country": "Australia",
+   "n": 80
+  },
+  {
+   "country": "India",
+   "n": 71
+  },
+  {
+   "country": "Canada",
+   "n": 55
+  },
+  {
+   "country": "Northern Ireland",
+   "n": 37
+  },
+  {
+   "country": "New Zealand",
+   "n": 24
+  },
+  {
+   "country": "South Africa",
+   "n": 19
+  },
+  {
+   "country": "Nepal",
+   "n": 12
+  },
+  {
+   "country": "Pakistan",
+   "n": 12
+  },
+  {
+   "country": "France",
+   "n": 6
+  },
+  {
+   "country": "United States of America",
+   "n": 5
+  },
+  {
+   "country": "Sri Lanka",
+   "n": 3
+  },
+  {
+   "country": "Bangladesh",
+   "n": 3
+  },
+  {
+   "country": "People's Republic of China",
+   "n": 3
+  },
+  {
+   "country": "Denmark",
+   "n": 3
+  },
+  {
+   "country": "Japan",
+   "n": 2
+  },
+  {
+   "country": "Jersey",
+   "n": 2
+  },
+  {
+   "country": "Germany",
+   "n": 2
+  },
+  {
+   "country": "Netherlands",
+   "n": 2
+  },
+  {
+   "country": "Grenada",
+   "n": 1
+  },
+  {
+   "country": "Belgium",
+   "n": 1
+  },
+  {
+   "country": "Saint Lucia",
+   "n": 1
+  },
+  {
+   "country": "Trinidad and Tobago",
+   "n": 1
+  },
+  {
+   "country": "Iraq",
+   "n": 1
+  }
+ ],
+ "ireland": {
+  "n": 173,
+  "share": 0.1277695716395864,
+  "republic": 136,
+  "north": 37
+ },
+ "birth_group_order": [
+  "England",
+  "Scotland",
+  "Wales",
+  "Ireland",
+  "South Asia",
+  "Australia",
+  "Canada",
+  "New Zealand",
+  "Southern Africa",
+  "Elsewhere",
+  "Not known"
+ ],
+ "birth_by_group": {
+  "crimea": {
+   "England": 54,
+   "Scotland": 17,
+   "Wales": 2,
+   "Ireland": 28,
+   "South Asia": 0,
+   "Australia": 0,
+   "Canada": 1,
+   "New Zealand": 0,
+   "Southern Africa": 1,
+   "Elsewhere": 7,
+   "Not known": 1,
+   "total": 111
+  },
+  "mutiny": {
+   "England": 63,
+   "Scotland": 31,
+   "Wales": 3,
+   "Ireland": 56,
+   "South Asia": 22,
+   "Australia": 0,
+   "Canada": 2,
+   "New Zealand": 0,
+   "Southern Africa": 1,
+   "Elsewhere": 4,
+   "Not known": 0,
+   "total": 182
+  },
+  "victorian": {
+   "England": 105,
+   "Scotland": 21,
+   "Wales": 2,
+   "Ireland": 47,
+   "South Asia": 20,
+   "Australia": 6,
+   "Canada": 6,
+   "New Zealand": 2,
+   "Southern Africa": 4,
+   "Elsewhere": 11,
+   "Not known": 5,
+   "total": 229
+  },
+  "ww1": {
+   "England": 360,
+   "Scotland": 72,
+   "Wales": 15,
+   "Ireland": 34,
+   "South Asia": 23,
+   "Australia": 52,
+   "Canada": 31,
+   "New Zealand": 14,
+   "Southern Africa": 7,
+   "Elsewhere": 15,
+   "Not known": 5,
+   "total": 628
+  },
+  "interwar": {
+   "England": 4,
+   "Scotland": 1,
+   "Wales": 1,
+   "Ireland": 1,
+   "South Asia": 2,
+   "Australia": 1,
+   "Canada": 0,
+   "New Zealand": 0,
+   "Southern Africa": 0,
+   "Elsewhere": 0,
+   "Not known": 0,
+   "total": 10
+  },
+  "ww2": {
+   "England": 68,
+   "Scotland": 12,
+   "Wales": 5,
+   "Ireland": 6,
+   "South Asia": 33,
+   "Australia": 17,
+   "Canada": 15,
+   "New Zealand": 9,
+   "Southern Africa": 6,
+   "Elsewhere": 6,
+   "Not known": 5,
+   "total": 182
+  },
+  "post": {
+   "England": 8,
+   "Scotland": 0,
+   "Wales": 0,
+   "Ireland": 1,
+   "South Asia": 1,
+   "Australia": 4,
+   "Canada": 0,
+   "New Zealand": 0,
+   "Southern Africa": 0,
+   "Elsewhere": 1,
+   "Not known": 0,
+   "total": 15
+  }
+ },
+ "birth_totals": {
+  "England": 660,
+  "Scotland": 154,
+  "Wales": 28,
+  "Ireland": 173,
+  "South Asia": 101,
+  "Australia": 80,
+  "Canada": 55,
+  "New Zealand": 24,
+  "Southern Africa": 19,
+  "Elsewhere": 44,
+  "Not known": 16,
+  "Great Britain, county not found": 0
+ },
+ "irish_share_by_group": {
+  "crimea": 0.25225225225225223,
+  "mutiny": 0.3076923076923077,
+  "victorian": 0.2052401746724891,
+  "ww1": 0.054140127388535034,
+  "interwar": 0.1,
+  "ww2": 0.03296703296703297,
+  "post": 0.06666666666666667
+ },
+ "dominion_share_by_group": {
+  "crimea": 0.018018018018018018,
+  "mutiny": 0.016483516483516484,
+  "victorian": 0.07860262008733625,
+  "ww1": 0.16560509554140126,
+  "interwar": 0.1,
+  "ww2": 0.25824175824175827,
+  "post": 0.26666666666666666
+ },
+ "southasia_share_by_group": {
+  "crimea": 0.0,
+  "mutiny": 0.12087912087912088,
+  "victorian": 0.08733624454148471,
+  "ww1": 0.03662420382165605,
+  "interwar": 0.2,
+  "ww2": 0.1813186813186813,
+  "post": 0.06666666666666667
+ },
+ "top_towns": [
+  {
+   "town": "London",
+   "n": 25,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Edinburgh",
+   "n": 20,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Glasgow",
+   "n": 17,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Dublin",
+   "n": 16,
+   "country": "Ireland"
+  },
+  {
+   "town": "Liverpool",
+   "n": 14,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Leeds",
+   "n": 11,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Cork",
+   "n": 11,
+   "country": "Ireland"
+  },
+  {
+   "town": "Birmingham",
+   "n": 10,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Kensington",
+   "n": 8,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Kolkata",
+   "n": 8,
+   "country": "India"
+  },
+  {
+   "town": "Manchester",
+   "n": 6,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Brighton",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Perth",
+   "n": 5,
+   "country": "Australia"
+  },
+  {
+   "town": "Cheltenham",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Plymouth",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Bristol",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Westminster",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Inverness",
+   "n": 5,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Sheffield",
+   "n": 4,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Kanpur",
+   "n": 4,
+   "country": "India"
+  },
+  {
+   "town": "Enniskillen",
+   "n": 4,
+   "country": "Northern Ireland"
+  },
+  {
+   "town": "Sydney",
+   "n": 4,
+   "country": "Australia"
+  },
+  {
+   "town": "Streatham",
+   "n": 4,
+   "country": "Great Britain"
+  },
+  {
+   "town": "Winnipeg",
+   "n": 4,
+   "country": "Canada"
+  },
+  {
+   "town": "Blackburn",
+   "n": 4,
+   "country": "Great Britain"
+  }
+ ],
+ "top_counties": [
+  {
+   "county": "Greater London",
+   "n": 159
+  },
+  {
+   "county": "Greater Manchester",
+   "n": 31
+  },
+  {
+   "county": "Merseyside",
+   "n": 28
+  },
+  {
+   "county": "Hampshire",
+   "n": 28
+  },
+  {
+   "county": "Devon",
+   "n": 25
+  },
+  {
+   "county": "West Midlands",
+   "n": 24
+  },
+  {
+   "county": "City of Edinburgh",
+   "n": 23
+  },
+  {
+   "county": "West Yorkshire",
+   "n": 22
+  },
+  {
+   "county": "Kent",
+   "n": 21
+  },
+  {
+   "county": "Glasgow City",
+   "n": 20
+  },
+  {
+   "county": "Gloucestershire",
+   "n": 18
+  },
+  {
+   "county": "Highland",
+   "n": 17
+  },
+  {
+   "county": "Lancashire",
+   "n": 16
+  },
+  {
+   "county": "Cheshire",
+   "n": 15
+  },
+  {
+   "county": "Nottinghamshire",
+   "n": 14
+  },
+  {
+   "county": "Norfolk",
+   "n": 13
+  },
+  {
+   "county": "Suffolk",
+   "n": 12
+  },
+  {
+   "county": "Cumbria",
+   "n": 12
+  },
+  {
+   "county": "Tyne and Wear",
+   "n": 12
+  },
+  {
+   "county": "Surrey",
+   "n": 11
+  }
+ ],
+ "birth_share": {
+  "England": 0.4874446085672083,
+  "Scotland": 0.1137370753323486,
+  "Wales": 0.0206794682422452,
+  "Ireland": 0.1277695716395864,
+  "South Asia": 0.07459379615952733,
+  "Australia": 0.059084194977843424,
+  "Canada": 0.04062038404726736,
+  "New Zealand": 0.01772525849335303,
+  "Southern Africa": 0.014032496307237814,
+  "Elsewhere": 0.03249630723781388,
+  "Not known": 0.011816838995568686
+ },
+ "gb_births": 842,
+ "nations": {
+  "England": 660,
+  "Scotland": 154,
+  "Wales": 28
+ },
+ "london": {
+  "n": 159,
+  "share": 0.11742983751846381
+ },
+ "lancashire": {
+  "n": 75,
+  "by_county": {
+   "Lancashire": 16,
+   "Greater Manchester": 31,
+   "Merseyside": 28
+  },
+  "by_group": {
+   "Crimean War": 2,
+   "Indian Mutiny": 7,
+   "Other campaigns, 1856 to 1913": 8,
+   "First World War": 55,
+   "Second World War": 2,
+   "Since 1945": 1
+  },
+  "towns": [
+   {
+    "town": "Liverpool",
+    "n": 14
+   },
+   {
+    "town": "Manchester",
+    "n": 6
+   },
+   {
+    "town": "Blackburn",
+    "n": 4
+   },
+   {
+    "town": "Southport",
+    "n": 3
+   },
+   {
+    "town": "Eccles",
+    "n": 2
+   },
+   {
+    "town": "Burnley",
+    "n": 2
+   },
+   {
+    "town": "Altrincham",
+    "n": 2
+   },
+   {
+    "town": "Toxteth",
+    "n": 2
+   },
+   {
+    "town": "Salford",
+    "n": 2
+   },
+   {
+    "town": "Stalybridge",
+    "n": 1
+   },
+   {
+    "town": "Lancaster",
+    "n": 1
+   },
+   {
+    "town": "Everton",
+    "n": 1
+   }
+  ],
+  "posthumous": 15,
+  "people": [
+   {
+    "name": "Joseph Malone",
+    "born": "Eccles",
+    "county": "Greater Manchester",
+    "year": 1854,
+    "campaign": "Crimean War",
+    "unit": "13th Light Dragoons",
+    "place": "Charge of the Light Brigade",
+    "posthumous": false,
+    "article": "Joseph Malone (VC)"
+   },
+   {
+    "name": "Cecil Buckley",
+    "born": "Eccles",
+    "county": "Greater Manchester",
+    "year": 1855,
+    "campaign": "Crimean War",
+    "unit": "HMS Miranda",
+    "place": null,
+    "posthumous": false,
+    "article": "Cecil William Buckley"
+   },
+   {
+    "name": "John Buckley",
+    "born": "Stalybridge",
+    "county": "Greater Manchester",
+    "year": 1857,
+    "campaign": "Indian Mutiny",
+    "unit": "Commissariat Department",
+    "place": "Delhi, India",
+    "posthumous": false,
+    "article": "John Buckley (soldier)"
+   },
+   {
+    "name": "William Connolly",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1857,
+    "campaign": "Indian Mutiny",
+    "unit": "Bengal Horse Artillery",
+    "place": "Jhelum, India",
+    "posthumous": false,
+    "article": "William Connolly (VC)"
+   },
+   {
+    "name": "Alfred Jones",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1857,
+    "campaign": "Indian Mutiny",
+    "unit": "9th Queen's Royal Lancers",
+    "place": null,
+    "posthumous": false,
+    "article": "Alfred Stowell Jones"
+   },
+   {
+    "name": "John Kirk",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1857,
+    "campaign": "Indian Mutiny",
+    "unit": "10th Regiment of Foot",
+    "place": null,
+    "posthumous": false,
+    "article": "John Kirk (VC)"
+   },
+   {
+    "name": "Richard Wadeson",
+    "born": "Lancaster",
+    "county": "Lancashire",
+    "year": 1857,
+    "campaign": "Indian Mutiny",
+    "unit": "75th Regiment of Foot",
+    "place": null,
+    "posthumous": false,
+    "article": "Richard Wadeson"
+   },
+   {
+    "name": "Charles Anderson",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1858,
+    "campaign": "Indian Mutiny",
+    "unit": "2nd Dragoon Guards",
+    "place": "Sandila, India",
+    "posthumous": false,
+    "article": "Charles Anderson (VC)"
+   },
+   {
+    "name": "Frederick Whirlpool",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1858,
+    "campaign": "Indian Mutiny",
+    "unit": "1st Punjab Cavalry",
+    "place": "Jhansi, India",
+    "posthumous": false,
+    "article": "Frederick Whirlpool"
+   },
+   {
+    "name": "George Hinckley",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1862,
+    "campaign": "Taiping Rebellion",
+    "unit": "Naval Brigade",
+    "place": null,
+    "posthumous": false,
+    "article": "George Hinckley"
+   },
+   {
+    "name": "Paul Kenna",
+    "born": "Everton",
+    "county": "Merseyside",
+    "year": 1898,
+    "campaign": "Sudan Campaign",
+    "unit": "21st Lancers",
+    "place": null,
+    "posthumous": false,
+    "article": "Paul Aloysius Kenna"
+   },
+   {
+    "name": "Harry Schofield",
+    "born": "Audenshaw",
+    "county": "Greater Manchester",
+    "year": 1899,
+    "campaign": "Second Boer War",
+    "unit": "Royal Field Artillery",
+    "place": "Battle of Colenso",
+    "posthumous": false,
+    "article": "Harry Norton Schofield"
+   },
+   {
+    "name": "William Heaton",
+    "born": "Ormskirk",
+    "county": "Lancashire",
+    "year": 1900,
+    "campaign": "Second Boer War",
+    "unit": "King's (Liverpool) Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "William Edward Heaton"
+   },
+   {
+    "name": "James Pitts",
+    "born": "Blackburn",
+    "county": "Lancashire",
+    "year": 1900,
+    "campaign": "Second Boer War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "James Pitts (VC)"
+   },
+   {
+    "name": "Arthur Richardson",
+    "born": "Southport",
+    "county": "Merseyside",
+    "year": 1900,
+    "campaign": "Second Boer War",
+    "unit": "Lord Strathcona's Horse",
+    "place": null,
+    "posthumous": false,
+    "article": "Arthur Herbert Lindsay Richardson"
+   },
+   {
+    "name": "Robert Scott",
+    "born": "Haslingden",
+    "county": "Lancashire",
+    "year": 1900,
+    "campaign": "Second Boer War",
+    "unit": "Manchester Regiment",
+    "place": "Natal, South Africa",
+    "posthumous": false,
+    "article": "Robert Scott (VC)"
+   },
+   {
+    "name": "Frederic Dugdale",
+    "born": "Burnley",
+    "county": "Lancashire",
+    "year": 1901,
+    "campaign": "Second Boer War",
+    "unit": "5th Royal Irish Lancers",
+    "place": null,
+    "posthumous": false,
+    "article": "Frederic Brooks Dugdale"
+   },
+   {
+    "name": "Ernest Alexander",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1914,
+    "campaign": "First World War",
+    "unit": "Royal Field Artillery",
+    "place": null,
+    "posthumous": false,
+    "article": "Ernest Alexander"
+   },
+   {
+    "name": "Edward Bradbury",
+    "born": "Altrincham",
+    "county": "Greater Manchester",
+    "year": 1914,
+    "campaign": "First World War",
+    "unit": "Royal Horse Artillery",
+    "place": null,
+    "posthumous": false,
+    "article": "Edward Kinder Bradbury"
+   },
+   {
+    "name": "John Hogan",
+    "born": "Royton",
+    "county": "Greater Manchester",
+    "year": 1914,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "John Hogan (VC)"
+   },
+   {
+    "name": "Edgar Cookson",
+    "born": "Tranmere",
+    "county": "Merseyside",
+    "year": 1915,
+    "campaign": "First World War",
+    "unit": "HMS Comet",
+    "place": null,
+    "posthumous": true,
+    "article": "Edgar Christopher Cookson"
+   },
+   {
+    "name": "John Grimshaw",
+    "born": "Abram",
+    "county": "Greater Manchester",
+    "year": 1915,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "John Elisha Grimshaw"
+   },
+   {
+    "name": "William Mariner",
+    "born": "Chorley",
+    "county": "Lancashire",
+    "year": 1915,
+    "campaign": "First World War",
+    "unit": "King's Royal Rifle Corps",
+    "place": null,
+    "posthumous": false,
+    "article": "William Mariner (VC)"
+   },
+   {
+    "name": "George Peachment",
+    "born": "Bury",
+    "county": "Greater Manchester",
+    "year": 1915,
+    "campaign": "First World War",
+    "unit": "King's Royal Rifle Corps",
+    "place": null,
+    "posthumous": true,
+    "article": "George Stanley Peachment"
+   },
+   {
+    "name": "Gabriel Coury",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "Prince of Wales's Volunteers (South Lancashire Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "Gabriel Coury"
+   },
+   {
+    "name": "Albert Hill",
+    "born": "Hulme",
+    "county": "Greater Manchester",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "Royal Welsh Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Albert Hill (VC)"
+   },
+   {
+    "name": "James Hutchinson",
+    "born": "Radcliffe",
+    "county": "Greater Manchester",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "James Hutchinson (VC)"
+   },
+   {
+    "name": "David Jones",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "King's (Liverpool Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "David Jones (VC)"
+   },
+   {
+    "name": "Henry Kelly",
+    "born": "Collyhurst",
+    "county": "Greater Manchester",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "Duke of Wellington's (West Riding Regiment)",
+    "place": "Le Sars, France",
+    "posthumous": false,
+    "article": "Henry Kelly (VC)"
+   },
+   {
+    "name": "James Miller",
+    "born": "Hoghton",
+    "county": "Lancashire",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "King's Own (Royal Lancaster Regiment)",
+    "place": null,
+    "posthumous": true,
+    "article": "James Miller (VC 1916)"
+   },
+   {
+    "name": "Arthur Procter",
+    "born": "Bootle",
+    "county": "Merseyside",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "King's (Liverpool Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "Arthur Herbert Procter"
+   },
+   {
+    "name": "George Stringer",
+    "born": "Newton Heath",
+    "county": "Greater Manchester",
+    "year": 1916,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "George Stringer"
+   },
+   {
+    "name": "Harold Ackroyd",
+    "born": "Southport",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Royal Army Medical Corps",
+    "place": null,
+    "posthumous": false,
+    "article": "Harold Ackroyd"
+   },
+   {
+    "name": "Stanley Boughey",
+    "born": "Toxteth",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Royal Scots Fusiliers",
+    "place": null,
+    "posthumous": true,
+    "article": "Stanley Henry Parry Boughey"
+   },
+   {
+    "name": "Hugh Colvin",
+    "born": "Burnley",
+    "county": "Lancashire",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Cheshire Regiment",
+    "place": "Ypres, Belgium",
+    "posthumous": false,
+    "article": "Hugh Colvin"
+   },
+   {
+    "name": "Charles Coverdale",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "Charles Harry Coverdale"
+   },
+   {
+    "name": "Cyril Gourley",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Royal Field Artillery",
+    "place": null,
+    "posthumous": false,
+    "article": "Cyril Edward Gourley"
+   },
+   {
+    "name": "William Grimbaldeston",
+    "born": "Blackburn",
+    "county": "Lancashire",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "King's Own Scottish Borderers",
+    "place": null,
+    "posthumous": false,
+    "article": "William Henry Grimbaldeston"
+   },
+   {
+    "name": "Albert Halton",
+    "born": "Carnforth",
+    "county": "Lancashire",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "King's Own (Royal Lancaster Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "Albert Halton"
+   },
+   {
+    "name": "Alexander Lafone",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "1st County of London Yeomanry",
+    "place": null,
+    "posthumous": true,
+    "article": "Alexander Malins Lafone"
+   },
+   {
+    "name": "Joseph Lister",
+    "born": "Salford",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Joseph Lister (VC)"
+   },
+   {
+    "name": "Walter Mills",
+    "born": "Oldham",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": true,
+    "article": "Walter Mills (VC)"
+   },
+   {
+    "name": "John Molyneux",
+    "born": "St Helens",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Royal Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "John Molyneux (VC)"
+   },
+   {
+    "name": "Hardy Parsons",
+    "born": "Rishton",
+    "county": "Lancashire",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Gloucestershire Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "Hardy Falconer Parsons"
+   },
+   {
+    "name": "William Ratcliffe",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Prince of Wales's Volunteers (South Lancashire Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "William Ratcliffe"
+   },
+   {
+    "name": "John Readitt",
+    "born": "Clayton",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Prince of Wales's Volunteers (South Lancashire Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "John Readitt"
+   },
+   {
+    "name": "Thomas Steele",
+    "born": "Springhead",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Seaforth Highlanders",
+    "place": null,
+    "posthumous": false,
+    "article": "Thomas Steele (VC)"
+   },
+   {
+    "name": "Ronald Stuart",
+    "born": "Toxteth",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "HMS Pargust",
+    "place": null,
+    "posthumous": false,
+    "article": "Ronald Niel Stuart"
+   },
+   {
+    "name": "Ernest Sykes",
+    "born": "Mossley",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Northumberland Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Ernest Sykes (VC)"
+   },
+   {
+    "name": "John Thomas",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Prince of Wales's (North Staffordshire Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "John Thomas (VC)"
+   },
+   {
+    "name": "Albert White",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "South Wales Borderers",
+    "place": null,
+    "posthumous": true,
+    "article": "Albert White (VC)"
+   },
+   {
+    "name": "Thomas Whitham",
+    "born": "Worsthorne",
+    "county": "Lancashire",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Coldstream Guards",
+    "place": "Third Battle of Ypres",
+    "posthumous": false,
+    "article": "Thomas Whitham"
+   },
+   {
+    "name": "Thomas Woodcock",
+    "born": "Wigan",
+    "county": "Greater Manchester",
+    "year": 1917,
+    "campaign": "First World War",
+    "unit": "Irish Guards",
+    "place": null,
+    "posthumous": false,
+    "article": "Thomas Woodcock (VC)"
+   },
+   {
+    "name": "Bernard Cassidy",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": true,
+    "article": "Bernard Matthew Cassidy"
+   },
+   {
+    "name": "John Collings-Wells",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Bedfordshire Regiment",
+    "place": null,
+    "posthumous": true,
+    "article": "John Stanhope Collings-Wells"
+   },
+   {
+    "name": "John Davies",
+    "born": "Rock Ferry",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Prince of Wales's Volunteers (South Lancashire Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "John Thomas Davies"
+   },
+   {
+    "name": "Percy Dean",
+    "born": "Blackburn",
+    "county": "Lancashire",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Royal Naval Volunteer Reserve",
+    "place": null,
+    "posthumous": false,
+    "article": "Percy Thompson Dean"
+   },
+   {
+    "name": "Arthur Evans",
+    "born": "Liverpool",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Lincolnshire Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "Arthur Evans (VC)"
+   },
+   {
+    "name": "Joel Halliwell",
+    "born": "Middleton",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Joel Halliwell"
+   },
+   {
+    "name": "Norman Harvey",
+    "born": "Newton-le-Willows",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Royal Inniskilling Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Norman Harvey"
+   },
+   {
+    "name": "James Kirk",
+    "born": "Cheadle Hulme",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": true,
+    "article": "James Kirk (VC)"
+   },
+   {
+    "name": "Frank Lester",
+    "born": "Huyton",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": false,
+    "article": "Frank Lester (VC)"
+   },
+   {
+    "name": "Graham Lyall",
+    "born": "Chorlton-cum-Hardy",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "102nd Battalion, CEF",
+    "place": "Cambrai, France",
+    "posthumous": false,
+    "article": "Graham Thomson Lyall"
+   },
+   {
+    "name": "James Marshall",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Irish Guards",
+    "place": null,
+    "posthumous": true,
+    "article": "James Marshall (VC)"
+   },
+   {
+    "name": "Richard Masters",
+    "born": "Birkdale",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Royal Army Service Corps",
+    "place": null,
+    "posthumous": false,
+    "article": "Richard George Masters"
+   },
+   {
+    "name": "John McNamara",
+    "born": "Walton-le-Dale",
+    "county": "Lancashire",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "East Surrey Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "John McNamara (VC)"
+   },
+   {
+    "name": "Thomas Neely",
+    "born": "Poulton",
+    "county": "Merseyside",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "King's Own (Royal Lancaster Regiment)",
+    "place": null,
+    "posthumous": true,
+    "article": "Thomas Neely"
+   },
+   {
+    "name": "John Schofield",
+    "born": "Blackburn",
+    "county": "Lancashire",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Lancashire Fusiliers",
+    "place": null,
+    "posthumous": true,
+    "article": "John Schofield (VC)"
+   },
+   {
+    "name": "James Towers",
+    "born": "Broughton",
+    "county": "Lancashire",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Cameronians (Scottish Rifles)",
+    "place": null,
+    "posthumous": false,
+    "article": "James Towers"
+   },
+   {
+    "name": "Alfred Wilkinson",
+    "born": "Leigh",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Manchester Regiment",
+    "place": null,
+    "posthumous": false,
+    "article": "Alfred Robert Wilkinson"
+   },
+   {
+    "name": "Wilfred Wood",
+    "born": "Stockport",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Northumberland Fusiliers",
+    "place": "Battle of Vittorio Veneto",
+    "posthumous": false,
+    "article": "Wilfred Wood"
+   },
+   {
+    "name": "Joseph Woodall",
+    "born": "Salford",
+    "county": "Greater Manchester",
+    "year": 1918,
+    "campaign": "First World War",
+    "unit": "Prince Consort's Own (Rifle Brigade)",
+    "place": null,
+    "posthumous": false,
+    "article": "Joseph Edward Woodall"
+   },
+   {
+    "name": "John Beeley",
+    "born": "Manchester",
+    "county": "Greater Manchester",
+    "year": 1941,
+    "campaign": "Second World War",
+    "unit": "King's Royal Rifle Corps",
+    "place": null,
+    "posthumous": true,
+    "article": "John Beeley"
+   },
+   {
+    "name": "Willward Sandys-Clarke",
+    "born": "Southport",
+    "county": "Merseyside",
+    "year": 1943,
+    "campaign": "Second World War",
+    "unit": "Loyal Regiment (North Lancashire)",
+    "place": null,
+    "posthumous": true,
+    "article": "Willward Alexander Sandys-Clarke"
+   },
+   {
+    "name": "Bill Speakman",
+    "born": "Altrincham",
+    "county": "Greater Manchester",
+    "year": 1951,
+    "campaign": "Korean War",
+    "unit": "Black Watch (Royal Highland Regiment)",
+    "place": null,
+    "posthumous": false,
+    "article": "Bill Speakman"
+   }
+  ],
+  "rank_combined": null,
+  "combined_vs": [
+   {
+    "county": "Greater London",
+    "n": 159
+   },
+   {
+    "county": "Greater Manchester",
+    "n": 31
+   },
+   {
+    "county": "Merseyside",
+    "n": 28
+   }
+  ],
+  "combined_rank": 2,
+  "share": 0.055391432791728215,
+  "share_of_england": 0.11363636363636363,
+  "ww1": 55,
+  "with_place": 11
+ },
+ "hotspots": [
+  {
+   "rank": 1,
+   "lat": 50.82138889,
+   "lon": 2.93166667,
+   "n": 40,
+   "names": [
+    "Passchendaele",
+    "Ypres",
+    "Messines",
+    "Zonnebeke"
+   ],
+   "groups": {
+    "First World War": 40
+   },
+   "years": [
+    1914,
+    1918
+   ]
+  },
+  {
+   "rank": 2,
+   "lat": 50.0278,
+   "lon": 2.8099,
+   "n": 38,
+   "names": [
+    "Somme",
+    "Pozières",
+    "Péronne",
+    "Bapaume"
+   ],
+   "groups": {
+    "First World War": 38
+   },
+   "years": [
+    1916,
+    1918
+   ]
+  },
+  {
+   "rank": 3,
+   "lat": 26.85,
+   "lon": 80.95,
+   "n": 37,
+   "names": [
+    "Lucknow",
+    "Chinhut"
+   ],
+   "groups": {
+    "Indian Mutiny": 37
+   },
+   "years": [
+    1857,
+    1858
+   ]
+  },
+  {
+   "rank": 4,
+   "lat": 44.51118,
+   "lon": 33.59942,
+   "n": 28,
+   "names": [
+    "Sevastopol",
+    "Inkerman",
+    "Sebastopol",
+    "Balaklava"
+   ],
+   "groups": {
+    "Crimean War": 28
+   },
+   "years": [
+    1854,
+    1855
+   ]
+  },
+  {
+   "rank": 5,
+   "lat": 28.61,
+   "lon": 77.23,
+   "n": 24,
+   "names": [
+    "Delhi"
+   ],
+   "groups": {
+    "Indian Mutiny": 24
+   },
+   "years": [
+    1857,
+    1857
+   ]
+  },
+  {
+   "rank": 6,
+   "lat": 50.4583,
+   "lon": 2.79417,
+   "n": 18,
+   "names": [
+    "Lens",
+    "Festubert",
+    "Givenchy",
+    "Vimy Ridge"
+   ],
+   "groups": {
+    "First World War": 18
+   },
+   "years": [
+    1914,
+    1917
+   ]
+  },
+  {
+   "rank": 7,
+   "lat": 50.17692,
+   "lon": 3.11425,
+   "n": 17,
+   "names": [
+    "Cambrai",
+    "Bourlon Wood",
+    "Canal du Nord",
+    "Cambrai/Marcoing"
+   ],
+   "groups": {
+    "First World War": 16,
+    "Second World War": 1
+   },
+   "years": [
+    1916,
+    1944
+   ]
+  },
+  {
+   "rank": 8,
+   "lat": 40.40836,
+   "lon": 26.67174,
+   "n": 15,
+   "names": [
+    "Gallipoli"
+   ],
+   "groups": {
+    "First World War": 15
+   },
+   "years": [
+    1915,
+    1915
+   ]
+  },
+  {
+   "rank": 9,
+   "lat": -28.356388888,
+   "lon": 30.6525,
+   "n": 10,
+   "names": [
+    "Rorke's Drift",
+    "Isandlwana",
+    "Isandhlwana South Africa"
+   ],
+   "groups": {
+    "Other campaigns, 1856 to 1913": 10
+   },
+   "years": [
+    1879,
+    1879
+   ]
+  },
+  {
+   "rank": 10,
+   "lat": 38.97486111,
+   "lon": 117.71216667,
+   "n": 5,
+   "names": [
+    "Taku Forts"
+   ],
+   "groups": {
+    "Other campaigns, 1856 to 1913": 5
+   },
+   "years": [
+    1860,
+    1860
+   ]
+  },
+  {
+   "rank": 11,
+   "lat": 50.0083,
+   "lon": 3.1293,
+   "n": 4,
+   "names": [
+    "St. Quentin Canal",
+    "Ronssoy",
+    "Villers Outreaux",
+    "Épehy"
+   ],
+   "groups": {
+    "First World War": 4
+   },
+   "years": [
+    1917,
+    1918
+   ]
+  },
+  {
+   "rank": 12,
+   "lat": -28.73416667,
+   "lon": 29.8225,
+   "n": 4,
+   "names": [
+    "Colenso"
+   ],
+   "groups": {
+    "Other campaigns, 1856 to 1913": 4
+   },
+   "years": [
+    1899,
+    1899
+   ]
+  },
+  {
+   "rank": 13,
+   "lat": 25.44862,
+   "lon": 78.56962,
+   "n": 4,
+   "names": [
+    "Jhansi"
+   ],
+   "groups": {
+    "Indian Mutiny": 4
+   },
+   "years": [
+    1858,
+    1858
+   ]
+  },
+  {
+   "rank": 14,
+   "lat": 10.65,
+   "lon": 92.49,
+   "n": 4,
+   "names": [
+    "Little Andaman"
+   ],
+   "groups": {
+    "Other campaigns, 1856 to 1913": 4
+   },
+   "years": [
+    1867,
+    1867
+   ]
+  },
+  {
+   "rank": 15,
+   "lat": 49.86844,
+   "lon": 2.51688,
+   "n": 4,
+   "names": [
+    "Villers-Bretonneux"
+   ],
+   "groups": {
+    "First World War": 4
+   },
+   "years": [
+    1918,
+    1918
+   ]
+  }
+ ],
+ "hotspot_clusters": 169,
+ "hotspot_radius": 15,
+ "doi": "10.5281/zenodo.23677831",
+ "hot": {
+  "ypres": {
+   "n": 40,
+   "names": [
+    "Passchendaele",
+    "Ypres",
+    "Messines",
+    "Zonnebeke"
+   ],
+   "rank": 1
+  },
+  "somme": {
+   "n": 38,
+   "names": [
+    "Somme",
+    "Pozières",
+    "Péronne",
+    "Bapaume"
+   ],
+   "rank": 2
+  },
+  "lucknow": {
+   "n": 37,
+   "names": [
+    "Lucknow",
+    "Chinhut"
+   ],
+   "rank": 3
+  },
+  "sevastopol": {
+   "n": 28,
+   "names": [
+    "Sevastopol",
+    "Inkerman",
+    "Sebastopol",
+    "Balaklava"
+   ],
+   "rank": 4
+  },
+  "delhi": {
+   "n": 24,
+   "names": [
+    "Delhi"
+   ],
+   "rank": 5
+  },
+  "rorke": {
+   "n": 10,
+   "names": [
+    "Rorke's Drift",
+    "Isandlwana",
+    "Isandhlwana South Africa"
+   ],
+   "rank": 9
+  },
+  "gallipoli": {
+   "n": 15,
+   "names": [
+    "Gallipoli"
+   ],
+   "rank": 8
+  },
+  "cambrai": {
+   "n": 17,
+   "names": [
+    "Cambrai",
+    "Bourlon Wood",
+    "Canal du Nord",
+    "Cambrai/Marcoing"
+   ],
+   "rank": 7
+  },
+  "lens": {
+   "n": 18,
+   "names": [
+    "Lens",
+    "Festubert",
+    "Givenchy",
+    "Vimy Ridge"
+   ],
+   "rank": 6
+  }
+ },
+ "regions": [
+  {
+   "region": "South Asia and Afghanistan",
+   "awards": 238,
+   "from_place": 143
+  },
+  {
+   "region": "Western Front and north-west Europe",
+   "awards": 155,
+   "from_place": 155
+  },
+  {
+   "region": "Southern Africa",
+   "awards": 117,
+   "from_place": 51
+  },
+  {
+   "region": "Russia, the Baltic and the Black Sea",
+   "awards": 116,
+   "from_place": 40
+  },
+  {
+   "region": "North and East Africa",
+   "awards": 37,
+   "from_place": 25
+  },
+  {
+   "region": "Burma and South-East Asia",
+   "awards": 30,
+   "from_place": 29
+  },
+  {
+   "region": "Gallipoli and the Middle East",
+   "awards": 26,
+   "from_place": 25
+  },
+  {
+   "region": "New Zealand and the Pacific",
+   "awards": 21,
+   "from_place": 12
+  },
+  {
+   "region": "China, Japan and Korea",
+   "awards": 19,
+   "from_place": 8
+  },
+  {
+   "region": "Italy and the Mediterranean",
+   "awards": 17,
+   "from_place": 16
+  },
+  {
+   "region": "West Africa",
+   "awards": 9,
+   "from_place": 4
+  },
+  {
+   "region": "The Americas and South Atlantic",
+   "awards": 3,
+   "from_place": 2
+  },
+  {
+   "region": "At sea",
+   "awards": 2,
+   "from_place": 2
+  },
+  {
+   "region": "Other",
+   "awards": 2,
+   "from_place": 2
+  }
+ ],
+ "regions_ww_unknown": 565,
+ "distance": {
+  "n": 428,
+  "median": 6486.0,
+  "mean": 6384.221962616823,
+  "q25": 1724,
+  "q75": 8744,
+  "max": 18992,
+  "min": 1,
+  "over_5000": 252,
+  "over_10000": 67,
+  "under_1000": 91,
+  "under_500": 36,
+  "share_over_5000": 0.5887850467289719,
+  "share_under_1000": 0.21261682242990654,
+  "adjusted_median": 2819,
+  "adjusted_cover": 0.9557848194546794,
+  "adjusted_share_over_5000": 0.42015758667090347,
+  "adjusted_share_under_1000": 0.3934865436248719
+ },
+ "distance_by_birth": [
+  {
+   "group": "England",
+   "n": 71,
+   "median": 5792,
+   "q25": 379,
+   "q75": 7248
+  },
+  {
+   "group": "Scotland",
+   "n": 21,
+   "median": 2463,
+   "q25": 787,
+   "q75": 7273
+  },
+  {
+   "group": "Wales",
+   "n": 20,
+   "median": 671.0,
+   "q25": 495,
+   "q75": 2884
+  },
+  {
+   "group": "Ireland",
+   "n": 139,
+   "median": 7154,
+   "q25": 3020,
+   "q75": 7630
+  },
+  {
+   "group": "South Asia",
+   "n": 46,
+   "median": 2274.0,
+   "q25": 1083,
+   "q75": 5160
+  },
+  {
+   "group": "Australia",
+   "n": 41,
+   "median": 16090,
+   "q25": 12219,
+   "q75": 16769
+  },
+  {
+   "group": "Canada",
+   "n": 36,
+   "median": 6205.0,
+   "q25": 5685,
+   "q75": 9068
+  },
+  {
+   "group": "New Zealand",
+   "n": 16,
+   "median": 18420.5,
+   "q25": 17231,
+   "q75": 18854
+  },
+  {
+   "group": "Southern Africa",
+   "n": 15,
+   "median": 8727,
+   "q25": 1620,
+   "q75": 9343
+  },
+  {
+   "group": "Elsewhere",
+   "n": 23,
+   "median": 5168,
+   "q25": 1722,
+   "q75": 8095
+  }
+ ],
+ "distance_by_conflict": [
+  {
+   "key": "crimea",
+   "label": "Crimean War",
+   "n": 34,
+   "median": 3031.0
+  },
+  {
+   "key": "mutiny",
+   "label": "Indian Mutiny",
+   "n": 92,
+   "median": 7335.0
+  },
+  {
+   "key": "victorian",
+   "label": "Other campaigns, 1856 to 1913",
+   "n": 78,
+   "median": 9390.5
+  },
+  {
+   "key": "ww1",
+   "label": "First World War",
+   "n": 157,
+   "median": 2886
+  },
+  {
+   "key": "interwar",
+   "label": "Between the wars",
+   "n": 2,
+   "median": 5035.5
+  },
+  {
+   "key": "ww2",
+   "label": "Second World War",
+   "n": 58,
+   "median": 4340.0
+  },
+  {
+   "key": "post",
+   "label": "Since 1945",
+   "n": 7,
+   "median": 6601
+  }
+ ],
+ "farthest": [
+  {
+   "name": "Donald Brown",
+   "born": "Dunedin",
+   "place": "High Wood, France",
+   "year": 1916,
+   "km": 18992,
+   "campaign": "First World War"
+  },
+  {
+   "name": "Thomas Cooke",
+   "born": "Kaikōura",
+   "place": "Pozières, France",
+   "year": 1916,
+   "km": 18919,
+   "campaign": "First World War"
+  },
+  {
+   "name": "Henry Nicholas",
+   "born": "Lincoln",
+   "place": "Polderhoek, Belgium",
+   "year": 1917,
+   "km": 18891,
+   "campaign": "First World War"
+  },
+  {
+   "name": "Samuel Forsyth",
+   "born": "Wellington",
+   "place": "Grévillers, France",
+   "year": 1918,
+   "km": 18854,
+   "campaign": "First World War"
+  },
+  {
+   "name": "John Grant",
+   "born": "Hāwera",
+   "place": "Bancourt, France",
+   "year": 1918,
+   "km": 18666,
+   "campaign": "First World War"
+  }
+ ],
+ "nearest": [
+  {
+   "name": "James Blair",
+   "born": "Neemuch",
+   "place": "Neemuch, India",
+   "year": 1857,
+   "km": 1,
+   "campaign": "Indian Mutiny"
+  },
+  {
+   "name": "Adrian Carton de Wiart",
+   "born": "Brussels",
+   "place": "La Boiselle, France",
+   "year": 1916,
+   "km": 148,
+   "campaign": "First World War"
+  },
+  {
+   "name": "William Hewitt",
+   "born": "Copdock",
+   "place": "Ypres, Belgium",
+   "year": 1917,
+   "km": 181,
+   "campaign": "First World War"
+  },
+  {
+   "name": "Arthur Saunders",
+   "born": "Ipswich",
+   "place": "Battle of Loos",
+   "year": 1915,
+   "km": 211,
+   "campaign": "First World War"
+  },
+  {
+   "name": "Rowland Bourke",
+   "born": "London",
+   "place": "Ostend, Belgium",
+   "year": 1918,
+   "km": 214,
+   "campaign": "First World War"
+  }
+ ],
+ "distance_subset_birth": {
+  "England": 71,
+  "Scotland": 21,
+  "Wales": 20,
+  "Ireland": 139,
+  "South Asia": 46,
+  "Australia": 41,
+  "Canada": 36,
+  "New Zealand": 16,
+  "Southern Africa": 15,
+  "Elsewhere": 23,
+  "Not known": 0
+ },
+ "distance_subset_share": {
+  "England": 0.1658878504672897,
+  "Scotland": 0.04906542056074766,
+  "Wales": 0.04672897196261682,
+  "Ireland": 0.3247663551401869,
+  "South Asia": 0.10747663551401869,
+  "Australia": 0.09579439252336448,
+  "Canada": 0.08411214953271028,
+  "New Zealand": 0.037383177570093455,
+  "Southern Africa": 0.035046728971962614,
+  "Elsewhere": 0.053738317757009345,
+  "Not known": 0.0
+ },
+ "all_share": {
+  "England": 0.48784082535003687,
+  "Scotland": 0.11348563006632277,
+  "Wales": 0.020633750921149593,
+  "Ireland": 0.12748710390567428,
+  "South Asia": 0.07442888725128961,
+  "Australia": 0.058953574060427415,
+  "Canada": 0.040530582166543844,
+  "New Zealand": 0.018422991893883568,
+  "Southern Africa": 0.01400147383935151,
+  "Elsewhere": 0.032424465733235076,
+  "Not known": 0.011790714812085483
+ },
+ "ww1_distance_by_birth": {
+  "England": {
+   "n": 30,
+   "median": 281.5
+  },
+  "Scotland": {
+   "n": 11,
+   "median": 787
+  },
+  "Ireland": {
+   "n": 27,
+   "median": 796
+  },
+  "Australia": {
+   "n": 28,
+   "median": 16679.0
+  },
+  "Canada": {
+   "n": 19,
+   "median": 5797
+  },
+  "New Zealand": {
+   "n": 11,
+   "median": 18620
+  },
+  "South Asia": {
+   "n": 7,
+   "median": 5822
+  }
+ },
+ "posthumous_share": 0.18906942392909898,
+ "posthumous_ww1": 157,
+ "posthumous_ww2": 81
+}
