@@ -1,0 +1,462 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Far From Home</title>
+<meta name="description" content="Where {{counts.awards|int}} Victoria Crosses were won, where their {{counts.recipients|int}} recipients were born, and how far apart the two were, from the Crimea in 1854 to Afghanistan in 2013.">
+<meta property="og:title" content="Far from home: where the Victoria Cross was won, and where its recipients were born">
+<meta property="og:description" content="Birthplaces of {{counts.recipients|int}} Victoria Cross recipients, the places of action that can be located, and the distance between them.">
+<meta property="og:image" content="https://tristan-hotham.github.io/victoria-cross/header.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<style>
+/* Paper and ink. Crimson = the ribbon and the First World War. Bronze = the cross. One colour per conflict on the map. */
+:root{
+  --bg:#F4EFE6; --panel:#EAE3D5; --fg:#1C1A17; --muted:#6A6356; --rule:#D8D0BF; --card:#FBF8F2; --border:#C7BCA6;
+  --hot:#A51C30; --bronze:#8C5A1E; --sea:#DDE3E4; --dot:#8D846F;
+  --c0:#3E6FA6; --c1:#B07A12; --c2:#5E7F2D; --c3:#A51C30; --c4:#7B5AA6; --c5:#177E7E; --c6:#C4621B;
+  --b0:#B2263A; --b1:#2F5D9B; --b2:#C99A10; --b3:#2E8B57; --b4:#E07B39; --b5:#7E3FA0; --b6:#C2185B; --b7:#455A64; --b8:#8D6E63; --b9:#9E9E9E; --b10:#CFC8BA;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#12161F; --panel:#1B2130; --fg:#ECE6DA; --muted:#A39C8E; --rule:#2E3546; --card:#1A2030; --border:#3F4659;
+  --hot:#E0566A; --bronze:#D2A262; --sea:#0E131C; --dot:#7E7868;
+  --c0:#7FA8DA; --c1:#D9A441; --c2:#93B85B; --c3:#E0566A; --c4:#B497D9; --c5:#4FBDBD; --c6:#EE8E4C;
+  --b0:#E0566A; --b1:#6E9FE0; --b2:#E3C04D; --b3:#5CC28A; --b4:#F09A5E; --b5:#B07AD0; --b6:#EC6A9E; --b7:#90A4AE; --b8:#BCA196; --b9:#8A8A8A; --b10:#4A4F5C; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#12161F; --panel:#1B2130; --fg:#ECE6DA; --muted:#A39C8E; --rule:#2E3546; --card:#1A2030; --border:#3F4659;
+  --hot:#E0566A; --bronze:#D2A262; --sea:#0E131C; --dot:#7E7868;
+  --c0:#7FA8DA; --c1:#D9A441; --c2:#93B85B; --c3:#E0566A; --c4:#B497D9; --c5:#4FBDBD; --c6:#EE8E4C;
+  --b0:#E0566A; --b1:#6E9FE0; --b2:#E3C04D; --b3:#5CC28A; --b4:#F09A5E; --b5:#B07AD0; --b6:#EC6A9E; --b7:#90A4AE; --b8:#BCA196; --b9:#8A8A8A; --b10:#4A4F5C; color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:400 18px/1.62 var(--body);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));overflow-x:hidden}
+.wrap{max-width:680px;margin:0 auto;padding-block:28px 64px}
+.wrap .bleed{width:min(1080px,calc(100vw - 32px));margin-left:calc((100% - min(1080px,100vw - 32px))/2);margin-right:0}
+a{color:inherit;text-decoration-color:var(--hot);text-underline-offset:3px}
+.kicker{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{background:var(--hot);color:#fff;padding:5px 8px;font-weight:500}
+header.hero{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px 24px;align-items:end;border-bottom:6px double var(--fg);padding-bottom:22px;margin-top:18px}
+h1{font:900 clamp(54px,13vw,112px)/.88 var(--display);letter-spacing:-.02em;margin:0;text-wrap:balance;font-variation-settings:"SOFT" 50}
+h1 em{font-style:normal;color:var(--hot)}
+.mark{width:clamp(88px,20vw,168px);height:auto;display:block}
+.dek{grid-column:1/-1;font-size:21px;line-height:1.42;margin:8px 0 0;max-width:44ch}
+.byline{font:400 13px/1.4 var(--mono);color:var(--muted);margin-top:14px}
+h2{font:800 34px/1.04 var(--display);letter-spacing:-.01em;margin:52px 0 10px;text-wrap:balance}
+h2 .n{font:500 13px/1 var(--mono);color:var(--hot);display:block;letter-spacing:.1em;margin-bottom:10px}
+h3{font:600 20px/1.25 var(--display);margin:28px 0 6px}
+p{margin:0 0 16px}
+.lede::first-letter{font:900 72px/.8 var(--display);float:left;margin:6px 10px 0 0;color:var(--hot)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);margin:26px 0 8px}
+.stats div{background:var(--card);padding:14px 12px}
+.stats b{display:block;font:900 clamp(28px,6vw,40px)/1 var(--display);color:var(--fg)}
+.stats b.h{color:var(--hot)}
+.stats span{font:400 12px/1.35 var(--mono);color:var(--muted);display:block;margin-top:6px}
+@media (max-width:600px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.figure{margin:26px 0 30px}
+.fig-h{font:600 19px/1.25 var(--display);margin:0 0 4px}
+.fig-sub{font:400 13px/1.45 var(--mono);color:var(--muted);margin:0 0 12px}
+.src{font:400 12px/1.45 var(--mono);color:var(--muted);margin-top:10px}
+.chart{width:100%;position:relative}
+.chart svg{display:block;width:100%;height:auto;overflow:visible}
+svg text{font-family:var(--mono);fill:var(--fg)}
+.lab{font-size:12px}.lab.m{fill:var(--muted)}.lab.b{font-weight:500}.lab.s{font-size:11px}
+.tip{position:absolute;pointer-events:none;background:var(--fg);color:var(--bg);font:400 12px/1.45 var(--mono);padding:8px 10px;border-radius:3px;max-width:270px;z-index:1000;transform:translate(-50%,calc(-100% - 12px));display:none}
+.tip b{font-weight:500}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:0 0 10px}
+.btn{font:500 12px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:8px 10px;cursor:pointer;min-height:36px}
+.btn[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.btn:focus-visible,input:focus-visible{outline:2px solid var(--hot);outline-offset:2px}
+.btn i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:6px;vertical-align:0}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+input[type=search]{font:400 14px/1 var(--mono);background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:3px;padding:9px 10px;min-height:36px;flex:1 1 180px;min-width:0}
+.slider{display:flex;align-items:center;gap:10px;flex:1 1 260px;min-width:0;font:500 13px/1 var(--mono)}
+.slider input{flex:1;min-width:0;accent-color:var(--hot)}
+.slider output{min-width:4.6em;text-align:right}
+.mapgrid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:820px){.mapgrid{grid-template-columns:1fr}}
+#map{height:clamp(420px,70vh,620px);border:1px solid var(--border);background:var(--sea);border-radius:2px;z-index:0}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font:400 12px/1.3 var(--mono);color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:-1px}
+.legend i.ln{width:18px;height:3px;border-radius:0;vertical-align:3px}
+.side{display:flex;flex-direction:column;gap:12px}
+.card{background:var(--card);border:1px solid var(--border);border-left:4px solid var(--hot);padding:12px 14px;font:400 13px/1.5 var(--mono)}
+.card.empty{border-left-color:var(--border);color:var(--muted)}
+.card b{font:600 18px/1.2 var(--display);display:block;margin-bottom:6px}
+.card dl{display:grid;grid-template-columns:auto 1fr;gap:2px 12px;margin:6px 0 8px}
+.card dt{color:var(--muted)}.card dd{margin:0;overflow-wrap:anywhere}
+.toplist{list-style:none;margin:0;padding:0;font:400 12.5px/1.3 var(--mono);max-height:330px;overflow:auto;border:1px solid var(--rule);background:var(--card)}
+.toplist li{display:grid;grid-template-columns:24px minmax(0,1fr) auto;gap:8px;padding:7px 10px;border-bottom:1px solid var(--rule);cursor:pointer;align-items:center}
+.toplist li:hover,.toplist li:focus-visible{background:var(--panel);outline:none}
+.toplist .r{color:var(--muted)}.toplist .v{color:var(--hot);font-weight:500}
+.toplist .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.count{font:400 12px/1.4 var(--mono);color:var(--muted);margin-top:6px}
+.pull{font:600 26px/1.25 var(--display);border-left:6px solid var(--hot);padding:4px 0 4px 18px;margin:30px 0}
+.note{background:var(--panel);border:1px solid var(--rule);padding:14px 16px;font-size:16px;margin:22px 0}
+.note h3{margin-top:0}
+table.t{width:100%;border-collapse:collapse;font:400 13px/1.35 var(--mono)}
+table.t th{text-align:left;font-weight:500;color:var(--muted);border-bottom:2px solid var(--fg);padding:6px 8px 6px 0;position:sticky;top:0;background:var(--bg)}
+table.t td{border-bottom:1px solid var(--rule);padding:7px 8px 7px 0;vertical-align:top}
+table.t td.num,table.t th.num{text-align:right}
+.tablewrap{overflow-x:auto}
+.tablewrap.tall{max-height:420px;overflow:auto;border-bottom:1px solid var(--rule)}
+.cta{display:flex;gap:10px;flex-wrap:wrap;margin:18px 0}
+.cta a{font:500 13px/1 var(--mono);text-decoration:none;border:1px solid var(--fg);padding:11px 14px;border-radius:3px}
+.cta a.p{background:var(--hot);border-color:var(--hot);color:#fff}
+footer{border-top:6px double var(--fg);margin-top:56px;padding-top:16px;font:400 13px/1.55 var(--mono);color:var(--muted)}
+footer p{margin:0 0 10px}
+.theme{position:fixed;right:12px;bottom:12px;z-index:1001}
+.leaflet-container{font:400 12px/1.4 var(--mono);background:var(--sea)}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--card);color:var(--fg);border-radius:3px;box-shadow:0 2px 10px rgba(0,0,0,.25)}
+.leaflet-popup-content{margin:10px 12px;font:400 12.5px/1.45 var(--mono)}
+.leaflet-popup-content b{font:600 15px/1.2 var(--display);display:block;margin-bottom:4px}
+.leaflet-container a.leaflet-popup-close-button{color:var(--muted)}
+.leaflet-control-attribution{background:color-mix(in srgb,var(--card) 85%,transparent)!important;color:var(--muted)!important;font-size:10px}
+.leaflet-control-attribution a{color:var(--fg)!important}
+.leaflet-popup-content a{color:var(--hot)}
+.leaflet-bar a{background:var(--card);color:var(--fg);border-bottom-color:var(--border)}
+.leaflet-bar a:hover{background:var(--panel)}
+.leaflet-bar{border:1px solid var(--border)!important}
+@media print{.theme,.controls{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="kicker"><b>Data study</b><span>Military history × geography</span><span>1854 to 2013</span></div>
+<header class="hero">
+  <h1>Far from <em>home</em></h1>
+  <svg class="mark" viewBox="-100 -100 200 200" aria-hidden="true"><g id="heroMark"></g></svg>
+  <p class="dek">Where were the Victoria Crosses won, where were the men who won them born, and how far apart were the two? I matched all {{counts.recipients|int}} recipients to their birthplaces and located every place of action I could.</p>
+</header>
+<div class="byline">Dr Tristan Hotham, Independent researcher · October 2026 · Data: Wikipedia lists of Victoria Cross recipients, Wikidata, GeoNames</div>
+
+<div class="stats">
+  <div><b>{{counts.awards|int}}</b><span>Victoria Crosses, to {{counts.recipients|int}} named people, {{counts.first_year|raw}} to {{counts.last_year|raw}}</span></div>
+  <div><b class="h">{{ww1_share|pct0}}</b><span>were won in the First World War ({{groups.3.awards|int}} awards)</span></div>
+  <div><b>{{ireland.share|pct0}}</b><span>of recipients were born in Ireland; {{irish_share_by_group.mutiny|pct0}} in the Indian Mutiny</span></div>
+  <div><b class="h">{{distance.adjusted_median|int}} km</b><span>typical distance from birthplace to the deed (adjusted estimate)</span></div>
+</div>
+
+<p class="lede">The Victoria Cross is Britain's highest award for gallantry in the face of the enemy. Since 1856 it has been given {{counts.awards|int}} times, for acts at a Baltic island fortress and on Crimean hillsides, at Lucknow and Delhi, Rorke's Drift and Colenso, Gallipoli and the Somme, Burma, Korea and Helmand. {{counts.posthumous|int}} of the recipients are marked in the list as posthumous awards, and many more died later in the same wars. Behind each award is one person and two places: where they were born and where they did the thing the citation describes.</p>
+<p>I wanted to see both places on one map. I took the Wikipedia lists of recipients as the master list, matched each person to their birthplace on Wikidata, and located the place of action wherever the lists or Wikidata gave one. Birthplaces are almost complete: {{counts.birth_coords|int}} of {{counts.recipients|int}} ({{counts.share_birth|pct0}}). Places of action are not. I could pin down {{counts.place_precise|int}} of the {{counts.awards|int}} awards ({{counts.share_place_precise|pct0}}) to a named place, so the map of deeds is a sample, and I say below which way it leans.</p>
+<p>Three things stand out. Ireland supplied a remarkable share of the early awards. The First World War dominates everything, and most of its British recipients won their crosses a few hundred kilometres from home. And as the empire's armies changed, so did the birthplaces: by the Second World War, a quarter of recipients were born in Australia, Canada, New Zealand or southern Africa, and nearly a fifth in South Asia.</p>
+
+<h2><span class="n">01 · The map</span>From home to the deed</h2>
+<p>Each line runs from a recipient's birthplace to the place of action, coloured by conflict. Play the years through, pick a conflict, or tap a line or dot for the person. Small grey dots are birthplaces whose place of action I could not locate; switch them on to see the whole list.</p>
+<div class="figure bleed">
+  <div class="controls">
+    <div class="chips" id="chips" role="group" aria-label="Conflict"></div>
+  </div>
+  <div class="controls">
+    <button class="btn" id="play" aria-label="Play through the years">▶ Play</button>
+    <label class="slider"><span>Up to</span><input type="range" id="yr" min="{{counts.first_year|raw}}" max="{{counts.last_year|raw}}" value="{{counts.last_year|raw}}" step="1" aria-label="Show awards up to this year"><output id="yro">{{counts.last_year|raw}}</output></label>
+    <button class="btn" id="ball" aria-pressed="false">All birthplaces</button>
+    <input type="search" id="q" placeholder="Find a recipient, e.g. Chavasse" aria-label="Find a recipient" list="names">
+    <datalist id="names"></datalist>
+  </div>
+  <div class="mapgrid">
+    <div>
+      <div id="map" role="application" aria-label="World map of Victoria Cross recipients, with lines from birthplace to place of action"></div>
+      <div class="legend" id="legend"></div>
+      <div class="count" id="count"></div>
+    </div>
+    <div class="side">
+      <div class="card empty" id="card">Tap a line, a birthplace or a place of action to see who it was.</div>
+      <div class="fig-h" style="margin-top:4px">Where the most crosses were won</div>
+      <ol class="toplist" id="hot"></ol>
+      <div class="src" style="margin-top:0">Places of action within {{hotspot_radius|raw}} km of each other are grouped. Located awards only.</div>
+    </div>
+  </div>
+  <div class="src">Lines are drawn as gentle curves for legibility; distances in the text are great-circle distances. Birthplaces from Wikidata (CC0). Places of action from the Wikipedia national lists of recipients (CC BY-SA 4.0), geocoded through the linked Wikipedia articles or GeoNames, plus single named battles on Wikidata. A line is shown only when both ends are located to a named place.</div>
+</div>
+
+<h2><span class="n">02 · When</span>Six decades of small wars, then 1918</h2>
+<p>The first deed to earn the cross came on {{first_action.date|raw}}, when {{first_action.name|raw}}, a ship's mate born at {{first_action.birthplace|raw}} in Ireland, threw a live Russian shell overboard off {{first_action.place|raw}}. The Crimean War brought {{groups.0.awards|int}} awards and the Indian Mutiny {{groups.1.awards|int}}. Then come sixty years of what were called small wars: {{groups.2.awards|int}} awards between 1856 and 1913 across Africa, Asia and New Zealand, including {{southern_africa.awards|int}} in the wars of southern Africa ({{southern_africa.zulu|int}} in the Anglo-Zulu War and {{southern_africa.boer2|int}} in the Second Boer War).</p>
+<p>The First World War changed the scale: {{groups.3.awards|int}} awards, {{ww1_share|pct0}} of all there have ever been. The single busiest year is {{peak_year.year|raw}}, with {{peak_year.awards|int}}. The Second World War brought {{groups.5.awards|int}}, and since 1945 there have been {{groups.6.awards|int}}, the latest for an act on {{last_action.date|raw}} in Afghanistan.</p>
+<div class="figure">
+  <div class="fig-h">Victoria Crosses by year of the deed</div>
+  <div class="fig-sub">All {{counts.awards|int}} awards, coloured by conflict. Tap a bar for the count.</div>
+  <div class="chart" id="years"></div>
+  <div class="legend" id="glegend"></div>
+</div>
+
+<h2><span class="n">03 · Birthplaces</span>Where the recipients came from</h2>
+<p>Of the {{counts.recipients|int}} recipients, {{birth_totals.England|int}} ({{birth_share.England|pct0}}) were born in England, {{birth_totals.Scotland|int}} ({{birth_share.Scotland|pct0}}) in Scotland and {{birth_totals.Wales|int}} ({{birth_share.Wales|pct0}}) in Wales. The island of Ireland gave {{ireland.n|int}} ({{ireland.share|pct0}}): {{ireland.republic|int}} born in what is now the Republic and {{ireland.north|int}} in what is now Northern Ireland. South Asia gave {{birth_totals.South Asia|int}}, Australia {{birth_totals.Australia|int}}, Canada {{birth_totals.Canada|int}}, New Zealand {{birth_totals.New Zealand|int}} and southern Africa {{birth_totals.Southern Africa|int}}.</p>
+<p>The balance moved with the wars. In the Crimea, {{irish_share_by_group.crimea|pct0}} of recipients were Irish-born, and in the Indian Mutiny {{irish_share_by_group.mutiny|pct0}}: the Victorian army recruited heavily in Ireland. By the First World War the Irish share was down to {{irish_share_by_group.ww1|pct0}}, and in the Second to {{irish_share_by_group.ww2|pct0}}. Recipients born in the dominions went the other way, from {{dominion_share_by_group.crimea|pct0}} in the Crimea to {{dominion_share_by_group.ww1|pct0}} in the First World War and {{dominion_share_by_group.ww2|pct0}} in the Second, when {{southasia_share_by_group.ww2|pct0}} were also born in South Asia.</p>
+<div class="figure">
+  <div class="fig-h">Where recipients were born, by conflict</div>
+  <div class="fig-sub">Share of awards in each period by the recipient's place of birth (today's boundaries; Ireland means the whole island).</div>
+  <div class="chart" id="eras"></div>
+  <div class="legend" id="blegend"></div>
+</div>
+<p>Within Britain, counties do not compare fairly without the population of each county at the time, which I do not have here, so the figures below are raw counts. Greater London, as it is today, was the birthplace of {{london.n|int}} recipients, far ahead of anywhere else. Then come the big industrial and port counties and the old garrison and naval counties: Greater Manchester {{top_counties.1.n|int}}, Merseyside {{top_counties.2.n|int}}, Hampshire {{top_counties.3.n|int}} and Devon {{top_counties.4.n|int}}. Among single towns and cities (as Wikidata names them), London has {{top_towns.0.n|int}}, Edinburgh {{top_towns.1.n|int}}, Glasgow {{top_towns.2.n|int}}, Dublin {{top_towns.3.n|int}} and Liverpool {{top_towns.4.n|int}}.</p>
+<div class="figure">
+  <div class="fig-h">Recipients born in each county of Great Britain</div>
+  <div class="fig-sub">Top 15, by today's ceremonial counties, preserved counties of Wales and council areas of Scotland. Raw counts, not per head.</div>
+  <div class="chart" id="counties"></div>
+</div>
+
+<h2><span class="n">04 · Places of action</span>Where the crosses were won</h2>
+<p>For {{counts.place_precise|int}} awards I have a named place of action that I could put on the map. Grouping places within {{hotspot_radius|raw}} km of each other, the busiest are the Ypres salient ({{hot.ypres.n|int}} located awards), the Somme ({{hot.somme.n|int}}), Lucknow ({{hot.lucknow.n|int}}), Sevastopol and Balaklava ({{hot.sevastopol.n|int}}) and Delhi ({{hot.delhi.n|int}}). Rorke's Drift and Isandlwana, close together in Zululand and both fought on 22 and 23 January 1879, account for {{hot.rorke.n|int}} located awards, and Gallipoli for {{hot.gallipoli.n|int}}.</p>
+<p>These counts are floors, not totals: the Western Front is under-counted most, because the lists that give a place of action cover only some of its recipients. To get a fuller picture of where the crosses were won, I combined the located places with the campaigns that happened in a single region (the Indian Mutiny in India, the Boer wars in southern Africa, and so on). That places {{counts.region_known|int}} of the {{counts.awards|int}} awards ({{counts.share_region|pct0}}) in a region. The other {{regions_ww_unknown|int}} are all world-war awards whose place I could not locate.</p>
+<div class="figure">
+  <div class="fig-h">Region of the deed</div>
+  <div class="fig-sub">Dark part: located from the place of action. Light part: inferred from a campaign fought in one region. Awards in the world wars without a located place are not shown.</div>
+  <div class="chart" id="regions"></div>
+</div>
+
+<h2><span class="n">05 · Distance</span>How far from home</h2>
+<p>For {{distance.n|int}} awards I know both the birthplace and the place of action precisely enough to measure the distance between them. Their median is {{distance.median|int}} km, but that sample leans heavily towards Irish-born and dominion recipients, because those are the lists that give a place. Reweighting it so that each combination of birthplace group and conflict counts as often as it does in the full list (which covers {{distance.adjusted_cover|pct0}} of all awards) gives a typical distance of about <b>{{distance.adjusted_median|int}} km</b>. On that reweighted basis about {{distance.adjusted_share_under_1000|pct0}} of deeds were done within 1,000 km of the recipient's birthplace and {{distance.adjusted_share_over_5000|pct0}} more than 5,000 km away.</p>
+<p>The spread is the story. The {{ww1_distance_by_birth.England.n|int}} English-born recipients in the First World War with a located place of action won their crosses a median of {{ww1_distance_by_birth.England.median|int}} km from where they were born: Flanders and Picardy are a day's travel from Kent. Australians in the same war fought a median of {{ww1_distance_by_birth.Australia.median|int}} km from home, and New Zealanders {{ww1_distance_by_birth.New Zealand.median|int}} km, close to the far side of the planet. The longest journey in the data is {{farthest.0.name|raw}}'s, from {{farthest.0.born|raw}} to {{farthest.0.place|raw}} in {{farthest.0.year|raw}}: {{farthest.0.km|int}} km. The shortest is {{nearest.0.name|raw}}'s, who won his cross in {{nearest.0.year|raw}} at {{nearest.0.place|raw}}, the place Wikidata gives as his birthplace.</p>
+<div class="figure">
+  <div class="fig-h">Distance from birthplace to place of action</div>
+  <div class="fig-sub">Each dot is one located award, coloured by conflict, on a log scale. Bars show the middle half; the tick is the median. Tap a dot for the person.</div>
+  <div class="chart" id="dist"></div>
+</div>
+<div class="pull">For the English soldier of 1916 the Victoria Cross was usually won a few hundred kilometres from home. For the New Zealander beside him it was nearly nineteen thousand.</div>
+
+<h2><span class="n">06 · Lancashire</span>The county's own</h2>
+<p>Taking today's Lancashire, Greater Manchester and Merseyside together, which between them cover most of the old county of Lancashire (along with some places that were once Cheshire or Yorkshire), {{lancashire.n|int}} recipients were born here: {{lancashire.by_county.Lancashire|int}} in today's Lancashire, {{lancashire.by_county.Greater Manchester|int}} in Greater Manchester and {{lancashire.by_county.Merseyside|int}} on Merseyside. Counted as one area, that would put it second only to Greater London. Liverpool alone has {{lancashire.towns.0.n|int}}, Manchester {{lancashire.towns.1.n|int}} and Blackburn {{lancashire.towns.2.n|int}}. {{lancashire.ww1|int}} of the {{lancashire.n|int}} were First World War awards, and {{lancashire.posthumous|int}} are marked as posthumous.</p>
+<div class="figure">
+  <div class="fig-h">Recipients born in Lancashire, Greater Manchester and Merseyside</div>
+  <div class="fig-sub">In order of the year of the deed. Tap a name to show the person on the map.</div>
+  <div class="tablewrap tall"><table class="t" id="lanc"></table></div>
+</div>
+
+<h2><span class="n">07 · Limits</span>What this can and cannot say</h2>
+<p><b>The place of action is the weak link.</b> The main Wikipedia lists give each recipient's name, rank, unit, campaign and date, but not the place. The national lists (Irish, Indian Army, Australian, Canadian, New Zealand and by nationality) do give a place, so recipients in those lists are much better covered than English, Scottish and Welsh soldiers of British regiments. Located awards are {{distance_subset_share.Ireland|pct0}} Irish-born, against {{all_share.Ireland|pct0}} in the full list, and {{distance_subset_share.England|pct0}} English-born, against {{all_share.England|pct0}}. The reweighting in section 05 corrects for the mix of birthplaces and conflicts, but not for anything else that might differ between the people in those lists and the rest.</p>
+<p><b>Places can be coarse.</b> Many places in the lists are small villages, ridges or woods. Where the list linked a Wikipedia article I used that article's coordinates; otherwise I looked the name up in GeoNames, in the stated country, and kept it only if it was unambiguous. A place like "Sevastopol" stands for a siege that lasted a year. Places that could only be resolved to a whole country or large region are left off the map and out of the distances.</p>
+<p><b>Birthplaces come from Wikidata</b> and inherit its errors. A few are only a country ("Nepal"); those are left out of distances. Counties are today's, not those of the time. And the birthplace is not always home: many recipients grew up, enlisted or emigrated far from where they were born.</p>
+<p><b>No per-head rates.</b> A fair comparison of counties or countries would divide by the number of men of military age at the time. I did not have historical populations at county level, so I give counts and say so.</p>
+
+<div class="note" id="method">
+  <h3>How I did this</h3>
+  <p><b>Master list.</b> I parsed the three Wikipedia tables "List of Victoria Cross recipients (A to F)", "(G to M)" and "(N to Z)": {{counts.recipients|int}} named recipients. Three people won the cross twice (Noel Chavasse, Arthur Martin-Leake and Charles Upham), giving {{counts.awards|int}} awards. The Unknown Soldier of the United States, who was given the cross symbolically in 1921, is not in these tables, nor are the later awards of the separate Victoria Cross for Australia and Victoria Cross for New Zealand.</p>
+  <p><b>Birthplaces.</b> I joined the list to Wikidata through each recipient's English Wikipedia article ({{counts.wikidata_matched|int}} of {{counts.recipients|int}} matched) and took the place of birth and its coordinates. I placed each birthplace in a country with Natural Earth boundaries, and births in Great Britain in a county with ONS boundaries.</p>
+  <p><b>Places of action.</b> {{geocoding.rows|int}} rows of the six national lists give a place. I located {{geocoding.precise|int}} of them to a named place: through the Wikipedia article the list links to (checked to lie in the stated country), an unlinked name that is exactly the title of a linked article in that country, a unique GeoNames town of 1,000 people or more in that country, or a Wikidata battle named after the place. {{geocoding.region|int}} resolved only to a region and {{geocoding.unmatched|int}} ({{geocoding.share_unmatched|pct0}}) not at all; the file of every lookup is published with the data. I added {{counts.place_from_wikidata|int}} awards whose Wikidata record names exactly one specific battle with coordinates and a matching year.</p>
+  <p><b>Distance.</b> Great-circle distance between the two points. The adjusted median weights each located award by the number of awards in its birthplace group and conflict period in the full list, divided by the number located.</p>
+  <p><b>Corrections.</b> One row in the list gives the Indian Mutiny for William Knox Leet, whose deed was at Hlobane in the Anglo-Zulu War on 28 March 1879; I use the Anglo-Zulu War. Where a hidden sort date disagreed with the visible date, I used the visible year. The list links both John Williamses to one article; I gave the First World War recipient his own.</p>
+</div>
+<div class="cta">
+  <a class="p" href="https://github.com/Tristan-Hotham/victoria-cross">Data and code</a>
+  <a href="https://doi.org/{{doi|raw}}">Read the paper</a>
+  <a href="https://blog.tristanhotham.com/">More history data studies</a>
+</div>
+
+<footer>
+  <p>Dr Tristan Hotham, researcher on social media, campaigns and politics. Independent researcher. Cite as: Hotham, T. (2026) Far from Home: where the Victoria Cross was won and where its recipients were born. Zenodo. <a href="https://doi.org/{{doi|raw}}">https://doi.org/{{doi|raw}}</a></p>
+  <p>Recipient lists: Wikipedia, <a href="https://en.wikipedia.org/wiki/List_of_Victoria_Cross_recipients_(A%E2%80%93F)">List of Victoria Cross recipients</a> (A to F, G to M, N to Z) and the Irish, Indian Army, Australian, Canadian, New Zealand and by-nationality lists, CC BY-SA 4.0. Birthplaces and battles: <a href="https://www.wikidata.org/">Wikidata</a>, CC0. Place names: <a href="https://www.geonames.org/">GeoNames</a> cities1000, CC BY 4.0. Country boundaries: <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. County boundaries: Office for National Statistics, Open Government Licence v3. Base map tiles © Esri, HERE, Garmin, © OpenStreetMap contributors, and the GIS user community. Map library: Leaflet.</p>
+  <p>The derived data and text on this page are released under CC BY-SA 4.0, because the Wikipedia lists are. Code is MIT. <a href="https://blog.tristanhotham.com/">Blog home</a>.</p>
+  <p>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</p>
+</footer>
+</div>
+<div class="tip" id="tip"></div>
+<button class="btn theme" id="theme" aria-label="Toggle dark mode">◐</button>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+/*DATA*/
+const NS = "http://www.w3.org/2000/svg";
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const el = (t, a = {}, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); if (p) p.appendChild(e); return e; };
+const fmt = n => Math.round(n).toLocaleString("en-GB");
+const pc = (x, d = 0) => (x * 100).toFixed(d) + "%";
+const tip = document.getElementById("tip");
+function showTip(h, x, y) { tip.innerHTML = h; tip.style.display = "block"; const w = tip.offsetWidth; x = Math.max(w / 2 + 8, Math.min(innerWidth - w / 2 - 8, x)); tip.style.left = x + scrollX + "px"; tip.style.top = y + scrollY + "px"; }
+function hideTip() { tip.style.display = "none"; }
+function hover(node, h, click) { node.style.cursor = "pointer"; node.setAttribute("tabindex", "0"); const s = () => { const r = node.getBoundingClientRect(); showTip(h, r.left + r.width / 2, r.top); }; node.addEventListener("pointerenter", s); node.addEventListener("focus", s); node.addEventListener("pointerleave", hideTip); node.addEventListener("blur", hideTip); node.addEventListener("click", e => { e.stopPropagation(); s(); if (click) click(); }); }
+document.addEventListener("click", hideTip);
+const redraws = [];
+function resp(box, render) { let last = 0; const go = (force) => { const w = Math.max(280, Math.round(box.clientWidth)); if (!force && Math.abs(w - last) < 4) return; last = w; box.innerHTML = ""; render(w, w < 560); }; new ResizeObserver(() => go()).observe(box); redraws.push(() => go(true)); go(); }
+const lbl = (svg, x, y, s, cls = "lab", anchor = "start") => { const t = el("text", { x, y, class: cls, "text-anchor": anchor }, svg); t.textContent = s; return t; };
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const R = D.R, G = D.groups, BG = D.bg;
+const GC = i => `var(--c${i})`, BC = i => `var(--b${i})`;
+document.getElementById("theme").onclick = () => { const r = document.documentElement; const dark = r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; r.dataset.theme = dark ? "light" : "dark"; redraws.forEach(f => f()); window.__restyle && window.__restyle(); };
+const isDark = () => { const r = document.documentElement; return r.dataset.theme ? r.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+
+/* hero mark: a cross pattée with an arc from a small home dot */
+(() => { const g = document.getElementById("heroMark");
+  el("path", { d: "M-88 62 C-60 -70 40 -92 70 -20", fill: "none", stroke: "var(--hot)", "stroke-width": 3.2, "stroke-dasharray": "7 6", "stroke-linecap": "round" }, g);
+  el("circle", { cx: -88, cy: 62, r: 8, fill: "var(--fg)" }, g);
+  const c = el("g", { transform: "translate(52 18) scale(.62)" }, g);
+  const arm = "M-12 -14 L-24 -62 L24 -62 L12 -14 Z";
+  [0, 90, 180, 270].forEach(r => el("path", { d: arm, transform: `rotate(${r})`, fill: "var(--bronze)", stroke: "var(--fg)", "stroke-width": 2.5, "stroke-linejoin": "round" }, c));
+  el("rect", { x: -14, y: -14, width: 28, height: 28, fill: "var(--bronze)", stroke: "var(--fg)", "stroke-width": 2.5 }, c);
+  el("circle", { cx: 0, cy: 0, r: 13, fill: "none", stroke: "var(--fg)", "stroke-width": 2 }, c);
+})();
+
+/* ===== data ===== */
+const A = D.rows.map((r, i) => ({ i, name: r[0], title: r[1], rank: r[2], unit: r[3], camp: r[4], g: r[5], year: r[6], date: r[7], post: r[8], born: r[9], blat: r[10], blon: r[11], bg: r[12], county: r[13], place: r[14], plat: r[15], plon: r[16], km: r[17], q: r[18] }));
+const wiki = t => "https://en.wikipedia.org/wiki/" + encodeURIComponent(t.replace(/ /g, "_"));
+function personHtml(a) {
+  return `<b><a href="${wiki(a.title)}" target="_blank" rel="noopener">${esc(a.name)}</a></b><dl>` +
+    `<dt>Rank</dt><dd>${esc(a.rank)}</dd><dt>Unit</dt><dd>${esc(a.unit)}</dd><dt>Conflict</dt><dd><span style="color:${GC(a.g)}">●</span> ${esc(a.camp)}</dd>` +
+    `<dt>Date</dt><dd>${esc(a.date)}${a.post ? " (posthumous)" : ""}</dd>` +
+    `<dt>Born</dt><dd>${a.born ? esc(a.born) + (a.county ? ", " + esc(a.county) : "") : "not recorded"}</dd>` +
+    `<dt>Place</dt><dd>${a.place ? esc(a.place) + (a.plat == null ? " (not located precisely)" : "") : "not in the data"}</dd>` +
+    (a.km != null ? `<dt>Distance</dt><dd style="color:var(--hot);font-weight:500">${fmt(a.km)} km</dd>` : "") + `</dl>` +
+    `<a href="${wiki(a.title)}" target="_blank" rel="noopener">Wikipedia</a>` + (a.q ? ` · <a href="https://www.wikidata.org/wiki/${a.q}" target="_blank" rel="noopener">Wikidata</a>` : "");
+}
+
+/* ===== map ===== */
+(() => {
+  const card = document.getElementById("card");
+  if (!window.L) { document.getElementById("map").innerHTML = '<p style="padding:16px;font:400 13px/1.5 var(--mono)">The map library did not load. The charts below still work.</p>'; return; }
+  let gsel = -1, yr = +document.getElementById("yr").value, all = false, sel = null, playing = null;
+  const map = L.map("map", { preferCanvas: true, scrollWheelZoom: false, worldCopyJump: false, minZoom: 1, maxZoom: 12, zoomSnap: .25 }).setView([25, 30], 2);
+  map.attributionControl.setPrefix('<a href="https://leafletjs.com">Leaflet</a>');
+  map.on("focus", () => map.scrollWheelZoom.enable()); map.on("blur", () => map.scrollWheelZoom.disable());
+  const tileUrl = () => `https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/${isDark() ? "World_Dark_Gray_Base" : "World_Light_Gray_Base"}/MapServer/tile/{z}/{y}/{x}`;
+  const tiles = L.tileLayer(tileUrl(), { maxZoom: 16, attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors, and the GIS user community · Data: Wikipedia, Wikidata, GeoNames' }).addTo(map);
+  const fit = () => map.fitBounds([[-42, -100], [62, 150]]); fit();
+  map.createPane("bg"); map.getPane("bg").style.zIndex = 405;
+  map.createPane("lines"); map.getPane("lines").style.zIndex = 410;
+  map.createPane("dots"); map.getPane("dots").style.zIndex = 420;
+  const bgR = L.canvas({ pane: "bg", padding: .3 }), lineR = L.canvas({ pane: "lines", padding: .3, tolerance: 4 }), dotR = L.canvas({ pane: "dots", padding: .3, tolerance: 5 });
+  const C = {}; const col = v => C[v] || (C[v] = css(v));
+  function curve(a) {
+    const p0 = [a.blat, a.blon], p2 = [a.plat, a.plon]; const dx = p2[1] - p0[1], dy = p2[0] - p0[0], L0 = Math.hypot(dx, dy);
+    const k = Math.min(.22, 6 / Math.max(L0, 1)) * 0 + .18; const c = [(p0[0] + p2[0]) / 2 + dx * k, (p0[1] + p2[1]) / 2 - dy * k];
+    const pts = []; for (let t = 0; t <= 1.0001; t += 1 / 24) pts.push([(1 - t) ** 2 * p0[0] + 2 * (1 - t) * t * c[0] + t * t * p2[0], (1 - t) ** 2 * p0[1] + 2 * (1 - t) * t * c[1] + t * t * p2[1]]); return pts;
+  }
+  const flows = A.filter(a => a.km != null), births = A.filter(a => a.blat != null), acts = A.filter(a => a.plat != null);
+  const lines = flows.map(a => { const l = L.polyline(curve(a), { renderer: lineR, weight: 1.3, opacity: .55 }); l.on("click", e => { L.DomEvent.stop(e); select(a, false); }); l.a = a; return l; });
+  const bdots = births.map(a => { const m = L.circleMarker([a.blat, a.blon], { renderer: bgR, radius: 2.2, weight: 0, fillOpacity: .5 }); m.on("click", e => { L.DomEvent.stop(e); select(a, false); }); m.a = a; return m; });
+  const adots = acts.map(a => { const m = L.circleMarker([a.plat, a.plon], { renderer: dotR, radius: 3.6, weight: 1, fillOpacity: .95 }); m.on("click", e => { L.DomEvent.stop(e); select(a, false); }); m.a = a; return m; });
+  const hdots = flows.map(a => { const m = L.circleMarker([a.blat, a.blon], { renderer: dotR, radius: 2.4, weight: 0, fillOpacity: .9 }); m.on("click", e => { L.DomEvent.stop(e); select(a, false); }); m.a = a; return m; });
+  const selLayer = L.layerGroup().addTo(map);
+  const vis = a => (gsel < 0 || a.g === gsel) && a.year <= yr;
+  function draw() {
+    let nf = 0, nb = 0, na = 0;
+    lines.forEach(l => { const a = l.a, v = vis(a); if (v) { nf++; l.setStyle({ color: col(`--c${a.g}`), opacity: a.year === yr && playing ? .95 : (sel ? .18 : .55), weight: a.year === yr && playing ? 2.2 : 1.3 }); if (!map.hasLayer(l)) l.addTo(map); } else if (map.hasLayer(l)) map.removeLayer(l); });
+    bdots.forEach(m => { const v = all && vis(m.a); if (v) { nb++; m.setStyle({ fillColor: col("--dot") }); if (!map.hasLayer(m)) m.addTo(map); } else if (map.hasLayer(m)) map.removeLayer(m); });
+    hdots.forEach(m => { const v = vis(m.a); if (v) { m.setStyle({ fillColor: col("--fg") }); if (!map.hasLayer(m)) m.addTo(map); } else if (map.hasLayer(m)) map.removeLayer(m); });
+    adots.forEach(m => { const v = vis(m.a); if (v) { na++; m.setStyle({ fillColor: col(`--c${m.a.g}`), color: col("--bg") }); if (!map.hasLayer(m)) m.addTo(map); } else if (map.hasLayer(m)) map.removeLayer(m); });
+    const nAll = A.filter(vis).length;
+    document.getElementById("count").textContent = `Showing ${fmt(nAll)} awards up to ${yr}${gsel >= 0 ? " in " + G[gsel][1] : ""}: ${fmt(na)} with a located place of action, ${fmt(nf)} with both ends located${all ? ", and " + fmt(nb) + " birthplaces" : ""}.`;
+  }
+  function legend() {
+    document.getElementById("legend").innerHTML = `<span><i style="background:var(--fg)"></i>Birthplace</span><span><i style="background:var(--hot);outline:1px solid var(--bg)"></i>Place of action (colour = conflict)</span>` + (all ? `<span><i style="background:var(--dot)"></i>Other birthplaces</span>` : "");
+  }
+  function select(a, fly) {
+    sel = a; selLayer.clearLayers();
+    if (!a) { card.className = "card empty"; card.textContent = "Tap a line, a birthplace or a place of action to see who it was."; draw(); return; }
+    card.className = "card"; card.style.borderLeftColor = GC(a.g); card.innerHTML = personHtml(a);
+    const pts = [];
+    if (a.blat != null) { pts.push([a.blat, a.blon]); L.circleMarker([a.blat, a.blon], { renderer: dotR, radius: 6, color: col("--fg"), weight: 2, fillColor: col("--bg"), fillOpacity: 1, interactive: false }).addTo(selLayer); }
+    if (a.plat != null) { pts.push([a.plat, a.plon]); L.circleMarker([a.plat, a.plon], { renderer: dotR, radius: 7, color: col("--fg"), weight: 2, fillColor: col(`--c${a.g}`), fillOpacity: 1, interactive: false }).addTo(selLayer); }
+    if (a.km != null) { L.polyline(curve(a), { renderer: dotR, color: col("--fg"), weight: 4.5, opacity: .9, interactive: false }).addTo(selLayer); L.polyline(curve(a), { renderer: dotR, color: col(`--c${a.g}`), weight: 2.6, opacity: 1, interactive: false }).addTo(selLayer); }
+    draw();
+    if (fly && pts.length) { if (pts.length === 2) map.flyToBounds(L.latLngBounds(pts).pad(.3), { duration: reduce ? 0 : .8, maxZoom: 7 }); else map.flyTo(pts[0], 6, { duration: reduce ? 0 : .8 }); }
+  }
+  window.__selectByTitle = (t) => { const a = A.find(x => x.title === t); if (a) { if (a.year > yr) { yr = a.year; document.getElementById("yr").value = yr; document.getElementById("yro").textContent = yr; } if (gsel >= 0 && a.g !== gsel) setG(-1); if (a.blat != null && a.plat == null && !all) { all = true; ball.setAttribute("aria-pressed", true); legend(); } select(a, true); document.getElementById("map").scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "center" }); } };
+  window.__select = (n) => { const a = A.find(x => x.name.startsWith(n)); if (a) select(a, true); return !!a; };
+  /* conflict chips */
+  const chips = document.getElementById("chips");
+  const mk = (i, label) => { const b = document.createElement("button"); b.className = "btn"; b.dataset.g = i; b.setAttribute("aria-pressed", i === -1); b.innerHTML = (i >= 0 ? `<i style="background:${GC(i)}"></i>` : "") + esc(label); b.onclick = () => setG(i); chips.appendChild(b); };
+  mk(-1, "All conflicts"); G.forEach(([k, n], i) => mk(i, n));
+  function setG(i) { gsel = i; chips.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", +b.dataset.g === i)); draw(); }
+  const yrI = document.getElementById("yr"), yro = document.getElementById("yro"), play = document.getElementById("play");
+  yrI.oninput = () => { yr = +yrI.value; yro.textContent = yr; draw(); };
+  function stop() { clearInterval(playing); playing = null; play.textContent = "▶ Play"; draw(); }
+  play.onclick = () => { if (playing) return stop(); if (yr >= +yrI.max) yr = +yrI.min - 1; play.textContent = "❚❚ Pause";
+    playing = setInterval(() => { yr++; if (yr > +yrI.max) { yr = +yrI.max; yrI.value = yr; yro.textContent = yr; return stop(); } yrI.value = yr; yro.textContent = yr; draw(); }, reduce ? 20 : 110); };
+  const ball = document.getElementById("ball"); ball.onclick = () => { all = !all; ball.setAttribute("aria-pressed", all); legend(); draw(); };
+  const dl = document.getElementById("names"); [...A].sort((a, b) => a.name.localeCompare(b.name)).forEach(a => { const o = document.createElement("option"); o.value = a.name + (a.award_no ? "" : ""); dl.appendChild(o); });
+  const q = document.getElementById("q"); q.addEventListener("change", () => { const v = q.value.trim().toLowerCase(); if (!v) return; const a = A.find(s => s.name.toLowerCase() === v) || A.find(s => s.name.toLowerCase().includes(v)); if (a) window.__selectByTitle(a.title); });
+  map.on("click", () => select(null));
+  /* hot spots */
+  const hot = document.getElementById("hot");
+  R.hotspots.slice(0, 12).forEach((h, i) => { const li = document.createElement("li"); li.tabIndex = 0; li.innerHTML = `<span class="r">${i + 1}</span><span class="nm">${esc(h.names.slice(0, 3).join(", "))}</span><span class="v">${h.n}</span>`; const go = () => { map.flyTo([h.lat, h.lon], 8, { duration: reduce ? 0 : .8 }); }; li.onclick = go; li.onkeydown = e => { if (e.key === "Enter") go(); }; hot.appendChild(li); });
+  window.__restyle = () => { for (const k in C) delete C[k]; tiles.setUrl(tileUrl()); draw(); if (sel) select(sel, false); };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", window.__restyle);
+  window.__play = () => play.click(); window.__setG = setG; window.__all = () => ball.click(); window.__map = map;
+  legend(); draw();
+})();
+
+/* ===== conflict legend ===== */
+document.getElementById("glegend").innerHTML = G.map(([k, n], i) => `<span><i style="background:${GC(i)}"></i>${esc(n)}</span>`).join("");
+document.getElementById("blegend").innerHTML = BG.slice(0, 11).map((n, i) => `<span><i style="background:${BC(i)}"></i>${esc(n)}</span>`).join("");
+
+/* ===== awards by year ===== */
+resp(document.getElementById("years"), (W, nar) => {
+  const y0 = R.counts.first_year, y1 = R.counts.last_year, H = nar ? 230 : 260, m = { l: 36, r: 8, t: 12, b: 30 };
+  const cnt = {}; A.forEach(a => { (cnt[a.year] ||= Array(G.length).fill(0))[a.g]++; });
+  const max = Math.ceil(R.peak_year.awards / 50) * 50, bw = (W - m.l - m.r) / (y1 - y0 + 1), X = y => m.l + (y - y0) * bw, Y = v => H - m.b - v / max * (H - m.t - m.b);
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Victoria Crosses by year of the deed, 1854 to 2013" }, document.getElementById("years"));
+  for (let t = 0; t <= max; t += 50) { el("line", { x1: m.l, x2: W - m.r, y1: Y(t), y2: Y(t), stroke: "var(--rule)" }, svg); lbl(svg, m.l - 6, Y(t) + 4, t, "lab m s", "end"); }
+  for (let y = 1860; y <= y1; y += nar ? 30 : 20) lbl(svg, X(y) + bw / 2, H - m.b + 16, y, "lab m s", "middle");
+  Object.entries(cnt).forEach(([y, c]) => { let acc = 0; const tot = c.reduce((s, v) => s + v, 0);
+    c.forEach((v, gi) => { if (!v) return; el("rect", { x: X(+y), y: Y(acc + v), width: Math.max(1, bw * .86), height: Y(acc) - Y(acc + v), fill: GC(gi) }, svg); acc += v; });
+    const hit = el("rect", { x: X(+y) - 1, y: m.t, width: Math.max(4, bw), height: H - m.t - m.b, fill: "transparent" }, svg);
+    hover(hit, `<b>${y}</b><br>${fmt(tot)} award${tot > 1 ? "s" : ""}<br>` + c.map((v, gi) => v ? `${G[gi][1]}: ${v}` : "").filter(Boolean).join("<br>")); });
+  [[R.peak_year.year, R.peak_year.awards, "1918: " + R.peak_year.awards]].forEach(([y, v, s]) => lbl(svg, X(y) + (nar ? -4 : 6), Y(v) + 10, s, "lab b s", nar ? "end" : "start"));
+});
+
+/* ===== birth mix by conflict ===== */
+resp(document.getElementById("eras"), (W, nar) => {
+  const rowH = nar ? 44 : 34, m = { l: nar ? 0 : 196, r: 8, t: 4, b: 22 }, H = G.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Birthplace of recipients by conflict period" }, document.getElementById("eras"));
+  const X = v => m.l + v * (W - m.l - m.r);
+  G.forEach(([k, n], i) => { const row = R.birth_by_group[k], tot = row.total, y = m.t + i * rowH + (nar ? 16 : 6);
+    lbl(svg, nar ? 0 : m.l - 10, nar ? y - 4 : y + 15, `${n} (${tot})`, "lab", nar ? "start" : "end");
+    let acc = 0; R.birth_group_order.forEach((b, bi) => { const v = row[b]; if (!v) return; const w = v / tot;
+      const r = el("rect", { x: X(acc), y, width: Math.max(.5, X(acc + w) - X(acc) - .5), height: rowH - (nar ? 22 : 12), fill: BC(bi) }, svg);
+      hover(r, `<b>${n}</b><br>Born in ${b}: ${v} of ${tot} (${pc(w)})`); acc += w; }); });
+  [0, .25, .5, .75, 1].forEach(t => lbl(svg, X(t), H - 4, pc(t), "lab m s", t === 0 ? "start" : t === 1 ? "end" : "middle"));
+});
+
+/* ===== counties ===== */
+resp(document.getElementById("counties"), (W, nar) => {
+  const rows = R.top_counties.slice(0, 15), rowH = 24, m = { l: nar ? 150 : 180, r: 40, t: 4, b: 8 }, H = rows.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Recipients born in each county, top 15" }, document.getElementById("counties"));
+  const max = rows[0].n, X = v => m.l + v / max * (W - m.l - m.r);
+  const LAN = ["Lancashire", "Greater Manchester", "Merseyside"];
+  rows.forEach((r, i) => { const y = m.t + i * rowH; lbl(svg, m.l - 8, y + 16, r.county, "lab", "end");
+    const b = el("rect", { x: m.l, y: y + 4, width: X(r.n) - m.l, height: rowH - 8, fill: LAN.includes(r.county) ? "var(--hot)" : "var(--bronze)", opacity: .9 }, svg);
+    hover(b, `<b>${r.county}</b><br>${r.n} recipients born here`); lbl(svg, X(r.n) + 6, y + 16, r.n, "lab b s"); });
+});
+
+/* ===== regions ===== */
+resp(document.getElementById("regions"), (W, nar) => {
+  const rows = R.regions.filter(r => r.region !== "Other"), rowH = nar ? 40 : 26, m = { l: nar ? 0 : 250, r: 40, t: 4, b: 6 }, H = rows.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Awards by region of the deed" }, document.getElementById("regions"));
+  const max = Math.max(...rows.map(r => r.awards)), X = v => m.l + v / max * (W - m.l - m.r - (nar ? 0 : 0));
+  rows.forEach((r, i) => { const y = m.t + i * rowH + (nar ? 14 : 0); lbl(svg, nar ? 0 : m.l - 8, nar ? y - 2 : y + 16, r.region, "lab", nar ? "start" : "end");
+    const b1 = el("rect", { x: m.l, y: y + 4, width: X(r.from_place) - m.l, height: (nar ? 16 : rowH - 8), fill: "var(--hot)" }, svg);
+    const b2 = el("rect", { x: X(r.from_place), y: y + 4, width: X(r.awards) - X(r.from_place), height: (nar ? 16 : rowH - 8), fill: "var(--hot)", opacity: .3 }, svg);
+    [b1, b2].forEach(b => hover(b, `<b>${r.region}</b><br>${r.awards} awards: ${r.from_place} from a located place, ${r.awards - r.from_place} from the campaign`));
+    lbl(svg, X(r.awards) + 6, y + (nar ? 17 : 16), r.awards, "lab b s"); });
+});
+
+/* ===== distance strip ===== */
+resp(document.getElementById("dist"), (W, nar) => {
+  const groups = R.distance_by_birth, rowH = nar ? 46 : 40, m = { l: nar ? 0 : 128, r: 14, t: 6, b: 34 }, H = groups.length * rowH + m.t + m.b;
+  const svg = el("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "Distance from birthplace to place of action, by place of birth" }, document.getElementById("dist"));
+  const lo = Math.log10(50), hi = Math.log10(25000), X = v => m.l + (Math.log10(Math.max(50, v)) - lo) / (hi - lo) * (W - m.l - m.r);
+  [100, 300, 1000, 3000, 10000, 20000].forEach(t => { el("line", { x1: X(t), x2: X(t), y1: m.t, y2: H - m.b, stroke: "var(--rule)" }, svg); lbl(svg, X(t), H - m.b + 15, t >= 1000 ? (t / 1000) + "k" : t, "lab m s", "middle"); });
+  lbl(svg, (W + m.l) / 2, H - 4, "Kilometres from birthplace (log scale; under 50 km drawn at 50)", "lab m s", "middle");
+  groups.forEach((gr, i) => { const y = m.t + i * rowH + (nar ? 24 : 20), bi = BG.indexOf(gr.group);
+    lbl(svg, nar ? 0 : m.l - 10, nar ? y - 14 : y + 4, `${gr.group} (${gr.n})`, "lab", nar ? "start" : "end");
+    el("line", { x1: X(gr.q25), x2: X(gr.q75), y1: y, y2: y, stroke: "var(--fg)", "stroke-width": 7, opacity: .12 }, svg);
+    A.filter(a => a.km != null && a.bg === bi).forEach((a, j) => { const c = el("circle", { cx: X(a.km), cy: y + (((a.i * 7919) % 13) - 6) * (nar ? 1.3 : 1.2), r: 2.8, fill: GC(a.g), opacity: .8 }, svg); hover(c, `<b>${esc(a.name)}</b><br>${esc(a.born)} to ${esc(a.place)}<br>${a.year} · ${fmt(a.km)} km`, () => window.__selectByTitle && window.__selectByTitle(a.title)); });
+    el("line", { x1: X(gr.median), x2: X(gr.median), y1: y - 11, y2: y + 11, stroke: "var(--fg)", "stroke-width": 2.4 }, svg); });
+});
+
+/* ===== Lancashire table ===== */
+(() => { const t = document.getElementById("lanc");
+  t.innerHTML = `<thead><tr><th>Year</th><th>Name</th><th>Born</th><th>Conflict</th></tr></thead><tbody>` +
+    R.lancashire.people.map(p => `<tr><td>${p.year}</td><td><a href="#map" data-t="${esc(p.article)}">${esc(p.name)}</a>${p.posthumous ? "*" : ""}</td><td>${esc(p.born)}</td><td>${esc(p.campaign)}</td></tr>`).join("") + "</tbody>";
+  t.querySelectorAll("a[data-t]").forEach(a => a.onclick = e => { e.preventDefault(); window.__selectByTitle && window.__selectByTitle(a.dataset.t); });
+})();
+</script>
+</body>
+</html>
